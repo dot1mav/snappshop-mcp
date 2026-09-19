@@ -50,7 +50,7 @@ Add the following to your `claude_desktop_config.json` (usually located at `%APP
   "mcpServers": {
     "snappshop-local": {
       "command": "python",
-      "args": ["C:/Users/dot1mav/Documents/GitHub/snappshop-mcp/server.py"]
+      "args": ["C:/path/to/snappshop-mcp/server.py"]
     }
   }
 }
