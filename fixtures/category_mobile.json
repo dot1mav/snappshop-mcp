@@ -1,0 +1,1153 @@
+{
+ "status": true,
+ "data": {
+  "structure": [
+   {
+    "id": "vb2AGNY",
+    "section_type": "plp",
+    "uuid": "b7e3a772-b420-11f1-8e87-ea08146ff45c",
+    "is_descriptive": false,
+    "items": [
+     {
+      "id": "LZmyW4",
+      "title": "هندزفری بلوتوثی انکر مدل Soundcore R50i",
+      "price": {
+       "price": 2430000
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/db/ab/9d3e5e08-ac01-4168-bcea-85fb771ddbab.jpg",
+       "alt": "هندزفری بلوتوثی انکر مدل Soundcore R50i"
+      },
+      "colors": [
+       {
+        "id": "kqE3g8",
+        "title": "صورتی",
+        "code": "#ec6597"
+       },
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "5Do501",
+        "title": "سرمه ای",
+        "code": "#1d294f"
+       },
+       {
+        "id": "EqO1gy",
+        "title": "سفید",
+        "code": "#FFFFFF"
+       },
+       {
+        "id": "609y09",
+        "title": "آبی",
+        "code": "#5CC4EE"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1327041642",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "0MraVj",
+      "title": "قرص مکمل جلوگیری از ریزش موی فولیکوژن شرکت اروند فارمد بسته 60 عددی",
+      "price": {
+       "price": 1960200,
+       "discounted_price": 740000,
+       "discount": 63,
+       "start_at": "2026-09-19 10:41:10",
+       "end_at": "2026-10-19 10:41:10"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/fa/32/a2435eef-fd1e-4253-b5f4-6e42754cfa32.png",
+       "alt": "قرص مکمل جلوگیری از ریزش موی فولیکوژن شرکت اروند فارمد بسته 60 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-299231101",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "0WdnlY",
+      "title": "قرص مکمل منیزیم مگنیفورت آرین سلامت سینا بسته 32 عددی",
+      "price": {
+       "price": 535000,
+       "discounted_price": 265000,
+       "discount": 51,
+       "start_at": "2026-09-19 10:32:52",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/70/81/0/product_image/zoodfood/6395e7b4bbda5.jpg",
+       "alt": "قرص مکمل منیزیم مگنیفورت آرین سلامت سینا بسته 32 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1222938263",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "q7Rw9N",
+      "title": "قرص ویتامین دی 1000 میلی گرم هلث اید بسته 30 عددی",
+      "price": {
+       "price": 214000,
+       "discounted_price": 59000,
+       "discount": 73,
+       "start_at": "2026-09-19 11:13:30",
+       "end_at": "2027-02-09 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/70/81/0/product_image/zoodfood/63a70c9833b77.jpg",
+       "alt": "قرص ویتامین دی 1000 میلی گرم هلث اید بسته 30 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-11434066",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "zaX4Xp",
+      "title": "کپسول مگنیفورت منیزیم هولیستیکا بسته 32 عددی",
+      "price": {
+       "price": 538000,
+       "discounted_price": 243200,
+       "discount": 55,
+       "start_at": "2026-09-19 11:40:00",
+       "end_at": "2027-02-09 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/10/a4/9eb0ae81-b924-4f64-bb17-1aefc06b10a4.jpg",
+       "alt": "کپسول مگنیفورت منیزیم هولیستیکا بسته 32 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-232870092",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "81MEew",
+      "title": "سکه گرمی طلا 18 عیار پارسیان امین زر کد 003",
+      "price": {
+       "price": 1098000,
+       "discounted_price": 953300,
+       "discount": 14,
+       "start_at": "2026-09-17 09:31:00",
+       "end_at": "2026-10-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/8f/13/9cebb083-c0b7-46c4-97ce-831c13398f13.jpg",
+       "alt": "سکه گرمی طلا 18 عیار پارسیان امین زر کد 003"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1110055605",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "D5EXbM",
+      "title": "سافت ژل امگا 3 ویتامینز 1000 میلی گرمی نکستایل بسته 60 عددی",
+      "price": {
+       "price": 1180000,
+       "discounted_price": 510000,
+       "discount": 57,
+       "start_at": "2026-09-19 10:41:14",
+       "end_at": "2026-10-19 10:41:14"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/80/63/a21fd5f1-d051-484c-8e7f-4b9d8a1b8063.png",
+       "alt": "سافت ژل امگا 3 ویتامینز 1000 میلی گرمی نکستایل بسته 60 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1344820523",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "g3A9Ge",
+      "title": "فلویید ضد آفتاب مای مدل Hyaluronic Acid حجم 50 میلی لیتر",
+      "price": {
+       "price": 683000
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/3a/13/9f7327d1-313a-4d1a-abbc-a8a59e8e3a13.jpg",
+       "alt": "فلویید ضد آفتاب مای مدل Hyaluronic Acid حجم 50 میلی لیتر"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-2053862712",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "23kdYL",
+      "title": "سکه گرمی طلا 18 عیار پارسیان الن نار مدل EL100",
+      "price": {
+       "price": 1323060,
+       "discounted_price": 1296598,
+       "discount": 3,
+       "start_at": "2026-09-19 10:41:00",
+       "end_at": "2026-10-20 10:41:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/21/b1/a0749e0b-3dfa-4715-a13e-86e169bc21b1.jpg",
+       "alt": "سکه گرمی طلا 18 عیار پارسیان الن نار مدل EL100"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1378039670",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "DYmEJr",
+      "title": "قرص ویتامین د3 یوروویتال 1000 واحدی بسته 60 عددی",
+      "price": {
+       "price": 242000,
+       "discounted_price": 107200,
+       "discount": 56,
+       "start_at": "2026-09-19 13:02:02",
+       "end_at": "2026-10-06 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/70/81/0/product_image/zoodfood/63b18ec01da33.jpg",
+       "alt": "قرص ویتامین د3 یوروویتال 1000 واحدی بسته 60 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-251907971",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "QdN9nA",
+      "title": "ماسک صورت بایودنس مدل Collagen وزن 34 گرم",
+      "price": {
+       "price": 250000,
+       "discounted_price": 175000,
+       "discount": 30,
+       "start_at": "2026-09-07 01:02:17",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/2a/9e/9e239b26-f2ed-47fb-a7e3-c69529862a9e.jpg",
+       "alt": "ماسک صورت بایودنس مدل Collagen وزن 34 گرم"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1862523469",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "gNaz4M",
+      "title": "کپسول تقویت سیستم ایمنی بدن پاورفیت هولیستیکا بسته 32 عددی",
+      "price": {
+       "price": 832000,
+       "discounted_price": 314000,
+       "discount": 63,
+       "start_at": "2026-09-12 16:02:26",
+       "end_at": "2026-10-12 16:02:26"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/70/81/0/product_image/zoodfood/639db84c76009.jpg",
+       "alt": "کپسول تقویت سیستم ایمنی بدن پاورفیت هولیستیکا بسته 32 عددی"
+      },
+      "colors": null,
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-2147262219",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     }
+    ],
+    "sort": [
+     {
+      "id": "J0Wxq8",
+      "title": "پربازدیدترین",
+      "is_selected": false
+     },
+     {
+      "id": "x0QZq8",
+      "title": "کمترین قیمت",
+      "is_selected": false
+     },
+     {
+      "id": "lgwWgo",
+      "title": "بیشترین قیمت",
+      "is_selected": false
+     },
+     {
+      "id": "60rdDw",
+      "title": "پیشنهاد خریداران",
+      "is_selected": false
+     },
+     {
+      "id": "50aLgW",
+      "title": "پرفروش ترین",
+      "is_selected": false
+     },
+     {
+      "id": "5DzQq4",
+      "title": "بیشترین تخفیف",
+      "is_selected": false
+     }
+    ],
+    "filter": [
+     {
+      "filter_id": "brands",
+      "filter_type": "multiple_select",
+      "title": "برند",
+      "items": [
+       {
+        "id": "gR9GMD",
+        "title": "شیائومی",
+        "second_title": "Xiaomi",
+        "is_selected": false
+       },
+       {
+        "id": "04lL30",
+        "title": "سامسونگ",
+        "second_title": "Samsung",
+        "is_selected": false
+       },
+       {
+        "id": "gy3pJq",
+        "title": "الن نار",
+        "second_title": "ELEN NAR",
+        "is_selected": false
+       },
+       {
+        "id": "0K4JMq",
+        "title": "بیول",
+        "second_title": "Biol",
+        "is_selected": false
+       },
+       {
+        "id": "g81VO0",
+        "title": "تسکو",
+        "second_title": "Tsco",
+        "is_selected": false
+       },
+       {
+        "id": "gGA86q",
+        "title": "یونیک",
+        "second_title": "Unique",
+        "is_selected": false
+       },
+       {
+        "id": "geoaMq",
+        "title": "چیکال",
+        "second_title": "Chikal",
+        "is_selected": false
+       },
+       {
+        "id": "gAYkNg",
+        "title": "فیلیپس",
+        "second_title": "Philips",
+        "is_selected": false
+       },
+       {
+        "id": "qPdZRq",
+        "title": "رونیکس",
+        "second_title": "Ronix",
+        "is_selected": false
+       },
+       {
+        "id": "gyaeog",
+        "title": "مک دودو",
+        "second_title": "Mcdodo",
+        "is_selected": false
+       },
+       {
+        "id": "0d88b0",
+        "title": "نشر چشمه",
+        "second_title": "Cheshmeh Pub",
+        "is_selected": false
+       },
+       {
+        "id": "gejl10",
+        "title": "شمیم گلد گالری",
+        "second_title": "Shamim Gold Gallery",
+        "is_selected": false
+       },
+       {
+        "id": "0aL25g",
+        "title": "گرین لاین",
+        "second_title": "Green Lion",
+        "is_selected": false
+       },
+       {
+        "id": "qZPBkg",
+        "title": "لورآل",
+        "second_title": "Loreal",
+        "is_selected": false
+       },
+       {
+        "id": "60rEYg",
+        "title": "لیمون",
+        "second_title": "Limon",
+        "is_selected": false
+       },
+       {
+        "id": "0dAlLq",
+        "title": "لیردا",
+        "second_title": "Lirda",
+        "is_selected": false
+       },
+       {
+        "id": "gyajOg",
+        "title": "سامورایی",
+        "second_title": "Samurai",
+        "is_selected": false
+       },
+       {
+        "id": "q7rXn0",
+        "title": "ماییلدا",
+        "second_title": "Mayilda",
+        "is_selected": false
+       },
+       {
+        "id": "qP3KQ0",
+        "title": "اسکمی",
+        "second_title": "Skmei",
+        "is_selected": false
+       },
+       {
+        "id": "09O7ED",
+        "title": "نیوی فورس",
+        "second_title": "NAVIFORCE",
+        "is_selected": false
+       },
+       {
+        "id": "4DBQaq",
+        "title": "ایفل",
+        "second_title": "Eyfel",
+        "is_selected": false
+       },
+       {
+        "id": "Dxd8zD",
+        "title": "السانا",
+        "second_title": "Elsana",
+        "is_selected": false
+       },
+       {
+        "id": "qJwOjD",
+        "title": "انتشارات پرتقال",
+        "second_title": "Porteghal Pub",
+        "is_selected": false
+       },
+       {
+        "id": "09jR2q",
+        "title": "اقلیمه",
+        "second_title": "Eghlimeh",
+        "is_selected": false
+       },
+       {
+        "id": "gyLXyD",
+        "title": "هامتو",
+        "second_title": "Humtto",
+        "is_selected": false
+       },
+       {
+        "id": "0MEQw0",
+        "title": "بکلیت",
+        "second_title": "Backlit",
+        "is_selected": false
+       },
+       {
+        "id": "0dLN40",
+        "title": "بوش",
+        "second_title": "Bosch",
+        "is_selected": false
+       },
+       {
+        "id": "D5XRbq",
+        "title": "انتشارات قدیانی",
+        "second_title": "Ghadyani Pub",
+        "is_selected": false
+       },
+       {
+        "id": "gwW5Wg",
+        "title": "بیسوس",
+        "second_title": "Baseus",
+        "is_selected": false
+       },
+       {
+        "id": "Dj8lW0",
+        "title": "وارون",
+        "second_title": "Varun",
+        "is_selected": false
+       },
+       {
+        "id": "gepr8D",
+        "title": "ژوپینگ",
+        "second_title": "Xuping",
+        "is_selected": false
+       },
+       {
+        "id": "02114g",
+        "title": "نشر افق",
+        "second_title": "Ofoq Pub",
+        "is_selected": false
+       },
+       {
+        "id": "qJxvng",
+        "title": "بابل کارپت",
+        "second_title": "Babol Carpet",
+        "is_selected": false
+       },
+       {
+        "id": "0VxznD",
+        "title": "پانیذ",
+        "second_title": "Paniz",
+        "is_selected": false
+       },
+       {
+        "id": "qEnEXD",
+        "title": "میتوبل",
+        "second_title": "Mietubl",
+        "is_selected": false
+       },
+       {
+        "id": "DYEmzD",
+        "title": "انتشارات خیلی سبز",
+        "second_title": "Kheilisabz Pub",
+        "is_selected": false
+       },
+       {
+        "id": "D5Kbk0",
+        "title": "ناب سل",
+        "second_title": "Naabsell",
+        "is_selected": false
+       },
+       {
+        "id": "0M38xD",
+        "title": "رنس",
+        "second_title": "Rence",
+        "is_selected": false
+       },
+       {
+        "id": "qJxzBg",
+        "title": "برنس",
+        "second_title": "Bornos",
+        "is_selected": false
+       },
+       {
+        "id": "0WAWxD",
+        "title": "ریمکس",
+        "second_title": "Remax",
+        "is_selected": false
+       },
+       {
+        "id": "0QAEk0",
+        "title": "مگافون",
+        "second_title": "Megafone",
+        "is_selected": false
+       },
+       {
+        "id": "0Xkjlg",
+        "title": "پاد آفرین",
+        "second_title": "Pod Afarin",
+        "is_selected": false
+       },
+       {
+        "id": "gNvQ1g",
+        "title": "ترمه طراحان ایده",
+        "second_title": "Terme Tarrahan Ide",
+        "is_selected": false
+       },
+       {
+        "id": "q7jv60",
+        "title": "اپیکوی",
+        "second_title": "Epicoy",
+        "is_selected": false
+       },
+       {
+        "id": "gpOW4D",
+        "title": "لنوو",
+        "second_title": "Lenovo",
+        "is_selected": false
+       },
+       {
+        "id": "09zAvq",
+        "title": "کاسیو",
+        "second_title": "Casio",
+        "is_selected": false
+       },
+       {
+        "id": "0dG24g",
+        "title": "چشمه نور",
+        "second_title": "Cheshme Noor",
+        "is_selected": false
+       },
+       {
+        "id": "g8eA40",
+        "title": "دکسونری",
+        "second_title": "Dexonary",
+        "is_selected": false
+       },
+       {
+        "id": "qO52Xg",
+        "title": "انتشارات جنگل",
+        "second_title": "Jangal Pub",
+        "is_selected": false
+       },
+       {
+        "id": "qZLndg",
+        "title": "لاژید",
+        "second_title": "Lazhid",
+        "is_selected": false
+       },
+       {
+        "id": "dq6KAD",
+        "title": "ال سی وایکیکی",
+        "second_title": "Lc Waikiki",
+        "is_selected": false
+       },
+       {
+        "id": "q6WdzD",
+        "title": "ایسوس",
+        "second_title": "Asus",
+        "is_selected": false
+       },
+       {
+        "id": "0Xa7zq",
+        "title": "نیلکین",
+        "second_title": "Nillkin",
+        "is_selected": false
+       },
+       {
+        "id": "q7jYL0",
+        "title": "هوکو",
+        "second_title": "Hoco",
+        "is_selected": false
+       },
+       {
+        "id": "qlOpQ0",
+        "title": "نوپه هوم",
+        "second_title": "Nope Home",
+        "is_selected": false
+       },
+       {
+        "id": "q6WrXD",
+        "title": "دلتا",
+        "second_title": "Delta",
+        "is_selected": false
+       },
+       {
+        "id": "0rGNYq",
+        "title": "انتشارات سوره مهر",
+        "second_title": "Soore Mehr Pub",
+        "is_selected": false
+       },
+       {
+        "id": "0VozKq",
+        "title": "موناکو",
+        "second_title": "Monaco",
+        "is_selected": false
+       },
+       {
+        "id": "gAb7K0",
+        "title": "مورفی",
+        "second_title": "Morphie",
+        "is_selected": false
+       },
+       {
+        "id": "0Wx7Yq",
+        "title": "27",
+        "second_title": "27",
+        "is_selected": false
+       },
+       {
+        "id": "g812x0",
+        "title": "بوف",
+        "second_title": "Buff",
+        "is_selected": false
+       },
+       {
+        "id": "ODYv3g",
+        "title": "گلدن هورس",
+        "second_title": "Golden Horse",
+        "is_selected": false
+       },
+       {
+        "id": "qZLPdg",
+        "title": "درمه",
+        "second_title": "Dorme",
+        "is_selected": false
+       },
+       {
+        "id": "DzopMg",
+        "title": "کرابو",
+        "second_title": "Krabo",
+        "is_selected": false
+       },
+       {
+        "id": "qZA4r0",
+        "title": "ایبیزا",
+        "second_title": "Ibiza",
+        "is_selected": false
+       },
+       {
+        "id": "qnLJpg",
+        "title": "آسدا",
+        "second_title": "Asda",
+        "is_selected": false
+       },
+       {
+        "id": "0QvpBq",
+        "title": "زیو",
+        "second_title": "zio",
+        "is_selected": false
+       },
+       {
+        "id": "qJprZg",
+        "title": "صاد",
+        "second_title": "Saad",
+        "is_selected": false
+       },
+       {
+        "id": "0djBpD",
+        "title": "خندالو",
+        "second_title": "Khandaloo",
+        "is_selected": false
+       },
+       {
+        "id": "qZKajD",
+        "title": "دیامانته",
+        "second_title": "diamante",
+        "is_selected": false
+       },
+       {
+        "id": "qEOV8g",
+        "title": "ریکام",
+        "second_title": "Ricomm",
+        "is_selected": false
+       },
+       {
+        "id": "gvZ7Lg",
+        "title": "بامبیلیپ",
+        "second_title": "Bambilip",
+        "is_selected": false
+       },
+       {
+        "id": "gpb4Qq",
+        "title": "ترمه ۱",
+        "second_title": "Termeh 1",
+        "is_selected": false
+       },
+       {
+        "id": "gy3bwq",
+        "title": "گارد ایکس",
+        "second_title": "Guard X",
+        "is_selected": false
+       },
+       {
+        "id": "DokjQD",
+        "title": "اچ وی تی",
+        "second_title": "HVT",
+        "is_selected": false
+       },
+       {
+        "id": "DYk3K0",
+        "title": "مدوپد",
+        "second_title": "Modopod",
+        "is_selected": false
+       },
+       {
+        "id": "D5VPAg",
+        "title": "راک اسپیس",
+        "second_title": "Rock Space",
+        "is_selected": false
+       },
+       {
+        "id": "Pg89Q0",
+        "title": "مایا ماهک",
+        "second_title": "Maya Maahak",
+        "is_selected": false
+       },
+       {
+        "id": "g3abZq",
+        "title": "لئون",
+        "second_title": "leon",
+        "is_selected": false
+       },
+       {
+        "id": "qOLP2D",
+        "title": "زیفرند",
+        "second_title": "Zifriend",
+        "is_selected": false
+       },
+       {
+        "id": "qP93MD",
+        "title": "کینگ کونگ",
+        "second_title": "King Kong",
+        "is_selected": false
+       },
+       {
+        "id": "0djabD",
+        "title": "گيلواره زراوشان",
+        "second_title": "gilvareh zaravoshan",
+        "is_selected": false
+       },
+       {
+        "id": "DYERvD",
+        "title": "گودزیلا",
+        "second_title": "Godzilla",
+        "is_selected": false
+       },
+       {
+        "id": "D5KrV0",
+        "title": "هایکا",
+        "second_title": "Hayka",
+        "is_selected": false
+       },
+       {
+        "id": "gNOdL0",
+        "title": "سی پرشیا",
+        "second_title": "CPersia",
+        "is_selected": false
+       },
+       {
+        "id": "q7noJ0",
+        "title": "هومرو",
+        "second_title": "Hoomero",
+        "is_selected": false
+       },
+       {
+        "id": "Do7vbD",
+        "title": "عصر بوژان",
+        "second_title": "Asrebojan",
+        "is_selected": false
+       },
+       {
+        "id": "qZkB3D",
+        "title": "اطلس آبی",
+        "second_title": "ATLAS ABI",
+        "is_selected": false
+       },
+       {
+        "id": "0aLROg",
+        "title": "کی اچ",
+        "second_title": "Kh",
+        "is_selected": false
+       },
+       {
+        "id": "gGnK6D",
+        "title": "لایونکس",
+        "second_title": "Lionex",
+        "is_selected": false
+       },
+       {
+        "id": "gpQvw0",
+        "title": "انتشارات بله",
+        "second_title": "bale Publishers",
+        "is_selected": false
+       },
+       {
+        "id": "0W6GOg",
+        "title": "تراستکتور",
+        "second_title": "Trustector",
+        "is_selected": false
+       },
+       {
+        "id": "qP99RD",
+        "title": "زیزیپ",
+        "second_title": "Zeezip",
+        "is_selected": false
+       },
+       {
+        "id": "0rjjd0",
+        "title": "گیگا کاور",
+        "second_title": "Giga Cover",
+        "is_selected": false
+       },
+       {
+        "id": "g3VX8D",
+        "title": "رانژ",
+        "second_title": "Ranj",
+        "is_selected": false
+       },
+       {
+        "id": "0WkoZ0",
+        "title": "آتریسا",
+        "second_title": "Atrisa",
+        "is_selected": false
+       },
+       {
+        "id": "qJAMB0",
+        "title": "پویا مارکت",
+        "second_title": "pouya market",
+        "is_selected": false
+       },
+       {
+        "id": "qOP3xD",
+        "title": "رزلیانس",
+        "second_title": "Reselians",
+        "is_selected": false
+       },
+       {
+        "id": "Dz6axD",
+        "title": "ژینوس",
+        "second_title": "Xinus",
+        "is_selected": false
+       },
+       {
+        "id": "ql8zBq",
+        "title": "متفرقه",
+        "second_title": "Others",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "colors",
+      "filter_type": "color_picker",
+      "title": "رنگ",
+      "items": [
+       {
+        "id": "x0QZq8",
+        "title": "مشکی",
+        "code": "#000000",
+        "is_selected": false
+       },
+       {
+        "id": "60rdDw",
+        "title": "سفید",
+        "code": "#FFFFFF",
+        "is_selected": false
+       },
+       {
+        "id": "EqO1gy",
+        "title": "بنفش",
+        "code": "#800080",
+        "is_selected": false
+       },
+       {
+        "id": "5DzQq4",
+        "title": "آبی",
+        "code": "#0000FF",
+        "is_selected": false
+       },
+       {
+        "id": "nqPRgO",
+        "title": "قرمز",
+        "code": "#FF0000",
+        "is_selected": false
+       },
+       {
+        "id": "5gv6g8",
+        "title": "صورتی",
+        "code": "#FFC0CB",
+        "is_selected": false
+       },
+       {
+        "id": "J0Wxq8",
+        "title": "نقره‌ای-طوسی",
+        "code": "#C0C0C0",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "is_express",
+      "filter_type": "boolean",
+      "title": "ارسال سریع",
+      "icon_name": "transit",
+      "is_emphasize": true
+     },
+     {
+      "filter_id": "price",
+      "filter_type": "range_select",
+      "title": "محدوده قیمت",
+      "items": [
+       {
+        "from": {
+         "title": "ارزانترین",
+         "default_value": 2450,
+         "minimum_value": 2450
+        },
+        "to": {
+         "title": "گرانترین",
+         "default_value": 395850000,
+         "maximum_value": 395850000
+        }
+       }
+      ]
+     },
+     {
+      "filter_id": "is_available",
+      "filter_type": "boolean",
+      "title": "موجود"
+     },
+     {
+      "filter_id": "has_discount",
+      "filter_type": "boolean",
+      "title": "دارای تخفیف"
+     }
+    ],
+    "pagination": {
+     "current_page": 0,
+     "total": 10000,
+     "total_pages": 500,
+     "count": 12,
+     "per_page": 12
+    },
+    "suggested_categories": [],
+    "suggested_keywords": null
+   }
+  ],
+  "top_banners": []
+ }
+}

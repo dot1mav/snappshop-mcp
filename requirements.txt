@@ -1,0 +1,18 @@
+# MCP SDK — supports both 1.x and 2.x
+# server.py auto-detects which version is installed.
+# To pin to v1 (if you prefer FastMCP naming):  mcp<2
+mcp>=1.2
+
+# HTTP fetcher (primary strategy)
+curl_cffi>=0.7
+
+# HTTP fetcher (fallback strategy — headless browser with stealth)
+playwright>=1.40
+
+# HTML parsing (used by scraper.py — pure regex currently, but kept for
+# future use if you want to switch from regex to BeautifulSoup)
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# Pydantic is a transitive dep of mcp; listed for clarity.
+pydantic>=2.0

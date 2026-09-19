@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "snappshop": {
+      "command": "python3",
+      "args": ["/absolute/path/to/snappshop-mcp/server.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}

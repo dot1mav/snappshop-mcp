@@ -1,0 +1,2718 @@
+{
+ "status": true,
+ "data": {
+  "structure": [
+   {
+    "id": "vb2AGNY",
+    "section_type": "plp",
+    "uuid": "b6c90899-b420-11f1-ae70-5ef2a0bcba62",
+    "is_descriptive": false,
+    "items": [
+     {
+      "id": "42yeLw",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+      "price": {
+       "price": 49000000,
+       "discounted_price": 33980000,
+       "discount": 31,
+       "start_at": "2026-09-19 15:10:00",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/7b/18/9fbb9044-e46c-4e49-aea4-3dbf55267b18.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "J0WmyD",
+        "title": "بنفش",
+        "code": "#6D244B"
+       },
+       {
+        "id": "E047g8",
+        "title": "سبز",
+        "code": "#7fcd40"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-25751584",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "MawYyj",
+      "title": "گوشی موبایل طرح آیفون مدل iPhone 17 Promax ظرفیت 32 گیگابایت رم 3 گیگابایت",
+      "price": {
+       "price": 27890000,
+       "discounted_price": 27611100,
+       "discount": 1,
+       "start_at": "2026-09-15 13:38:00",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/53/bc/a26e1dfd-75ab-421e-944d-e24917e453bc.jpg",
+       "alt": "گوشی موبایل طرح آیفون مدل iPhone 17 Promax ظرفیت 32 گیگابایت رم 3 گیگابایت"
+      },
+      "colors": [
+       {
+        "id": "50awOD",
+        "title": "نارنجی",
+        "code": "#FF6900"
+       },
+       {
+        "id": "5Do501",
+        "title": "سرمه ای",
+        "code": "#1d294f"
+       }
+      ],
+      "is_fake": true,
+      "is_ads": true,
+      "href": "/product/snp-485730773",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "YRe1PG",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price": {
+       "price": 48900000,
+       "discounted_price": 37950000,
+       "discount": 23,
+       "start_at": "2026-09-19 15:13:16",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/6a/33/9fedd98b-32f5-42a0-81d9-84efb34d6a33.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت"
+      },
+      "colors": [
+       {
+        "id": "E047g8",
+        "title": "سبز",
+        "code": "#7fcd40"
+       },
+       {
+        "id": "PD1k06",
+        "title": "یاسی",
+        "code": "#D7BDE2"
+       },
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1397596603",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "zaJZnl",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت ویتنام",
+      "price": {
+       "price": 59000000,
+       "discounted_price": 48700000,
+       "discount": 18,
+       "start_at": "2026-09-19 15:20:30",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/d4/63/a044c54d-7709-4b52-87d4-5468dfead463.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A17 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت ویتنام"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "0kxLdq",
+        "title": "خاکستری",
+        "code": "#767b8d"
+       },
+       {
+        "id": "609y09",
+        "title": "آبی",
+        "code": "#5CC4EE"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1539944944",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "ex2yXZ",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت ویتنام",
+      "price": {
+       "price": 70000000,
+       "discounted_price": 57750000,
+       "discount": 18,
+       "start_at": "2026-09-19 15:23:10",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/a9/3e/a044d35e-0cbd-4c50-b387-e7e78011a93e.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A17 دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت ویتنام"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "609y09",
+        "title": "آبی",
+        "code": "#5CC4EE"
+       },
+       {
+        "id": "0kxLdq",
+        "title": "خاکستری",
+        "code": "#767b8d"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-90620650",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "EYa5Qw",
+      "title": "گوشی موبایل شیائومی مدل Poco C71 دو سیم کارت ظرفیت 128 گیگابایت رم 4 گیگابایت نسخه گلوبال",
+      "price": {
+       "price": 40283000
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/51/1e/9ff47ac8-e9ec-486f-a35f-503a3e09511e.jpg",
+       "alt": "گوشی موبایل شیائومی مدل Poco C71 دو سیم کارت ظرفیت 128 گیگابایت رم 4 گیگابایت نسخه گلوبال"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "609y09",
+        "title": "آبی",
+        "code": "#5CC4EE"
+       },
+       {
+        "id": "q6Wk3D",
+        "title": "طلایی",
+        "code": "#F8D900"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-117371492",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "YR1dpG",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A16 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت ویتنام",
+      "price": {
+       "price": 54000000,
+       "discounted_price": 44750000,
+       "discount": 18,
+       "start_at": "2026-09-19 15:17:53",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/b5/79/9d96bba0-8ad4-4df5-b7a1-e2861e61b579.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A16 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت ویتنام"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "0kxLdq",
+        "title": "خاکستری",
+        "code": "#767b8d"
+       },
+       {
+        "id": "DLllLD",
+        "title": "سبز روشن",
+        "code": "#7fcd40"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-612178763",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "wKXvVM",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+      "price": {
+       "price": 44100000
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/e4/d6/9fedd9f5-f26f-45ca-b8a7-990c8b1de4d6.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت"
+      },
+      "colors": [
+       {
+        "id": "E047g8",
+        "title": "سبز",
+        "code": "#7fcd40"
+       },
+       {
+        "id": "PD1k06",
+        "title": "یاسی",
+        "code": "#D7BDE2"
+       },
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "J0WmyD",
+        "title": "بنفش",
+        "code": "#6D244B"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-953830836",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "NE7ZX4",
+      "title": "گوشی موبایل شیائومی مدل Poco C71 دو سیم کارت ظرفیت 64 گیگابایت و رم 3 گیگابایت",
+      "price": {
+       "price": 60000000,
+       "discounted_price": 38490000,
+       "discount": 36,
+       "start_at": "2026-09-19 13:16:34",
+       "end_at": "2029-03-19 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/77/01/9f6f7c49-c213-43cd-8500-537862877701.jpg",
+       "alt": "گوشی موبایل شیائومی مدل Poco C71 دو سیم کارت ظرفیت 64 گیگابایت و رم 3 گیگابایت"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "q6Wk3D",
+        "title": "طلایی",
+        "code": "#F8D900"
+       },
+       {
+        "id": "609y09",
+        "title": "آبی",
+        "code": "#5CC4EE"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-968985491",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "a8jPW7",
+      "title": "گوشی موبايل سامسونگ مدل گلکسی S25 FE دو سیم کارت رم 8 گیگابایت و ظرفیت 256 گیگابایت",
+      "price": {
+       "price": 184000000,
+       "discounted_price": 171000000,
+       "discount": 8,
+       "start_at": "2026-09-19 14:53:00",
+       "end_at": "2026-10-02 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/8d/fc/a060a865-d19a-4574-abd8-06fcc2818dfc.jpg",
+       "alt": "گوشی موبايل سامسونگ مدل گلکسی S25 FE دو سیم کارت رم 8 گیگابایت و ظرفیت 256 گیگابایت"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "0Kl4Qq",
+        "title": "آبی تیره",
+        "code": "#223A82"
+       },
+       {
+        "id": "gmaJPg",
+        "title": "آبی روشن",
+        "code": "#5CC4EE"
+       },
+       {
+        "id": "EqO1gy",
+        "title": "سفید",
+        "code": "#FFFFFF"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-240017469",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "YRPnvz",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A26 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت پک ویتنام",
+      "price": {
+       "price": 100000000,
+       "discounted_price": 85888888,
+       "discount": 15,
+       "start_at": "2026-09-17 19:28:40",
+       "end_at": "2026-10-22 01:00:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/f6/9e/9ef05434-900c-4779-9031-f5a65caff69e.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A26 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت پک ویتنام"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "EqO1gy",
+        "title": "سفید",
+        "code": "#FFFFFF"
+       },
+       {
+        "id": "kqE3g8",
+        "title": "صورتی",
+        "code": "#ec6597"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1810662783",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     },
+     {
+      "id": "vwnapX",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت ویتنام",
+      "price": {
+       "price": 93000000,
+       "discounted_price": 76999999,
+       "discount": 18,
+       "start_at": "2026-09-16 23:59:00",
+       "end_at": "2026-09-22 23:59:00"
+      },
+      "image": {
+       "src": "https://cdn.snappshop.ir/products/89/e6/a044d358-eca5-460f-8fa6-71cea2d489e6.jpg",
+       "alt": "گوشی موبایل سامسونگ مدل Galaxy A17 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت ویتنام"
+      },
+      "colors": [
+       {
+        "id": "70K5DJ",
+        "title": "مشکی",
+        "code": "#000000"
+       },
+       {
+        "id": "609y09",
+        "title": "آبی",
+        "code": "#5CC4EE"
+       },
+       {
+        "id": "0kxLdq",
+        "title": "خاکستری",
+        "code": "#767b8d"
+       }
+      ],
+      "is_fake": false,
+      "is_ads": false,
+      "href": "/product/snp-1306317103",
+      "in_campaign": {
+       "campaign_name": "",
+       "start_date": "",
+       "end_date": ""
+      },
+      "badge": "خرید قسطی",
+      "rel": "",
+      "target": "",
+      "state": {
+       "rate_count": 0,
+       "rate": 0,
+       "score": 0
+      }
+     }
+    ],
+    "sort": [
+     {
+      "id": "Bge1gJ",
+      "title": "مرتبط‌ترین",
+      "is_selected": true
+     },
+     {
+      "id": "J0Wxq8",
+      "title": "پربازدیدترین",
+      "is_selected": false
+     },
+     {
+      "id": "x0QZq8",
+      "title": "کمترین قیمت",
+      "is_selected": false
+     },
+     {
+      "id": "lgwWgo",
+      "title": "بیشترین قیمت",
+      "is_selected": false
+     },
+     {
+      "id": "60rdDw",
+      "title": "پیشنهاد خریداران",
+      "is_selected": false
+     },
+     {
+      "id": "50aLgW",
+      "title": "پرفروش ترین",
+      "is_selected": false
+     },
+     {
+      "id": "5DzQq4",
+      "title": "بیشترین تخفیف",
+      "is_selected": false
+     }
+    ],
+    "filter": [
+     {
+      "filter_id": "category_tree",
+      "filter_type": "multiple_select",
+      "title": "دسته‌بندی",
+      "items": [
+       {
+        "id": "AqZkDJ",
+        "title": "موبایل",
+        "is_selected": false
+       },
+       {
+        "id": "Xqnbmq",
+        "title": "پایه، استند و گیمبال",
+        "is_selected": false
+       },
+       {
+        "id": "ygGAWq",
+        "title": "قاب و کاور موبایل",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "brands",
+      "filter_type": "multiple_select",
+      "title": "برند",
+      "items": [
+       {
+        "id": "04lL30",
+        "title": "سامسونگ",
+        "second_title": "Samsung",
+        "is_selected": false
+       },
+       {
+        "id": "gR9GMD",
+        "title": "شیائومی",
+        "second_title": "Xiaomi",
+        "is_selected": false
+       },
+       {
+        "id": "gyajOg",
+        "title": "سامورایی",
+        "second_title": "Samurai",
+        "is_selected": false
+       },
+       {
+        "id": "qOPNxD",
+        "title": "رز باد",
+        "second_title": "Rose Bud",
+        "is_selected": false
+       },
+       {
+        "id": "0QAEk0",
+        "title": "مگافون",
+        "second_title": "Megafone",
+        "is_selected": false
+       },
+       {
+        "id": "qEnEXD",
+        "title": "میتوبل",
+        "second_title": "Mietubl",
+        "is_selected": false
+       },
+       {
+        "id": "qO571g",
+        "title": "نوکیا",
+        "second_title": "Nokia",
+        "is_selected": false
+       },
+       {
+        "id": "q7jv60",
+        "title": "اپیکوی",
+        "second_title": "Epicoy",
+        "is_selected": false
+       },
+       {
+        "id": "qPx7Rq",
+        "title": "آنر",
+        "second_title": "Honor",
+        "is_selected": false
+       },
+       {
+        "id": "0Xa7zq",
+        "title": "نیلکین",
+        "second_title": "Nillkin",
+        "is_selected": false
+       },
+       {
+        "id": "qPvPwg",
+        "title": "یانگ کیت",
+        "second_title": "Young Kit",
+        "is_selected": false
+       },
+       {
+        "id": "gNEOVD",
+        "title": "اسپیس",
+        "second_title": "Space",
+        "is_selected": false
+       },
+       {
+        "id": "q7KLEq",
+        "title": "گلدن گارد",
+        "second_title": "Golden Guard",
+        "is_selected": false
+       },
+       {
+        "id": "Pg8yA0",
+        "title": "ارلدام",
+        "second_title": "Earldom",
+        "is_selected": false
+       },
+       {
+        "id": "09zZwq",
+        "title": "یسیدو",
+        "second_title": "Yesido",
+        "is_selected": false
+       },
+       {
+        "id": "DzoX3g",
+        "title": "کی -زد دو",
+        "second_title": "K-ZDOO",
+        "is_selected": false
+       },
+       {
+        "id": "0kWAB0",
+        "title": "پرووان",
+        "second_title": "ProOne",
+        "is_selected": false
+       },
+       {
+        "id": "gAYLPg",
+        "title": "اپل",
+        "second_title": "Apple",
+        "is_selected": false
+       },
+       {
+        "id": "0aL25g",
+        "title": "گرین لاین",
+        "second_title": "Green Lion",
+        "is_selected": false
+       },
+       {
+        "id": "x0Q6Bq",
+        "title": "هوآوی",
+        "second_title": "Huawei",
+        "is_selected": false
+       },
+       {
+        "id": "qn375D",
+        "title": "کی-دوو",
+        "second_title": "K-Doo",
+        "is_selected": false
+       },
+       {
+        "id": "g812x0",
+        "title": "بوف",
+        "second_title": "Buff",
+        "is_selected": false
+       },
+       {
+        "id": "gwW5Wg",
+        "title": "بیسوس",
+        "second_title": "Baseus",
+        "is_selected": false
+       },
+       {
+        "id": "gNZG4g",
+        "title": "ریلمی",
+        "second_title": "Realme",
+        "is_selected": false
+       },
+       {
+        "id": "0dAQeq",
+        "title": "گلس شاپ",
+        "second_title": "Glass Shop",
+        "is_selected": false
+       },
+       {
+        "id": "qZkY7D",
+        "title": "گلدن گارد",
+        "second_title": "Golden Guard",
+        "is_selected": false
+       },
+       {
+        "id": "0W6jOg",
+        "title": "گلس استار",
+        "second_title": "Glass Star",
+        "is_selected": false
+       },
+       {
+        "id": "qnLJpg",
+        "title": "آسدا",
+        "second_title": "Asda",
+        "is_selected": false
+       },
+       {
+        "id": "0VWrnq",
+        "title": "اسپیگن",
+        "second_title": "Spigen",
+        "is_selected": false
+       },
+       {
+        "id": "g83E2D",
+        "title": "گلس پرو",
+        "second_title": "Glass Pro",
+        "is_selected": false
+       },
+       {
+        "id": "qZKajD",
+        "title": "دیامانته",
+        "second_title": "diamante",
+        "is_selected": false
+       },
+       {
+        "id": "qEOV8g",
+        "title": "ریکام",
+        "second_title": "Ricomm",
+        "is_selected": false
+       },
+       {
+        "id": "DB915q",
+        "title": "تکنو",
+        "second_title": "Tecno",
+        "is_selected": false
+       },
+       {
+        "id": "geY54g",
+        "title": "گلس",
+        "second_title": "Glass",
+        "is_selected": false
+       },
+       {
+        "id": "0WxNGq",
+        "title": "ژاند",
+        "second_title": "Xundd",
+        "is_selected": false
+       },
+       {
+        "id": "g3RJ2D",
+        "title": "کینگ پاور",
+        "second_title": "King Power",
+        "is_selected": false
+       },
+       {
+        "id": "0WoX20",
+        "title": "کیو سریز",
+        "second_title": "Q Series",
+        "is_selected": false
+       },
+       {
+        "id": "gRPJVq",
+        "title": "هورس",
+        "second_title": "Horse",
+        "is_selected": false
+       },
+       {
+        "id": "0M33xD",
+        "title": "کی اف-سنیور",
+        "second_title": "Kf-Senior",
+        "is_selected": false
+       },
+       {
+        "id": "0aG7LD",
+        "title": "موتورولا",
+        "second_title": "Motorola",
+        "is_selected": false
+       },
+       {
+        "id": "gy3bwq",
+        "title": "گارد ایکس",
+        "second_title": "Guard X",
+        "is_selected": false
+       },
+       {
+        "id": "DokjQD",
+        "title": "اچ وی تی",
+        "second_title": "HVT",
+        "is_selected": false
+       },
+       {
+        "id": "q6pApg",
+        "title": "تکنو ای اند وی",
+        "second_title": "Techno A&V",
+        "is_selected": false
+       },
+       {
+        "id": "qnr69q",
+        "title": "بلکین",
+        "second_title": "Belkin",
+        "is_selected": false
+       },
+       {
+        "id": "Doanb0",
+        "title": "ولف",
+        "second_title": "Wolf",
+        "is_selected": false
+       },
+       {
+        "id": "g3abZq",
+        "title": "لئون",
+        "second_title": "leon",
+        "is_selected": false
+       },
+       {
+        "id": "qOLP2D",
+        "title": "زیفرند",
+        "second_title": "Zifriend",
+        "is_selected": false
+       },
+       {
+        "id": "0MYXw0",
+        "title": "پرومیت",
+        "second_title": "Promate",
+        "is_selected": false
+       },
+       {
+        "id": "qP93MD",
+        "title": "کینگ کونگ",
+        "second_title": "King Kong",
+        "is_selected": false
+       },
+       {
+        "id": "gvPy6q",
+        "title": "تونک",
+        "second_title": "Tonek",
+        "is_selected": false
+       },
+       {
+        "id": "ql891q",
+        "title": "ال جی",
+        "second_title": "LG",
+        "is_selected": false
+       },
+       {
+        "id": "lgwoBg",
+        "title": "گارد",
+        "second_title": "Guard",
+        "is_selected": false
+       },
+       {
+        "id": "DBXKY0",
+        "title": "پنزر گلس",
+        "second_title": "Panzer glass",
+        "is_selected": false
+       },
+       {
+        "id": "0rNKz0",
+        "title": "مجیک ماسک",
+        "second_title": "Magik Mask",
+        "is_selected": false
+       },
+       {
+        "id": "D5VPAg",
+        "title": "راک اسپیس",
+        "second_title": "Rock Space",
+        "is_selected": false
+       },
+       {
+        "id": "0WAWxD",
+        "title": "ریمکس",
+        "second_title": "Remax",
+        "is_selected": false
+       },
+       {
+        "id": "g83XQD",
+        "title": "ویناکیسز",
+        "second_title": "vinacases",
+        "is_selected": false
+       },
+       {
+        "id": "DYN2Gg",
+        "title": "سوماستل",
+        "second_title": "Somostel",
+        "is_selected": false
+       },
+       {
+        "id": "0VozKq",
+        "title": "موناکو",
+        "second_title": "Monaco",
+        "is_selected": false
+       },
+       {
+        "id": "0d85l0",
+        "title": "یوسمز",
+        "second_title": "Usams",
+        "is_selected": false
+       },
+       {
+        "id": "Dj4oJ0",
+        "title": "دیاموند",
+        "second_title": "Diamond",
+        "is_selected": false
+       },
+       {
+        "id": "qlreQg",
+        "title": "فشن",
+        "second_title": "Fashion",
+        "is_selected": false
+       },
+       {
+        "id": "0W6GOg",
+        "title": "تراستکتور",
+        "second_title": "Trustector",
+        "is_selected": false
+       },
+       {
+        "id": "q6WrXD",
+        "title": "دلتا",
+        "second_title": "Delta",
+        "is_selected": false
+       },
+       {
+        "id": "q7jYL0",
+        "title": "هوکو",
+        "second_title": "Hoco",
+        "is_selected": false
+       },
+       {
+        "id": "0kxoEq",
+        "title": "دکین",
+        "second_title": "Dekkin",
+        "is_selected": false
+       },
+       {
+        "id": "gej680",
+        "title": "اینفینیتی",
+        "second_title": "Infinity",
+        "is_selected": false
+       },
+       {
+        "id": "gNvErg",
+        "title": "سام پلاس",
+        "second_title": "Sum Plus",
+        "is_selected": false
+       },
+       {
+        "id": "q6Xkzg",
+        "title": "مولتی نانو",
+        "second_title": "Multi Nano",
+        "is_selected": false
+       },
+       {
+        "id": "q7Zn10",
+        "title": "یونی پرو",
+        "second_title": "UNIPRO",
+        "is_selected": false
+       },
+       {
+        "id": "DbA1mq",
+        "title": "اسپایدر",
+        "second_title": "Spider",
+        "is_selected": false
+       },
+       {
+        "id": "g345O0",
+        "title": "مستر",
+        "second_title": "Master",
+        "is_selected": false
+       },
+       {
+        "id": "04QvNq",
+        "title": "414",
+        "second_title": "414",
+        "is_selected": false
+       },
+       {
+        "id": "02jML0",
+        "title": "استرانگ",
+        "second_title": "Strong",
+        "is_selected": false
+       },
+       {
+        "id": "0XLe70",
+        "title": "آلتیمیت شیلد",
+        "second_title": "Ultimate Shield",
+        "is_selected": false
+       },
+       {
+        "id": "0X4v70",
+        "title": "ای اف اس",
+        "second_title": "Afs",
+        "is_selected": false
+       },
+       {
+        "id": "gGnK6D",
+        "title": "لایونکس",
+        "second_title": "Lionex",
+        "is_selected": false
+       },
+       {
+        "id": "gee4dg",
+        "title": "آرکا گلس",
+        "second_title": "arka glass",
+        "is_selected": false
+       },
+       {
+        "id": "ODYv3g",
+        "title": "گلدن هورس",
+        "second_title": "Golden Horse",
+        "is_selected": false
+       },
+       {
+        "id": "qOrGX0",
+        "title": "کیس پرو",
+        "second_title": "CasePro",
+        "is_selected": false
+       },
+       {
+        "id": "XqnQY0",
+        "title": "پی کی",
+        "second_title": "Pk",
+        "is_selected": false
+       },
+       {
+        "id": "gyLOoD",
+        "title": "دی اس",
+        "second_title": "Ds",
+        "is_selected": false
+       },
+       {
+        "id": "Dz6axD",
+        "title": "ژینوس",
+        "second_title": "Xinus",
+        "is_selected": false
+       },
+       {
+        "id": "0V5ZZg",
+        "title": "آتوچبو",
+        "second_title": "Atochebu",
+        "is_selected": false
+       },
+       {
+        "id": "0aLROg",
+        "title": "کی اچ",
+        "second_title": "Kh",
+        "is_selected": false
+       },
+       {
+        "id": "Dzb2QD",
+        "title": "اچ تی سی",
+        "second_title": "Htc",
+        "is_selected": false
+       },
+       {
+        "id": "0Qwv7D",
+        "title": "وی دبلیو کی",
+        "second_title": "VWK",
+        "is_selected": false
+       },
+       {
+        "id": "DBKZYg",
+        "title": "کوکونات",
+        "second_title": "Coconut",
+        "is_selected": false
+       },
+       {
+        "id": "qZLndg",
+        "title": "لاژید",
+        "second_title": "Lazhid",
+        "is_selected": false
+       },
+       {
+        "id": "04WNQg",
+        "title": "پیکسل میکسل",
+        "second_title": "Pixel Mixel",
+        "is_selected": false
+       },
+       {
+        "id": "qOP3xD",
+        "title": "رزلیانس",
+        "second_title": "Reselians",
+        "is_selected": false
+       },
+       {
+        "id": "023RAq",
+        "title": "شاینی",
+        "second_title": "Shiny",
+        "is_selected": false
+       },
+       {
+        "id": "gNLQMq",
+        "title": "جانبو",
+        "second_title": "Junbo",
+        "is_selected": false
+       },
+       {
+        "id": "gw9yrq",
+        "title": "نانو تک",
+        "second_title": "nano tech",
+        "is_selected": false
+       },
+       {
+        "id": "g8Pjag",
+        "title": "جی کی کی",
+        "second_title": "Gkk",
+        "is_selected": false
+       },
+       {
+        "id": "geYY1g",
+        "title": "مای کیس",
+        "second_title": "Mycase",
+        "is_selected": false
+       },
+       {
+        "id": "aD5nAg",
+        "title": "فلش",
+        "second_title": "Flash",
+        "is_selected": false
+       },
+       {
+        "id": "gexy4D",
+        "title": "فورس",
+        "second_title": "Force",
+        "is_selected": false
+       },
+       {
+        "id": "g8XPOg",
+        "title": "بادیگارد",
+        "second_title": "Bodyguard",
+        "is_selected": false
+       },
+       {
+        "id": "ql8zBq",
+        "title": "متفرقه",
+        "second_title": "Others",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "colors",
+      "filter_type": "color_picker",
+      "title": "رنگ",
+      "items": [
+       {
+        "id": "x0QZq8",
+        "title": "مشکی",
+        "code": "#000000",
+        "is_selected": false
+       },
+       {
+        "id": "5DzQq4",
+        "title": "آبی",
+        "code": "#0000FF",
+        "is_selected": false
+       },
+       {
+        "id": "nqPRgO",
+        "title": "قرمز",
+        "code": "#FF0000",
+        "is_selected": false
+       },
+       {
+        "id": "5gv6g8",
+        "title": "صورتی",
+        "code": "#FFC0CB",
+        "is_selected": false
+       },
+       {
+        "id": "50aLgW",
+        "title": "سبز",
+        "code": "#00FF00",
+        "is_selected": false
+       },
+       {
+        "id": "60rdDw",
+        "title": "سفید",
+        "code": "#FFFFFF",
+        "is_selected": false
+       },
+       {
+        "id": "EqO1gy",
+        "title": "بنفش",
+        "code": "#800080",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "is_express",
+      "filter_type": "boolean",
+      "title": "ارسال سریع",
+      "icon_name": "transit",
+      "is_emphasize": true
+     },
+     {
+      "filter_id": "price",
+      "filter_type": "range_select",
+      "title": "محدوده قیمت",
+      "items": [
+       {
+        "from": {
+         "title": "ارزانترین",
+         "default_value": 9900,
+         "minimum_value": 9900
+        },
+        "to": {
+         "title": "گرانترین",
+         "default_value": 368000000,
+         "maximum_value": 368000000
+        }
+       }
+      ]
+     },
+     {
+      "filter_id": "is_available",
+      "filter_type": "boolean",
+      "title": "موجود"
+     },
+     {
+      "filter_id": "has_discount",
+      "filter_type": "boolean",
+      "title": "دارای تخفیف"
+     },
+     {
+      "filter_id": "0XVJPD",
+      "filter_type": "radio_select",
+      "title": "رزولوشن دوربین اصلی",
+      "items": [
+       {
+        "id": "gp25P7",
+        "title": "50 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gvdRkL",
+        "title": "108 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0kJbdJ",
+        "title": "13 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "ge8Zna",
+        "title": "0.3 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "ge8ko4",
+        "title": "200 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "DxRZ6P",
+        "title": "48 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0Xnnzz",
+        "title": "2 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "ge8LvB",
+        "title": "0.08 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gexyJ8",
+        "title": "12 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "qZ81BQ",
+        "title": "32 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "qJ4Vww",
+        "title": "QVGA",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "0KP1nq",
+      "filter_type": "radio_select",
+      "title": "فناوری فوکوس",
+      "items": [
+       {
+        "id": "0XaJ5z",
+        "title": "PDAF",
+        "is_selected": false
+       },
+       {
+        "id": "qnrXBm",
+        "title": "AutoFocus",
+        "is_selected": false
+       },
+       {
+        "id": "02jBoZ",
+        "title": "Dual Pixel",
+        "is_selected": false
+       },
+       {
+        "id": "0W6Pp2",
+        "title": "multi-directional PDAF",
+        "is_selected": false
+       },
+       {
+        "id": "g3576B",
+        "title": "Dual Pixel PDAF",
+        "is_selected": false
+       },
+       {
+        "id": "gAlEzy",
+        "title": "Phase Detection",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "qlnNQg",
+      "filter_type": "multiple_select",
+      "title": "شبکه های ارتباطی",
+      "items": [
+       {
+        "id": "DBbx5D",
+        "title": "2G",
+        "is_selected": false
+       },
+       {
+        "id": "0klQbq",
+        "title": "4G",
+        "is_selected": false
+       },
+       {
+        "id": "q7VEO0",
+        "title": "5G",
+        "is_selected": false
+       },
+       {
+        "id": "g8Nmvq",
+        "title": "3G",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "gR9dxD",
+      "filter_type": "radio_select",
+      "title": "پشتیبانی از کارت حافظه",
+      "items": [
+       {
+        "id": "DxrkMy",
+        "title": "microSD",
+        "is_selected": false
+       },
+       {
+        "id": "gyl9JD",
+        "title": "دارد",
+        "is_selected": false
+       },
+       {
+        "id": "DoZWaq",
+        "title": "ندارد",
+        "is_selected": false
+       },
+       {
+        "id": "Dj4Xab",
+        "title": "فاقد پشتیبانی از کارت حافظه",
+        "is_selected": false
+       },
+       {
+        "id": "qZ4aL7",
+        "title": "MicroSDHC",
+        "is_selected": false
+       },
+       {
+        "id": "q7wK5w",
+        "title": "شیار مجزا کارت حافظه",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "aD59bD",
+      "filter_type": "radio_select",
+      "title": "حافظه داخلی",
+      "items": [
+       {
+        "id": "gmJXQE",
+        "title": "256 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "gAlEdW",
+        "title": "128 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "gR2JrW",
+        "title": "64 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "qEnkPQ",
+        "title": "512 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "qP3wzG",
+        "title": "32 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "09xezg",
+        "title": "دارد",
+        "is_selected": false
+       },
+       {
+        "id": "02oPxq",
+        "title": "ندارد",
+        "is_selected": false
+       },
+       {
+        "id": "qExXlk",
+        "title": "16 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0QE2yA",
+        "title": "4 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "D1v3Bn",
+        "title": "8 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "DYxJlr",
+        "title": "32 گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0rdzkd",
+        "title": "4 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "D1mbBm",
+        "title": "128 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "DovGe7",
+        "title": "16 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0rd7oQ",
+        "title": "۱۲۸ گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "geGJNZ",
+        "title": "چهار مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "09jVPW",
+        "title": "1 ترابایت",
+        "is_selected": false
+       },
+       {
+        "id": "DzpMm3",
+        "title": "یک ترابایت",
+        "is_selected": false
+       },
+       {
+        "id": "DBnmda",
+        "title": "8 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "gvd7np",
+        "title": "4 مگابیت",
+        "is_selected": false
+       },
+       {
+        "id": "DBnJdy",
+        "title": "۵۱۲ گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "DYRnbN",
+        "title": "بدون حافظه داخلی",
+        "is_selected": false
+       },
+       {
+        "id": "qO3b26",
+        "title": "512",
+        "is_selected": false
+       },
+       {
+        "id": "g8W7BO",
+        "title": "2 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0QERBk",
+        "title": "28 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "qlLk4Y",
+        "title": "۳۲ مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "gmjB7L",
+        "title": "2 ترابایت",
+        "is_selected": false
+       },
+       {
+        "id": "gexmEZ",
+        "title": "64MGB",
+        "is_selected": false
+       },
+       {
+        "id": "023vxZ",
+        "title": "کمتر از 128 MB",
+        "is_selected": false
+       },
+       {
+        "id": "DLPLXL",
+        "title": "چهار گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0WnpRx",
+        "title": "24 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0QERrk",
+        "title": "64 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "qEekb9",
+        "title": "۶۴ گیگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "qPdLBM",
+        "title": "۴ مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "q6Q7wX",
+        "title": "۱۶ مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "gyb7Nk",
+        "title": "128 گيگابايت",
+        "is_selected": false
+       },
+       {
+        "id": "gAnxmo",
+        "title": "256 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0Wn489",
+        "title": "یک گیگ",
+        "is_selected": false
+       },
+       {
+        "id": "gmkk6M",
+        "title": "164 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "g35B3A",
+        "title": "–",
+        "is_selected": false
+       },
+       {
+        "id": "0KzEBl",
+        "title": "512 مگابایت",
+        "is_selected": false
+       },
+       {
+        "id": "0kVy4E",
+        "title": "دارای درگاه کارت حافظه",
+        "is_selected": false
+       },
+       {
+        "id": "DLPEB4",
+        "title": "32 مگابایت / 32 مگابایت رم",
+        "is_selected": false
+       },
+       {
+        "id": "0MaJB2",
+        "title": "32",
+        "is_selected": false
+       },
+       {
+        "id": "Db8RZm",
+        "title": "32G",
+        "is_selected": false
+       },
+       {
+        "id": "0aRoOO",
+        "title": "32 مگابایت، پشتیبانی از کارت حافظه جانبی",
+        "is_selected": false
+       },
+       {
+        "id": "DzzMJx",
+        "title": "حافظه داخلی : : 64 مگابایت مقدار رم: : 16 mb",
+        "is_selected": false
+       },
+       {
+        "id": "qONJBx",
+        "title": "حافظه 64 مگابایت رم 32 مگابایت ا Samsung B311 V 64/32 MB",
+        "is_selected": false
+       },
+       {
+        "id": "09X7az",
+        "title": "نامشخص",
+        "is_selected": false
+       },
+       {
+        "id": "0dky3L",
+        "title": "512 ترابایت",
+        "is_selected": false
+       },
+       {
+        "id": "DoRLpb",
+        "title": "256 گیگ",
+        "is_selected": false
+       },
+       {
+        "id": "gGwEl6",
+        "title": "10 کیلوبایت",
+        "is_selected": false
+       },
+       {
+        "id": "gRNJXE",
+        "title": "موبایل 256 گیگابایت، تبلن 128 گیگابایت",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "rg3V2D",
+      "filter_type": "radio_select",
+      "title": "بلوتوث",
+      "items": [
+       {
+        "id": "qPwvw0",
+        "title": "دارد",
+        "is_selected": false
+       },
+       {
+        "id": "DLZERn",
+        "title": "A2DP, LE",
+        "is_selected": false
+       },
+       {
+        "id": "D5j78A",
+        "title": "5.2, A2DP, LE",
+        "is_selected": false
+       },
+       {
+        "id": "Dzmo4q",
+        "title": "ندارد",
+        "is_selected": false
+       },
+       {
+        "id": "qP3XOR",
+        "title": "5.3, A2DP, LE",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "EqOPKD",
+      "filter_type": "radio_select",
+      "title": "سیستم عامل",
+      "items": [
+       {
+        "id": "geGJwB",
+        "title": "Android",
+        "is_selected": false
+       },
+       {
+        "id": "0MaJZL",
+        "title": "اندروید",
+        "is_selected": false
+       },
+       {
+        "id": "D5e7vr",
+        "title": "iOS",
+        "is_selected": false
+       },
+       {
+        "id": "Dzmopq",
+        "title": "بدون سیستم عامل",
+        "is_selected": false
+       },
+       {
+        "id": "0r35Lz",
+        "title": "ندارد",
+        "is_selected": false
+       },
+       {
+        "id": "qPdL2G",
+        "title": "MIUI 12",
+        "is_selected": false
+       },
+       {
+        "id": "DzzMwl",
+        "title": "One UI 3.1",
+        "is_selected": false
+       },
+       {
+        "id": "gNe5LD",
+        "title": "فاقد سیستم عامل",
+        "is_selected": false
+       },
+       {
+        "id": "qZ8JEj",
+        "title": "MIUI 12.5",
+        "is_selected": false
+       },
+       {
+        "id": "04Y739",
+        "title": "اندروید 12",
+        "is_selected": false
+       },
+       {
+        "id": "DBnJy9",
+        "title": "Andriod",
+        "is_selected": false
+       },
+       {
+        "id": "DLPEO3",
+        "title": "KaiOS",
+        "is_selected": false
+       },
+       {
+        "id": "g35BZZ",
+        "title": "MIUI 11",
+        "is_selected": false
+       },
+       {
+        "id": "02NBOA",
+        "title": "One UI 4.1",
+        "is_selected": false
+       },
+       {
+        "id": "gwj7B7",
+        "title": "جاوا",
+        "is_selected": false
+       },
+       {
+        "id": "qONJvO",
+        "title": "MIUI 13",
+        "is_selected": false
+       },
+       {
+        "id": "0WnJEw",
+        "title": "اندروید 14",
+        "is_selected": false
+       },
+       {
+        "id": "0WnJl9",
+        "title": "فاقد سیستم‌عامل",
+        "is_selected": false
+       },
+       {
+        "id": "q7w79n",
+        "title": "ios 13",
+        "is_selected": false
+       },
+       {
+        "id": "g8W7d4",
+        "title": "Android 11",
+        "is_selected": false
+       },
+       {
+        "id": "0QER9y",
+        "title": "اندروید 11",
+        "is_selected": false
+       },
+       {
+        "id": "0dkyn4",
+        "title": "اندروید 10",
+        "is_selected": false
+       },
+       {
+        "id": "0KzEPK",
+        "title": "ios",
+        "is_selected": false
+       },
+       {
+        "id": "DzzMVK",
+        "title": "اندروید 13",
+        "is_selected": false
+       },
+       {
+        "id": "ge8JnZ",
+        "title": "iOS 15",
+        "is_selected": false
+       },
+       {
+        "id": "gRNJdr",
+        "title": "iOS 13",
+        "is_selected": false
+       },
+       {
+        "id": "gvd78X",
+        "title": "One UI 2.0",
+        "is_selected": false
+       },
+       {
+        "id": "DLPE4a",
+        "title": "IOS",
+        "is_selected": false
+       },
+       {
+        "id": "q7w7lN",
+        "title": "Android 14",
+        "is_selected": false
+       },
+       {
+        "id": "gRNJeM",
+        "title": "اندروید 5.1",
+        "is_selected": false
+       },
+       {
+        "id": "ge8Jld",
+        "title": "اندروید 15",
+        "is_selected": false
+       },
+       {
+        "id": "g35BER",
+        "title": "iOS 16",
+        "is_selected": false
+       },
+       {
+        "id": "gvd7Yk",
+        "title": "iOS 17",
+        "is_selected": false
+       },
+       {
+        "id": "023LrX",
+        "title": "Microsoft Windows",
+        "is_selected": false
+       },
+       {
+        "id": "q6Q723",
+        "title": "android 12",
+        "is_selected": false
+       },
+       {
+        "id": "DzzM3p",
+        "title": "اندروید ۱۳",
+        "is_selected": false
+       },
+       {
+        "id": "0kVynz",
+        "title": "Windows Phone",
+        "is_selected": false
+       },
+       {
+        "id": "Db8RnY",
+        "title": "Android 10",
+        "is_selected": false
+       },
+       {
+        "id": "0rd7n2",
+        "title": "HarmonyOS 2.0",
+        "is_selected": false
+       },
+       {
+        "id": "09X7Kp",
+        "title": "One UI 4",
+        "is_selected": false
+       },
+       {
+        "id": "gmkXn9",
+        "title": "One UI 3.0",
+        "is_selected": false
+       },
+       {
+        "id": "qlLkn3",
+        "title": "iOS ۱۴.۱",
+        "is_selected": false
+       },
+       {
+        "id": "qnzXob",
+        "title": "iOS 14",
+        "is_selected": false
+       },
+       {
+        "id": "qJ47Vw",
+        "title": "–",
+        "is_selected": false
+       },
+       {
+        "id": "gRNJVr",
+        "title": "نامشخص",
+        "is_selected": false
+       },
+       {
+        "id": "0aRo27",
+        "title": "Android 13 و رابط کاربری One UI 5.1",
+        "is_selected": false
+       },
+       {
+        "id": "gmkXMG",
+        "title": "اندروید 12 و رابط کاربری 3.0 Realme UI",
+        "is_selected": false
+       },
+       {
+        "id": "0VmJM6",
+        "title": "اندروید 13 با رابط کاربری Realme UI 4.0",
+        "is_selected": false
+       },
+       {
+        "id": "0WnJMY",
+        "title": "Android 14 ،Oxygen 14",
+        "is_selected": false
+       },
+       {
+        "id": "0aRoM7",
+        "title": "اندروید 14 (Upside Down Cake)",
+        "is_selected": false
+       },
+       {
+        "id": "qPdLE6",
+        "title": "Android OS",
+        "is_selected": false
+       },
+       {
+        "id": "0KzE6p",
+        "title": "Android 13 با رابط کاربری MIUI 14",
+        "is_selected": false
+       },
+       {
+        "id": "gAnEen",
+        "title": "android",
+        "is_selected": false
+       },
+       {
+        "id": "qEekrw",
+        "title": "KaiOS در زمان عرضه",
+        "is_selected": false
+       },
+       {
+        "id": "gGwEzQ",
+        "title": "بدون سیستم عامل (Feature Phone)",
+        "is_selected": false
+       },
+       {
+        "id": "DYBJy3",
+        "title": "android 14",
+        "is_selected": false
+       },
+       {
+        "id": "Dj1X2X",
+        "title": "BREW 3.1.5 SP03",
+        "is_selected": false
+       },
+       {
+        "id": "0QERm7",
+        "title": "دارد",
+        "is_selected": false
+       },
+       {
+        "id": "gmkXY8",
+        "title": "اندروید EMUI 14.2 (International)",
+        "is_selected": false
+       },
+       {
+        "id": "qEek8k",
+        "title": "اندروید ۱۱",
+        "is_selected": false
+       },
+       {
+        "id": "0WnJaw",
+        "title": "اندروید 6.0 مارشمالو",
+        "is_selected": false
+       },
+       {
+        "id": "0rd71K",
+        "title": "Symbian",
+        "is_selected": false
+       },
+       {
+        "id": "DzzMep",
+        "title": "اندروید 2.3",
+        "is_selected": false
+       },
+       {
+        "id": "qPdLA3",
+        "title": "Andriod Jelly Bean 4.2",
+        "is_selected": false
+       },
+       {
+        "id": "02NBp6",
+        "title": "Samsung OS (نسخه اختصاصی سامسونگ برای گوشی‌های ساده)",
+        "is_selected": false
+       },
+       {
+        "id": "09X7Rv",
+        "title": "اختصاصی ساده سامسونگ (Samsung OS)",
+        "is_selected": false
+       },
+       {
+        "id": "gAnEaN",
+        "title": "اندروید 5.1 (Lollipop)",
+        "is_selected": false
+       },
+       {
+        "id": "0WnJYw",
+        "title": "ساده",
+        "is_selected": false
+       },
+       {
+        "id": "qPdLWX",
+        "title": "ندارد (سیستم عامل ساده)",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "4DBGdg",
+      "filter_type": "multiple_select",
+      "title": "حسگرها",
+      "items": [
+       {
+        "id": "qOQ5Og",
+        "title": "شتاب سنج",
+        "is_selected": false
+       },
+       {
+        "id": "g3ovZg",
+        "title": "مجاورت",
+        "is_selected": false
+       },
+       {
+        "id": "qZ23jq",
+        "title": "روشنایی",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "Kq7xdD",
+      "filter_type": "radio_select",
+      "title": "باتری قابل تعویض",
+      "items": [
+       {
+        "id": "0alGeg",
+        "title": "ندارد",
+        "is_selected": false
+       },
+       {
+        "id": "0r8G2D",
+        "title": "دارد",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "KgN24g",
+      "filter_type": "radio_select",
+      "title": "درگاه ارتباطی",
+      "items": [
+       {
+        "id": "0M5nn0",
+        "title": "USB Type - C",
+        "is_selected": false
+       },
+       {
+        "id": "geEk8g",
+        "title": "Lightning",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "ngypwD",
+      "filter_type": "radio_select",
+      "title": "تعداد سیم کارت",
+      "items": [
+       {
+        "id": "gNeRKD",
+        "title": "دو سیم کارت",
+        "is_selected": false
+       },
+       {
+        "id": "qEnk99",
+        "title": "دو عدد",
+        "is_selected": false
+       },
+       {
+        "id": "0X3Ebg",
+        "title": "تک سیم کارت",
+        "is_selected": false
+       },
+       {
+        "id": "gGJEQ6",
+        "title": "یک عدد",
+        "is_selected": false
+       },
+       {
+        "id": "qnk4eD",
+        "title": "سه سیم کارت",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "VgmRQ0",
+      "filter_type": "radio_select",
+      "title": "دوربین اصلی",
+      "items": [
+       {
+        "id": "02oxJq",
+        "title": "۵۰ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "q6NYAq",
+        "title": "۴۸ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "Dolx6g",
+        "title": "۱۲ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "qlmwJD",
+        "title": "۱۳ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "g3ojOg",
+        "title": "۶۴ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "qZ2nVq",
+        "title": "۱۰۸ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gmBGP0",
+        "title": "۸ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gvoMo0",
+        "title": "۲ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0dExyq",
+        "title": "۴ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "DYv6ng",
+        "title": "ندارد",
+        "is_selected": false
+       },
+       {
+        "id": "0VOlEq",
+        "title": "VGA",
+        "is_selected": false
+       },
+       {
+        "id": "gA5xLg",
+        "title": "۱۶ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gG5j8q",
+        "title": "۲۰۰ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0K5xQD",
+        "title": "۵ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0rOmNQ",
+        "title": "۰.۳ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0rGaMK",
+        "title": "یک دوربین 64 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0WAyKy",
+        "title": "QVGA",
+        "is_selected": false
+       },
+       {
+        "id": "qOQ2Lg",
+        "title": "۲۵ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0Vom5K",
+        "title": "32 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "09x1Wg",
+        "title": "3.2 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gpx87g",
+        "title": "۲۰ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "04odKg",
+        "title": "۱.۳ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gy6JP0",
+        "title": "۴۰ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "gy2bLl",
+        "title": "24 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "qE54Qq",
+        "title": "۲۱ مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "ql8VlK",
+        "title": "100 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "04ljB7",
+        "title": "54 مگاپیکسل",
+        "is_selected": false
+       },
+       {
+        "id": "0VA6vK",
+        "title": "0.08 مگاپیکسل",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "w021Xg",
+      "filter_type": "radio_select",
+      "title": "فناوری صفحه نمایش",
+      "items": [
+       {
+        "id": "qPw1Q0",
+        "title": "IPS LED LCD",
+        "is_selected": false
+       },
+       {
+        "id": "Dzmjkq",
+        "title": "AMOLED",
+        "is_selected": false
+       },
+       {
+        "id": "D1vBJW",
+        "title": "Super AMOLED",
+        "is_selected": false
+       },
+       {
+        "id": "0alxJg",
+        "title": "TFT LCD",
+        "is_selected": false
+       },
+       {
+        "id": "0WZ42g",
+        "title": "OLED",
+        "is_selected": false
+       },
+       {
+        "id": "gR2JnW",
+        "title": "TFT",
+        "is_selected": false
+       },
+       {
+        "id": "0QXRzk",
+        "title": "IPS",
+        "is_selected": false
+       },
+       {
+        "id": "0aGpP7",
+        "title": "PLS",
+        "is_selected": false
+       },
+       {
+        "id": "g8PKwv",
+        "title": "IPS LCD",
+        "is_selected": false
+       },
+       {
+        "id": "0r8KpD",
+        "title": "LED LCD",
+        "is_selected": false
+       },
+       {
+        "id": "0K46dK",
+        "title": "LCD",
+        "is_selected": false
+       },
+       {
+        "id": "0a6olZ",
+        "title": "Super Retina XDR OLED",
+        "is_selected": false
+       },
+       {
+        "id": "qPlLyA",
+        "title": "Dynamic AMOLED 2X",
+        "is_selected": false
+       },
+       {
+        "id": "0QdEnk",
+        "title": "LTPO OLED",
+        "is_selected": false
+       },
+       {
+        "id": "0ManE3",
+        "title": "Dynamic LTPO AMOLED 2X",
+        "is_selected": false
+       },
+       {
+        "id": "qnzbPe",
+        "title": "LTPO Super Retina XDR OLED",
+        "is_selected": false
+       },
+       {
+        "id": "qZPjOQ",
+        "title": "P - OLED",
+        "is_selected": false
+       },
+       {
+        "id": "042YjZ",
+        "title": "Dynamic AMOLED",
+        "is_selected": false
+       },
+       {
+        "id": "0WAJky",
+        "title": "Liquid Retina",
+        "is_selected": false
+       },
+       {
+        "id": "D1mden",
+        "title": "Foldable Dynamic AMOLED",
+        "is_selected": false
+       },
+       {
+        "id": "DbGRWY",
+        "title": "Super AMOLED Plus",
+        "is_selected": false
+       },
+       {
+        "id": "gAlE1n",
+        "title": "PLS IPS",
+        "is_selected": false
+       },
+       {
+        "id": "0MYJVB",
+        "title": "Retina IPS LCD",
+        "is_selected": false
+       },
+       {
+        "id": "qPlLyN",
+        "title": "LTPO AMOLED",
+        "is_selected": false
+       },
+       {
+        "id": "qEeYV6",
+        "title": "LTPS",
+        "is_selected": false
+       },
+       {
+        "id": "qPdY2M",
+        "title": "PLS TFT",
+        "is_selected": false
+       },
+       {
+        "id": "gmjBEE",
+        "title": "QVGA",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "ngywqR",
+      "filter_type": "radio_select",
+      "title": "اندازه",
+      "items": [
+       {
+        "id": "DzpMvx",
+        "title": "6.1 اینچ",
+        "is_selected": false
+       },
+       {
+        "id": "gwW744",
+        "title": "6.6 اینچ",
+        "is_selected": false
+       },
+       {
+        "id": "gv27KX",
+        "title": "6.58 اینچ",
+        "is_selected": false
+       }
+      ]
+     },
+     {
+      "filter_id": "w02XDY",
+      "filter_type": "radio_select",
+      "title": "مدل",
+      "items": [
+       {
+        "id": "gv27Ko",
+        "title": "Galaxy A04s",
+        "is_selected": false
+       },
+       {
+        "id": "0a6o2G",
+        "title": "iPhone 11 A2223",
+        "is_selected": false
+       },
+       {
+        "id": "09r78w",
+        "title": "Black Shark 5 Pro",
+        "is_selected": false
+       },
+       {
+        "id": "0QXRpz",
+        "title": "Redmi Note 11SE",
+        "is_selected": false
+       },
+       {
+        "id": "D5VeQP",
+        "title": "X8",
+        "is_selected": false
+       },
+       {
+        "id": "q7rwW6",
+        "title": "iPhone 13",
+        "is_selected": false
+       },
+       {
+        "id": "qn3zGR",
+        "title": "iPhone 11 LZA",
+        "is_selected": false
+       },
+       {
+        "id": "q6mQPX",
+        "title": "nova 8i",
+        "is_selected": false
+       },
+       {
+        "id": "q7rwOL",
+        "title": "iPhone SE 2022 LLA",
+        "is_selected": false
+       },
+       {
+        "id": "gR3NRE",
+        "title": "Edge 30 Fusion Viva Magenta",
+        "is_selected": false
+       },
+       {
+        "id": "DxdWbP",
+        "title": "T352",
+        "is_selected": false
+       },
+       {
+        "id": "gexYQM",
+        "title": "Galaxy M52 5G",
+        "is_selected": false
+       },
+       {
+        "id": "DzaQOQ",
+        "title": "Narzo 50",
+        "is_selected": false
+       },
+       {
+        "id": "DLlVJA",
+        "title": "403",
+        "is_selected": false
+       },
+       {
+        "id": "gy2BLO",
+        "title": "106",
+        "is_selected": false
+       },
+       {
+        "id": "gp2XQj",
+        "title": "5710 XpressAudio",
+        "is_selected": false
+       }
+      ]
+     }
+    ],
+    "pagination": {
+     "current_page": 0,
+     "total": 10000,
+     "total_pages": 500,
+     "count": 11,
+     "per_page": 12
+    },
+    "suggested_categories": [
+     {
+      "id": "AqZkDJ",
+      "title": "گوشی",
+      "category": "موبایل"
+     },
+     {
+      "id": "Xqnbmq",
+      "title": "گوشی",
+      "category": "پایه، استند و گیمبال"
+     },
+     {
+      "id": "ygGAWq",
+      "title": "گوشی",
+      "category": "قاب و کاور موبایل"
+     }
+    ],
+    "suggested_keywords": [
+     {
+      "id": "dq6e01_1",
+      "title": "گوشی موبایل",
+      "href": "/search?query=گوشی+موبایل"
+     },
+     {
+      "id": "dq6e01_2",
+      "title": "گوشی سامسونگ",
+      "href": "/search?query=گوشی+سامسونگ"
+     },
+     {
+      "id": "dq6e01_3",
+      "title": "گوشی شیائومی",
+      "href": "/search?query=گوشی+شیائومی"
+     },
+     {
+      "id": "dq6e01_4",
+      "title": "موبایل",
+      "href": "/search?query=موبایل"
+     },
+     {
+      "id": "dq6e01_5",
+      "title": "ساعت هوشمند",
+      "href": "/search?query=ساعت+هوشمند"
+     },
+     {
+      "id": "dq6e01_6",
+      "title": "تبلت",
+      "href": "/search?query=تبلت"
+     },
+     {
+      "id": "dq6e01_7",
+      "title": "هندزفری بلوتوثی",
+      "href": "/search?query=هندزفری+بلوتوثی"
+     },
+     {
+      "id": "dq6e01_8",
+      "title": "گوشی نوکیا",
+      "href": "/search?query=گوشی+نوکیا"
+     },
+     {
+      "id": "dq6e01_9",
+      "title": "ایرپاد",
+      "href": "/search?query=ایرپاد"
+     }
+    ]
+   }
+  ],
+  "top_banners": []
+ }
+}

@@ -1,0 +1,1611 @@
+{
+ "status": true,
+ "data": {
+  "id": "42yeLw",
+  "configurable_attribute": [
+   {
+    "id": "x0QZq8",
+    "type": "color",
+    "title": "رنگ",
+    "value": {
+     "id": "J0WmyD",
+     "title": "بنفش",
+     "hex_code": "#6D244B",
+     "default": false
+    }
+   },
+   {
+    "id": "x0QZq8",
+    "type": "color",
+    "title": "رنگ",
+    "value": {
+     "id": "E047g8",
+     "title": "سبز",
+     "hex_code": "#7fcd40",
+     "default": false
+    }
+   },
+   {
+    "id": "x0QZq8",
+    "type": "color",
+    "title": "رنگ",
+    "value": {
+     "id": "70K5DJ",
+     "title": "مشکی",
+     "hex_code": "#000000",
+     "default": true
+    }
+   }
+  ],
+  "variants": [
+   {
+    "variation_id": "lB349P",
+    "attribute_ids": [
+     {
+      "attribute_id": "x0QZq8",
+      "attribute_value_id": "70K5DJ"
+     }
+    ],
+    "vendor": [
+     {
+      "vendor_product_info_id": "zzbx6x",
+      "vendor_id": "gmMXpP",
+      "price": 49000000,
+      "special_price": 33980000,
+      "special_price_percent_discount": 31,
+      "price_changed_at": "2026-09-13T16:55:05+03:30",
+      "special-price_changed_at": "2026-09-19T15:09:52+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "mkYGG8",
+      "vendor_id": "09wGjE",
+      "price": 34450000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-19T10:42:51+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "23aEBA",
+      "vendor_id": "gv6OYB",
+      "price": 55000000,
+      "special_price": 34550000,
+      "special_price_percent_discount": 38,
+      "price_changed_at": "2026-09-06T12:00:04+03:30",
+      "special-price_changed_at": "2026-09-19T12:32:52+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "GwKKZJ",
+      "vendor_id": "0WVbjY",
+      "price": 34600000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-16T13:38:22+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "J4r8Bk",
+      "vendor_id": "gGzXM2",
+      "price": 34764000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-19T14:47:22+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 4,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "b1doZO",
+      "vendor_id": "0VWAnq",
+      "price": 62000000,
+      "special_price": 35000000,
+      "special_price_percent_discount": 44,
+      "price_changed_at": "2026-09-16T15:47:12+03:30",
+      "special-price_changed_at": "2026-09-19T13:10:43+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "a8Enn5",
+      "vendor_id": "gRW4dG",
+      "price": 44000000,
+      "special_price": 36200000,
+      "special_price_percent_discount": 18,
+      "price_changed_at": "2026-09-16T10:32:27+03:30",
+      "special-price_changed_at": "2026-09-16T16:26:27+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "y28R3l",
+      "vendor_id": "qP2Ne6",
+      "price": 38099000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-19T14:07:28+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": false,
+        "fbm_percent": 0
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "vdY29w",
+      "vendor_id": "099lk2",
+      "price": 41500000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-19T14:16:05+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "50dylq",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": false,
+        "fbm_percent": 0
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "GwaMkE",
+      "vendor_id": "gw4b17",
+      "price": 63000000,
+      "special_price": 45000000,
+      "special_price_percent_discount": 29,
+      "price_changed_at": "2026-09-02T16:55:41+03:30",
+      "special-price_changed_at": "2026-09-14T16:44:05+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "2Nn5aW",
+      "vendor_id": "DLXGX5",
+      "price": 45900000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-16T17:21:40+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "Xqn7eD",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": false,
+        "fbm_percent": 0
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     }
+    ],
+    "active_vendors": 11,
+    "min_price_vendor": null
+   },
+   {
+    "variation_id": "A7w9Lo",
+    "attribute_ids": [
+     {
+      "attribute_id": "x0QZq8",
+      "attribute_value_id": "J0WmyD"
+     }
+    ],
+    "vendor": [
+     {
+      "vendor_product_info_id": "j1Ke74",
+      "vendor_id": "09wGjE",
+      "price": 34100000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-19T11:00:05+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "9jVKK9",
+      "vendor_id": "gRW4dG",
+      "price": 40000000,
+      "special_price": 36000000,
+      "special_price_percent_discount": 10,
+      "price_changed_at": "2026-09-19T11:42:01+03:30",
+      "special-price_changed_at": "2026-09-19T11:42:01+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "PdnMjQ",
+      "vendor_id": "gw4b17",
+      "price": 55000000,
+      "special_price": 38124000,
+      "special_price_percent_discount": 31,
+      "price_changed_at": "2026-09-15T10:19:02+03:30",
+      "special-price_changed_at": "2026-09-15T10:19:02+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "LPae15",
+      "vendor_id": "DLXGX5",
+      "price": 50000000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-14T20:50:04+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "GDLA2g",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": false,
+        "fbm_percent": 0
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     }
+    ],
+    "active_vendors": 4,
+    "min_price_vendor": null
+   },
+   {
+    "variation_id": "p2dE6l",
+    "attribute_ids": [
+     {
+      "attribute_id": "x0QZq8",
+      "attribute_value_id": "E047g8"
+     }
+    ],
+    "vendor": [
+     {
+      "vendor_product_info_id": "lBQnny",
+      "vendor_id": "gRW4dG",
+      "price": 40000000,
+      "special_price": 36800000,
+      "special_price_percent_discount": 8,
+      "price_changed_at": "2026-09-15T21:45:14+03:30",
+      "special-price_changed_at": "2026-09-16T16:26:55+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": true
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "mk8o5P",
+      "vendor_id": "gw4b17",
+      "price": 55000000,
+      "special_price": 38124000,
+      "special_price_percent_discount": 31,
+      "price_changed_at": "2026-09-15T10:19:45+03:30",
+      "special-price_changed_at": "2026-09-15T10:19:45+03:30",
+      "stock": 1,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "lgw7Mg",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": true,
+        "fbm_percent": 50
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "vendor",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     },
+     {
+      "vendor_product_info_id": "j15nob",
+      "vendor_id": "DLXGX5",
+      "price": 45900000,
+      "special_price": 0,
+      "special_price_percent_discount": 0,
+      "price_changed_at": "2026-09-16T17:20:22+03:30",
+      "special-price_changed_at": "0001-01-01T00:00:00Z",
+      "stock": 8,
+      "vendor_rate": "excellent",
+      "is_available_in_shop": false,
+      "is_available_in_vendor_inventory": true,
+      "show_remaining_stock": false,
+      "warranty_id": "Xqn7eD",
+      "shipment": {
+       "normal": {
+        "enabled": false
+       },
+       "asap": {
+        "enabled": true,
+        "has_next_day": false,
+        "next_day_percent": 0
+       },
+       "ship_by_seller": {
+        "enabled": false,
+        "start_time_estimation": 0,
+        "end_time_estimation": 0
+       },
+       "heavy": {
+        "enabled": false
+       },
+       "heavy_ship_by_seller": {
+        "enabled": false
+       },
+       "fbm": {
+        "enabled": false,
+        "fbm_percent": 0
+       }
+      },
+      "snapp_pay_installment": [],
+      "special_price_discount_type": "",
+      "vendor_is_pro": null,
+      "vendor_authenticity": null
+     }
+    ],
+    "active_vendors": 3,
+    "min_price_vendor": null
+   }
+  ],
+  "default_variant": {
+   "variation_id": "lB349P",
+   "vendor_product_info_id": "zzbx6x",
+   "vendor_id": "gmMXpP",
+   "attribute": [
+    {
+     "attribute_id": "x0QZq8",
+     "attribute_value_id": "70K5DJ"
+    }
+   ],
+   "min_price_vendor": null
+  },
+  "vendors": [
+   {
+    "id": "gmMXpP",
+    "title": "پیدا تک",
+    "title_en": "",
+    "href": "/seller/gmMXpP",
+    "logo": ""
+   },
+   {
+    "id": "09wGjE",
+    "title": "نامیرا همراه پارس",
+    "title_en": "",
+    "href": "/seller/09wGjE",
+    "logo": ""
+   },
+   {
+    "id": "gv6OYB",
+    "title": "بانی‌ نو",
+    "title_en": "bani noo",
+    "href": "/seller/gv6OYB",
+    "logo": ""
+   },
+   {
+    "id": "0WVbjY",
+    "title": "پارس نوین مدیا",
+    "title_en": "",
+    "href": "/seller/0WVbjY",
+    "logo": ""
+   },
+   {
+    "id": "gGzXM2",
+    "title": "فرفره",
+    "title_en": "",
+    "href": "/seller/gGzXM2",
+    "logo": ""
+   },
+   {
+    "id": "0VWAnq",
+    "title": "ویستا همراه",
+    "title_en": "vistahamrah",
+    "href": "/seller/0VWAnq",
+    "logo": ""
+   },
+   {
+    "id": "gRW4dG",
+    "title": "ویراوین",
+    "title_en": "",
+    "href": "/seller/gRW4dG",
+    "logo": ""
+   },
+   {
+    "id": "qP2Ne6",
+    "title": "نست کالا",
+    "title_en": "",
+    "href": "/seller/qP2Ne6",
+    "logo": ""
+   },
+   {
+    "id": "099lk2",
+    "title": "ارشین موبایل",
+    "title_en": "",
+    "href": "/seller/099lk2",
+    "logo": ""
+   },
+   {
+    "id": "gw4b17",
+    "title": "پارس قائم",
+    "title_en": "",
+    "href": "/seller/gw4b17",
+    "logo": ""
+   },
+   {
+    "id": "DLXGX5",
+    "title": "موبایل یک صفری",
+    "title_en": "",
+    "href": "/seller/DLXGX5",
+    "logo": ""
+   }
+  ],
+  "promotion": null,
+  "attributes": [
+   {
+    "id": "609zyq",
+    "title": "رزولوشن صفحه نمایش",
+    "value": "1600×720 پیکسل"
+   },
+   {
+    "id": "50d8Q0",
+    "title": "تراکم پیکسلی",
+    "value": "262 پیکسل بر اینچ"
+   },
+   {
+    "id": "70KO50",
+    "title": "نسبت صفحه نمایش به بدنه",
+    "value": "83.8"
+   },
+   {
+    "id": "ngypwD",
+    "title": "تعداد سیم کارت",
+    "value": "دو عدد"
+   },
+   {
+    "id": "ygGAWq",
+    "title": "تراشه",
+    "value": "Mediatek Helio G99"
+   },
+   {
+    "id": "ODYArD",
+    "title": "پردازنده",
+    "value": "هشت هسته‌ای ( دو هسته Cortex-A76 با فرکانس 2.2 گیگاهرتز - شش هسته Cortex-A55 با فرکانس 2.0 گیگاهرتز)"
+   },
+   {
+    "id": "5Djebq",
+    "title": "خروجی صدا",
+    "value": "جک 3.5 میلی متری صدا"
+   },
+   {
+    "id": "4DBGdg",
+    "title": "حسگرها",
+    "value": "قطب نما (Compass),شتاب سنج (Accelerometer),مجاورت (Proximity),اثرانگشت روی لبه (FingerPrint|Side - Mounted)"
+   },
+   {
+    "id": "EqOPKD",
+    "title": "سیستم عامل",
+    "value": "Android"
+   },
+   {
+    "id": "GDLknq",
+    "title": "نسخه سیستم عامل",
+    "value": "Android 15"
+   },
+   {
+    "id": "O0Mnxq",
+    "title": "اقلام همراه",
+    "value": "دفترچه‌ راهنما \r\nکابل USB Type-C"
+   },
+   {
+    "id": "gG1MQq",
+    "title": "نسخه بلوتوث",
+    "value": "5.3"
+   },
+   {
+    "id": "gRdaGq",
+    "title": "نسبت تصویر",
+    "value": "20:9"
+   },
+   {
+    "id": "gen2y0",
+    "title": "استاندارد کارت حافظه",
+    "value": "eMMC 5.1"
+   },
+   {
+    "id": "qZEe30",
+    "title": "فلش",
+    "value": "LED"
+   },
+   {
+    "id": "0KP1nq",
+    "title": "فناوری فوکوس",
+    "value": "PDAF"
+   },
+   {
+    "id": "q62Mjq",
+    "title": "دسته ‌بندی",
+    "value": "اقتصادی"
+   },
+   {
+    "id": "02RzJ0",
+    "title": "فرکانس پردازنده‌ مرکزی",
+    "value": "2.0 - 2.2 گیگاهرتز"
+   },
+   {
+    "id": "gyX79D",
+    "title": "شبکه‌های مخابراتی",
+    "value": "2G,3G,4G"
+   },
+   {
+    "id": "qnlX9g",
+    "title": "نوع لنز دوربین اصلی",
+    "value": "عریض"
+   },
+   {
+    "id": "DxnkQ0",
+    "title": "نوع لنز دوربین دوم",
+    "value": "عمیق"
+   },
+   {
+    "id": "DjKXjg",
+    "title": "مشخصات دوربین دوم",
+    "value": "دوربین عمق‌سنج، دریچه دیافراگم f/2.4"
+   },
+   {
+    "id": "DBzJ8D",
+    "title": "توان شارژ",
+    "value": "15 وات"
+   },
+   {
+    "id": "0M6J7q",
+    "title": "قابلیت‌های شارژ",
+    "value": "شارژ با سیم"
+   },
+   {
+    "id": "DBzEZD",
+    "title": "تکنولوژی‌های مکان‌یابی (GPS)",
+    "value": "GPS,GLONASS,GALILEO,BDS(Beidou)"
+   },
+   {
+    "id": "0drxpD",
+    "title": "نوع سیم کارت",
+    "value": "سایز نانو (8.8 × 12.3 میلی متر)"
+   },
+   {
+    "id": "qOKPOq",
+    "title": "درگاه‌ها و فناوری‌های ارتباطی",
+    "value": "USB Type - C 2.0"
+   },
+   {
+    "id": "0r46zD",
+    "title": "زبان‌های قابل پشتیبانی",
+    "value": "انگلیسی,فارسی,چینی"
+   },
+   {
+    "id": "5gvR6g",
+    "title": "ابعاد صفحه نمایش",
+    "value": "6٫7 اینچ"
+   },
+   {
+    "id": "VgmRQ0",
+    "title": "دوربین اصلی",
+    "value": "۵۰ مگاپیکسل"
+   },
+   {
+    "id": "dq6peg",
+    "title": "دوربین سلفی",
+    "value": "8 مگاپیکسل"
+   },
+   {
+    "id": "Jql8Kq",
+    "title": "قابلیت‌های دوربین",
+    "value": "دریچه دیافراگم f/1.8، اندازه سنسور 1/2.76 اینچ، اندازه پیکسل 0.64 میکرومتر، قابلیت فوکوس خودکار با تشخیص فاز (PDAF)"
+   },
+   {
+    "id": "6gAYWg",
+    "title": "فیلم‌برداری",
+    "value": "فیلم‌برداری با کیفیت 1080p و با سرعت 30 و 60 فریم بر ثانیه"
+   },
+   {
+    "id": "ngpjKq",
+    "title": "ابعاد",
+    "value": "164٫4×77٫4×7٫6 میلی‌متر"
+   },
+   {
+    "id": "kqEx30",
+    "title": "وزن",
+    "value": "184 گرم"
+   },
+   {
+    "id": "PD1vkg",
+    "title": "جنس بدنه",
+    "value": "پلاستیک"
+   },
+   {
+    "id": "W0VWMq",
+    "title": "گرافیک",
+    "value": "Mali-G57 MC2"
+   },
+   {
+    "id": "Xqnbmq",
+    "title": "رم",
+    "value": "۴ گیگابایت"
+   },
+   {
+    "id": "KgN24g",
+    "title": "درگاه ارتباطی",
+    "value": "USB Type - C"
+   },
+   {
+    "id": "LDxZy0",
+    "title": "درگاه کارت حافظه",
+    "value": "دارد"
+   },
+   {
+    "id": "KqJkXD",
+    "title": "بلندگو",
+    "value": "دارد"
+   },
+   {
+    "id": "aD5wo0",
+    "title": "فناوری‌های ارتباطی",
+    "value": "4G,Wi - Fi,بلوتوث"
+   },
+   {
+    "id": "Kq7xdD",
+    "title": "باتری قابل تعویض",
+    "value": "ندارد"
+   },
+   {
+    "id": "0Vrmn0",
+    "title": "مشخصات باتری",
+    "value": "5000 میلی‌آمپر ساعت"
+   },
+   {
+    "id": "w021Xg",
+    "title": "فناوری صفحه نمایش",
+    "value": "PLS"
+   },
+   {
+    "id": "rg3V2D",
+    "title": "بلوتوث",
+    "value": "دارد"
+   },
+   {
+    "id": "aD59bD",
+    "title": "حافظه داخلی",
+    "value": "64 گیگابایت"
+   },
+   {
+    "id": "ODYZng",
+    "title": "رادیو",
+    "value": "FM"
+   },
+   {
+    "id": "Pg8x4g",
+    "title": "مدل",
+    "value": "A07"
+   },
+   {
+    "id": "gR9dxD",
+    "title": "پشتیبانی از کارت حافظه",
+    "value": "دارد"
+   },
+   {
+    "id": "gmnoL0",
+    "title": "حداکثر ظرفیت کارت حافظه",
+    "value": "256 گیگابایت"
+   }
+  ],
+  "categories": [
+   {
+    "id": null,
+    "title": "اسنپ شاپ",
+    "href": "/",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "id": "x0QZq8",
+    "title": "دیجیتال",
+    "href": "/category/digital",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "id": "AqZkDJ",
+    "title": "موبایل",
+    "href": "/category/mobile",
+    "target": "",
+    "rel": ""
+   }
+  ],
+  "content": {
+   "title_fa": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+   "title_en": "Samsung Galaxy A07 Dual SIM Storage 64GB And 4GB RAM Mobile Phone",
+   "description": "گوشی موبایل سامسونگ مدل Galaxy A07 با ظرفیت داخلی 64 گیگابایت و رم 4 گیگابایت، یکی از گزینه‌های اقتصادی و در عین حال قدرتمند برند سامسونگ در سال 2024 است. این گوشی با باتری 5000 میلی‌آمپرساعتی، نمایشگر 6.7 اینچی و دوربین 50 مگاپیکسلی عرضه شده تا کاربران در سطح قیمت میان‌رده، تجربه‌ای فراتر از انتظار داشته باشند.\r\n\r\nصفحه‌نمایش و طراحی\r\n\r\nGalaxy A07 از نمایشگری 6.7 اینچی با وضوح 1600×720 پیکسل و نسبت تصویر 20:9 بهره می‌برد. این صفحه‌نمایش با تراکم 262 پیکسل در هر اینچ، تجربه‌ای قابل‌قبول برای تماشای ویدیو و وب‌گردی فراهم می‌کند. طراحی باریک و سبک دستگاه، با بدنه پلاستیکی مات و وزن 184 گرمی، استفاده طولانی‌مدت از گوشی را آسان‌تر کرده است.\r\n\r\n• نسبت صفحه به بدنه بیش از 83٪ برای نمای عریض‌تر\r\n• طراحی مینیمال با ضخامت 7.6 میلی‌متر\r\n• حسگر اثرانگشت در لبه برای باز شدن سریع\r\n• مقاومت قابل‌قبول بدنه در برابر ضربه و خط‌وخش روزمره\r\n\r\nپردازنده و عملکرد\r\n\r\nاین مدل به تراشه Mediatek Helio G99 مجهز شده که شامل دو هسته پرقدرت Cortex-A76 با فرکانس 2.2 گیگاهرتز و شش هسته کم‌مصرف Cortex-A55 است. در کنار پردازنده گرافیکی Mali-G57 MC2، این ترکیب برای اجرای برنامه‌های روزمره و بازی‌های سبک تا متوسط عملکردی روان ارائه می‌دهد.\r\n\r\n• پردازش روان چندوظیفگی\r\n• عملکرد بهینه برای کاربری روزمره و شبکه‌های اجتماعی\r\n• پشتیبانی کامل از سیستم‌عامل اندروید 15\r\n• بلوتوث نسخه 5.3 برای اتصال پایدارتر\r\n\r\nحافظه و فضای ذخیره‌سازی\r\n\r\nبا 64 گیگابایت حافظه داخلی از نوع eMMC 5.1 و 4 گیگابایت رم، فضای مناسبی برای ذخیره اپلیکیشن‌ها، عکس‌ها و ویدیوها در اختیار دارید. همچنین درگاه کارت حافظه جداگانه امکان افزایش فضای ذخیره‌سازی را فراهم می‌کند.\r\n\r\n• پشتیبانی از کارت حافظه برای افزایش ظرفیت\r\n• رم 4 گیگابایتی برای اجرای روان اپلیکیشن‌ها\r\n• سرعت قابل‌قبول خواندن و نوشتن حافظه داخلی\r\n• مناسب برای استفاده نیمه‌سنگین\r\n\r\nدوربین و صدا\r\n\r\nدوربین اصلی 50 مگاپیکسلی با قابلیت فوکوس خودکار و دریچه دیافراگم f/1.8، تصاویر با کیفیت و جزئیات بالا ثبت می‌کند. دوربین دوم 2 مگاپیکسلی برای عمق‌سنجی و پرتره طراحی شده است. دوربین سلفی 8 مگاپیکسلی نیز کیفیت مناسبی برای تماس تصویری و شبکه‌های اجتماعی ارائه می‌دهد.\r\n\r\n• فیلم‌برداری 1080p با سرعت 30 و 60 فریم\r\n• کیفیت مطلوب عکس‌برداری در نور مناسب\r\n• جک 3.5 میلی‌متری صدا برای اتصال هدفون\r\n• اسپیکر با صدای شفاف و طبیعی\r\n\r\nباتری و شارژدهی\r\n\r\nباتری 5000 میلی‌آمپرساعتی Galaxy A07 همراه با توان شارژ 15 وات، امکان استفاده طولانی‌مدت بدون نگرانی از اتمام سریع شارژ را فراهم می‌کند. شارژ از طریق پورت USB Type-C انجام می‌شود.\r\n\r\n• مناسب برای استفاده روزانه و نیمه‌سنگین\r\n• شارژ پایدار و ایمن با کابل Type-C\r\n• شارژدهی ۱ تا ۱.۵ روز با مصرف معمولی\r\n• پشتیبانی از شارژ سریع 15 وات\r\n\r\nطراحی و رنگ‌بندی\r\n\r\nبدنه پلاستیکی سبک، طراحی ساده و خوش‌دست، و ابعاد متناسب 164.4×77.4×7.6 میلی‌متری باعث شده Galaxy A07 هم برای نوجوانان و هم بزرگسالان انتخاب مناسبی باشد. ظاهر مات و مینیمال گوشی، حس مدرن و زیبایی به آن می‌بخشد.\r\n\r\n• وزن سبک 184 گرم برای استفاده راحت‌تر\r\n• طراحی خوش‌دست و ارگونومیک\r\n• ظاهر یکپارچه و ساده\r\n• تنوع رنگ‌های متناسب با سلیقه‌های مختلف\r\n\r\nاقلام همراه در جعبه\r\n\r\nدر بسته‌بندی گوشی موبایل Samsung Galaxy A07، کابل USB Type-C و دفترچه راهنما قرار دارد. شارژر به‌صورت جداگانه باید تهیه شود.",
+   "meta_title": "",
+   "meta_description": "",
+   "is_fake": false
+  },
+  "brand": {
+   "title_fa": "سامسونگ",
+   "title_en": "Samsung",
+   "description": null,
+   "logo": {
+    "src": "https://cdn.snappshop.ir/brands/9d/1d/a0fa12d0-3a58-44dc-bf50-c023b1859d1d.jpg",
+    "alt": "سامسونگ"
+   },
+   "website": null,
+   "cover": null,
+   "breadcrumbs": [
+    {
+     "title": "سامسونگ",
+     "href": "/brand/samsung",
+     "target": "",
+     "rel": ""
+    },
+    {
+     "title": "موبایل سامسونگ",
+     "href": "/category/mobile/samsung",
+     "target": "",
+     "rel": ""
+    }
+   ]
+  },
+  "warranties": [
+   {
+    "id": "lgw7Mg",
+    "name": "گارانتی 18 ماهه شرکتی",
+    "company_title": "شرکتی",
+    "duration": "18 ماه",
+    "description": ""
+   },
+   {
+    "id": "50dylq",
+    "name": "گارانتی 12 ماهه هماهنگ سرویس",
+    "company_title": "هماهنگ سرویس",
+    "duration": "12 ماه",
+    "description": ""
+   },
+   {
+    "id": "Xqn7eD",
+    "name": "گارانتی 18 ماهه هما تلکام",
+    "company_title": "هما تلکام",
+    "duration": "18 ماه",
+    "description": ""
+   },
+   {
+    "id": "GDLA2g",
+    "name": "گارانتی 18 ماهه رایانه همراه کیان",
+    "company_title": "رایانه همراه کیان",
+    "duration": "18 ماه",
+    "description": ""
+   }
+  ],
+  "images": [
+   {
+    "id": "O3zERL",
+    "src": "https://cdn.snappshop.ir/products/d4/05/9fbb9045-7249-4475-82c2-9e904216d405.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "O3zEyx",
+    "src": "https://cdn.snappshop.ir/products/8e/a5/9fbb9b2a-26c9-4f74-ab3d-e512ae858ea5.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "Z465wr",
+    "src": "https://cdn.snappshop.ir/products/26/4b/9fbb9b2a-4a76-4b1f-9681-9c6f61bb264b.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "34AONA",
+    "src": "https://cdn.snappshop.ir/products/5b/ae/9fbb9b2a-5928-492f-bcd9-510b4d575bae.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "vwW49p",
+    "src": "https://cdn.snappshop.ir/products/95/2a/9fbb9b2a-67c5-45c3-bb94-6f1f669a952a.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "23lPBx",
+    "src": "https://cdn.snappshop.ir/products/33/e0/9fbb9b2a-8013-488a-8fdd-47ce569b33e0.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "9jGe7z",
+    "src": "https://cdn.snappshop.ir/products/7d/cf/9fbb9b2a-8ff2-4643-9c2a-144c91607dcf.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "dJYQyL",
+    "src": "https://cdn.snappshop.ir/products/2f/af/9fbb9b2a-9e8f-423f-88ba-2fe64ed82faf.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "KlwYEl",
+    "src": "https://cdn.snappshop.ir/products/d4/52/9fbb9b2a-ae69-4c71-8651-1d0a2a23d452.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "ma73Xk",
+    "src": "https://cdn.snappshop.ir/products/33/28/9fbb9b2a-b748-40e4-ac8a-5bc30bd83328.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "P3PkLM",
+    "src": "https://cdn.snappshop.ir/products/a0/e4/9fbb9c1b-4302-468f-b277-d4e7832ca0e4.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "6m1v7X",
+    "src": "https://cdn.snappshop.ir/products/36/72/9fbb9b2a-fac9-4749-bbca-ba0390663672.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "O3zEJx",
+    "src": "https://cdn.snappshop.ir/products/49/0a/9fbb9c1b-5f11-4be8-be73-501e8b98490a.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "Z465Jr",
+    "src": "https://cdn.snappshop.ir/products/c1/cf/9fbb9c1b-6e0f-4ce1-9b8c-b878bd9fc1cf.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   },
+   {
+    "id": "34AOBA",
+    "src": "https://cdn.snappshop.ir/products/c0/a6/9fbb9c1b-79bc-4ccc-a405-91076965c0a6.jpg",
+    "alt": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+   }
+  ],
+  "wishlist": {
+   "is_liked_by_user": false
+  },
+  "state": {
+   "star_rate": 0,
+   "comments_count": 40,
+   "rate_count": 260,
+   "suggestion_percent_rate": null,
+   "total_views": 0,
+   "total_purchasers": 0
+  },
+  "featured_attributes": [
+   {
+    "id": "50d8Q0",
+    "title": "تراکم پیکسلی",
+    "value": "262 پیکسل بر اینچ"
+   },
+   {
+    "id": "EqOPKD",
+    "title": "سیستم عامل",
+    "value": "Android"
+   },
+   {
+    "id": "5gvR6g",
+    "title": "ابعاد صفحه نمایش",
+    "value": "6٫7 اینچ"
+   },
+   {
+    "id": "kqEx30",
+    "title": "وزن",
+    "value": "184 گرم"
+   }
+  ],
+  "warning_description": "درخواست مرجوع کردن کالا به دلیل \"انصراف از خرید\" فقط در صورتی پذیرفته می‌شود که کالا در وضعیت اولیه خود بوده و پلمپ آن باز نشده باشد.\r\nمرجوع شدن تلفن همراه به دلیل \"انصراف از خرید\" تنها پیش از رجیستری (ثبت در سامانه همتا) امکان‌پذیر است.\r\nکالاهای دارای گارانتی باید در صورت وجود نقص فنی، توسط شرکت گارانتی‌کننده مورد بررسی قرار گیرند.\r\nاگر مشکلی در رجیستری تلفن همراه وجود داشته باشد، تنها تا 30 روز پس از خرید امکان مرجوع کردن کالا وجود دارد.\r\nدر صورت عدم دریافت کد رجیستری، با پشتیبانی اسنپ‌شاپ تماس حاصل فرمایید. اگر کد رجیستری در بازه‌ی زمانی 20 روزه دریافت نشد، می‌توانید تلفن همراه خود را مرجوع نمایید.\r\nدر صورت وارد نمودن اطلاعات شخصی در تلفن همراه مانند گذرواژه (User Name) و رمز عبور (Password)، پیش از مرجوع نمودن، به منظور امکان بررسی کارشناسان و همچنین حفاظت از اطلاعات شخصی شما، اقدام به حذف کامل این اطلاعات از روی دستگاه خود نمایید.",
+  "page": {
+   "is_deactive": false,
+   "canonical_url": null,
+   "redirect_url": "",
+   "status_code": 200,
+   "no_index": false,
+   "device": "",
+   "platform": null,
+   "source": "",
+   "title": "خرید و قیمت گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+   "description": "خرید اینترنتی گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت با بهترین قیمت با امکان مقایسه، بررسی و خرید قسطی و ارسال فوری در اسنپ شاپ",
+   "keywords": null,
+   "extra_meta": [
+    {
+     "property": "og:type",
+     "content": "product"
+    },
+    {
+     "property": "og:url",
+     "content": "https://snappshop.ir/product/snp-25751584"
+    },
+    {
+     "property": "og:title",
+     "content": "خرید و قیمت گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+    },
+    {
+     "property": "og:description",
+     "content": "خرید اینترنتی گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت با بهترین قیمت با امکان مقایسه، بررسی و خرید قسطی و ارسال فوری در اسنپ شاپ"
+    },
+    {
+     "property": "og:image",
+     "content": "https://cdn.snappshop.ir/products/d4/05/9fbb9045-7249-4475-82c2-9e904216d405.jpg"
+    },
+    {
+     "property": "og:image:width",
+     "content": "600"
+    },
+    {
+     "property": "og:image:height",
+     "content": "600"
+    },
+    {
+     "property": "product:price:amount",
+     "content": "33980000"
+    },
+    {
+     "property": "product:price:currency",
+     "content": "IRR"
+    },
+    {
+     "property": "product:availability",
+     "content": "in stock"
+    },
+    {
+     "property": "product:brand",
+     "content": "سامسونگ"
+    },
+    {
+     "name": "twitter:card",
+     "content": "summary_large_image"
+    },
+    {
+     "name": "twitter:title",
+     "content": "خرید و قیمت گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت"
+    },
+    {
+     "name": "twitter:description",
+     "content": "خرید اینترنتی گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت با بهترین قیمت با امکان مقایسه، بررسی و خرید قسطی و ارسال فوری در اسنپ شاپ"
+    },
+    {
+     "name": "twitter:image",
+     "content": "https://cdn.snappshop.ir/products/d4/05/9fbb9045-7249-4475-82c2-9e904216d405.jpg"
+    }
+   ],
+   "json_ld": [
+    {
+     "@type": "Product",
+     "@context": "https://www.schema.org",
+     "name": "خرید و قیمت گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+     "alternateName": "Samsung Galaxy A07 Dual SIM Storage 64GB And 4GB RAM Mobile Phone",
+     "description": "خرید اینترنتی گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت با بهترین قیمت با امکان مقایسه، بررسی و خرید قسطی و ارسال فوری در اسنپ شاپ",
+     "image": [
+      "https://cdn.snappshop.ir/products/d4/05/9fbb9045-7249-4475-82c2-9e904216d405.jpg",
+      "https://cdn.snappshop.ir/products/8e/a5/9fbb9b2a-26c9-4f74-ab3d-e512ae858ea5.jpg",
+      "https://cdn.snappshop.ir/products/26/4b/9fbb9b2a-4a76-4b1f-9681-9c6f61bb264b.jpg",
+      "https://cdn.snappshop.ir/products/5b/ae/9fbb9b2a-5928-492f-bcd9-510b4d575bae.jpg",
+      "https://cdn.snappshop.ir/products/95/2a/9fbb9b2a-67c5-45c3-bb94-6f1f669a952a.jpg",
+      "https://cdn.snappshop.ir/products/33/e0/9fbb9b2a-8013-488a-8fdd-47ce569b33e0.jpg",
+      "https://cdn.snappshop.ir/products/7d/cf/9fbb9b2a-8ff2-4643-9c2a-144c91607dcf.jpg",
+      "https://cdn.snappshop.ir/products/2f/af/9fbb9b2a-9e8f-423f-88ba-2fe64ed82faf.jpg",
+      "https://cdn.snappshop.ir/products/d4/52/9fbb9b2a-ae69-4c71-8651-1d0a2a23d452.jpg",
+      "https://cdn.snappshop.ir/products/33/28/9fbb9b2a-b748-40e4-ac8a-5bc30bd83328.jpg",
+      "https://cdn.snappshop.ir/products/a0/e4/9fbb9c1b-4302-468f-b277-d4e7832ca0e4.jpg",
+      "https://cdn.snappshop.ir/products/36/72/9fbb9b2a-fac9-4749-bbca-ba0390663672.jpg",
+      "https://cdn.snappshop.ir/products/49/0a/9fbb9c1b-5f11-4be8-be73-501e8b98490a.jpg",
+      "https://cdn.snappshop.ir/products/c1/cf/9fbb9c1b-6e0f-4ce1-9b8c-b878bd9fc1cf.jpg",
+      "https://cdn.snappshop.ir/products/c0/a6/9fbb9c1b-79bc-4ccc-a405-91076965c0a6.jpg"
+     ],
+     "mpn": 25751584,
+     "sku": 25751584,
+     "category": "https://snappshop.ir/category/mobile",
+     "brand": {
+      "@type": "Brand",
+      "name": "سامسونگ",
+      "url": "https://snappshop.ir/brand/samsung",
+      "@id": "https://snappshop.ir/brand/samsung"
+     },
+     "offers": {
+      "@type": "Offer",
+      "priceCurrency": "IRR",
+      "price": 339800000,
+      "priceValidUntil": "2026-09-25",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock"
+     }
+    },
+    [
+     {
+      "@type": "BreadcrumbList",
+      "@context": "https://www.schema.org",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "اسنپ شاپ",
+        "item": {
+         "@type": "Corporation",
+         "@id": "https://snappshop.ir/"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "دیجیتال",
+        "item": "https://snappshop.ir/category/digital"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "موبایل",
+        "item": "https://snappshop.ir/category/mobile"
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@context": "https://www.schema.org",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "سامسونگ",
+        "item": {
+         "@type": "Brand",
+         "@id": "https://snappshop.ir/brand/samsung"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "موبایل سامسونگ",
+        "item": "https://snappshop.ir/category/mobile/samsung"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  "similar_category_id": "x0QZq8",
+  "snapp_pay_installment": {
+   "title": "پرداخت اقساطی اسنپ پی",
+   "description": "۴ قسط ماهیانه (بدون کارمزد)"
+  },
+  "gallery_banners": [
+   {
+    "title": "وام اسنپ پی",
+    "href": "#",
+    "rel": "nofollow",
+    "target": "_self",
+    "image": {
+     "alt": "وام اسنپ پی",
+     "src": "https://cdn.snappshop.ir/settings/53/f1/a2a62019-e239-4e73-8edd-99b4291d53f1.jpg"
+    },
+    "utm_source": []
+   }
+  ],
+  "fab_activation": {
+   "pro": false,
+   "express": false,
+   "authenticity": false
+  }
+ }
+}

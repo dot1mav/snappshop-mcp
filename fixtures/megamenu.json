@@ -1,0 +1,5424 @@
+{
+ "status": true,
+ "data": {
+  "menus": [
+   [
+    {
+     "id": 8,
+     "title": "همه دسته‌بندی‌ها",
+     "href": "/categories",
+     "children": [
+      {
+       "id": "af07cc65-591a-48c0-b6e1-062935bc2a79",
+       "title": "موبایل",
+       "href": "/category/mobile",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "85c363f9-188a-4c99-8ca8-0a3ca69461c2",
+         "title": "گوشی‌ موبایل براساس برند",
+         "href": "/category/mobile",
+         "children": [
+          {
+           "id": "b7f3f159-9695-42fa-9c99-7eca0156a6b1",
+           "title": "گوشی‌ اپل (آیفون)",
+           "href": "/category/mobile/apple"
+          },
+          {
+           "id": "b67a4b80-493b-409f-a787-b5481425f151",
+           "title": "گوشی‌ سامسونگ",
+           "href": "/category/mobile/samsung"
+          },
+          {
+           "id": "f30f67bb-994c-4a15-ad52-ca30e0a76129",
+           "title": "گوشی‌ شیائومی",
+           "href": "/category/mobile/xiaomi"
+          },
+          {
+           "id": "e2de6581-38cc-41cc-b299-b539bf218e80",
+           "title": "گوشی‌ نوکیا",
+           "href": "/category/mobile/nokia"
+          },
+          {
+           "id": "947a5531-43c9-4cf5-bc61-0b12a7b78385",
+           "title": "گوشی‌ ریلمی",
+           "href": "/category/mobile/realme"
+          },
+          {
+           "id": "193dce96-a91a-4e7f-969b-2776e826cc7d",
+           "title": "گوشی‌ هانوفر",
+           "href": "/category/mobile/hanofer-mo"
+          },
+          {
+           "id": "6d0c817c-c717-4a1e-a6f0-ad1165a63438",
+           "title": "گوشی‌ آنر",
+           "href": "/category/mobile/honor"
+          },
+          {
+           "id": "2c5bf5e9-49d6-447b-bced-751d19273b08",
+           "title": "گوشی‌ موتورولا",
+           "href": "/category/mobile/motorola"
+          },
+          {
+           "id": "e086d90e-a31e-4c3b-b5e2-a2cdde452364",
+           "title": "گوشی‌ هوآوی",
+           "href": "/category/mobile/huawei"
+          },
+          {
+           "id": "dbf3974e-e16a-4f97-87c0-053595ccbc53",
+           "title": "گوشی‌ تی سی ال",
+           "href": "/category/mobile/tcl"
+          },
+          {
+           "id": "b396a193-ecad-4872-b942-b2753d758544",
+           "title": "گوشی‌ داریا",
+           "href": "/category/mobile/daria"
+          },
+          {
+           "id": "369b5a11-f1aa-4608-8805-34637cd02766",
+           "title": "همه کالاها",
+           "href": "/category/mobile/"
+          }
+         ]
+        },
+        {
+         "id": "1cca6a32-8769-4111-89cc-89ac5b972347",
+         "title": "گوشی‌ موبایل براساس قیمت و عملکرد",
+         "href": "/category/mobile",
+         "children": [
+          {
+           "id": "a98e1fe9-2e73-44ee-8b8c-52ff374b06c9",
+           "title": "گوشی‌های پرچم‌دار",
+           "href": "/product-category/flagship-phone"
+          },
+          {
+           "id": "1e9a5cb9-8243-47c8-bc08-b66aff9f6a3b",
+           "title": "گوشی‌های اقتصادی",
+           "href": "/product-category/budget-phone/"
+          },
+          {
+           "id": "628c19dd-63a0-49f6-8b1e-a36c8fffc8eb",
+           "title": "گوشی‌های میان‌رده",
+           "href": "/product-category/midrange-phone"
+          },
+          {
+           "id": "81195604-48ff-4090-908f-312e42bd6038",
+           "title": "محبوب‌ترین گوشی‌های موبایل",
+           "href": "/category/mobile?sort=60rdDw"
+          },
+          {
+           "id": "aed61c0b-7d5b-4b40-96bf-52cfcffa9ad0",
+           "title": "پرفروش‌ترین گوشی‌های موبایل",
+           "href": "/category/mobile?sort=50aLgW"
+          },
+          {
+           "id": "00c72c25-e032-4120-b0f6-f5d0948a2cf4",
+           "title": "همه کالاها",
+           "href": "/category/mobile/"
+          }
+         ]
+        },
+        {
+         "id": "0fbdbab2-b43f-4152-9376-af15ef249aad",
+         "title": "تبلت براساس برند",
+         "href": "/category/tablet",
+         "children": [
+          {
+           "id": "5acdfec3-3989-48bc-bcf9-ce4cb02b0cab",
+           "title": "تبلت اپل (آی‌پد)",
+           "href": "/category/tablet/apple"
+          },
+          {
+           "id": "1bbf2807-83b2-45bc-a4a1-d09c8df8c8fe",
+           "title": "تبلت سامسونگ",
+           "href": "/category/tablet/samsung"
+          },
+          {
+           "id": "c4b3325a-8402-4836-915a-72c663aa68b7",
+           "title": "تبلت‌ شیائومی",
+           "href": "/category/tablet/xiaomi"
+          },
+          {
+           "id": "6f3e7446-ca42-444a-b065-722284d72eed",
+           "title": "تبلت لنوو",
+           "href": "/category/tablet/lenovo"
+          },
+          {
+           "id": "02ecc0d5-ae3c-4700-a0e2-622b1e01aef0",
+           "title": "تبلت مایکروسافت (سرفیس)",
+           "href": "/category/tablet/microsoft"
+          },
+          {
+           "id": "88957d45-cf6a-4b21-be11-9ca06ec64669",
+           "title": "همه کالاها",
+           "href": "/category/tablet"
+          }
+         ]
+        },
+        {
+         "id": "eba74886-7c96-4cd1-84d2-37fa5e9b4d2e",
+         "title": "محبوب‌ترین تبلت‌ها",
+         "href": "/category/tablet?sort=60rdDw"
+        },
+        {
+         "id": "f08bf64b-e80a-49ed-a82b-de2bf4329a1a",
+         "title": "پرفروش‌ترین تبلت‌ها",
+         "href": "/category/tablet?sort=50aLgW"
+        },
+        {
+         "id": "0c664d4b-2f9c-404b-b0a5-5c10dab268cc",
+         "title": "کتابخوان و کاغذ دیجیتال",
+         "href": "/category/ebook-reader"
+        },
+        {
+         "id": "35ed0f92-607d-4c7b-a7f6-e868af4ec3a2",
+         "title": "لوازم جانبی موبایل و تبلت",
+         "href": "/category/mobile-tablet-accessories",
+         "children": [
+          {
+           "id": "48ae03cf-d701-47f8-b263-7bc95e04c4cd",
+           "title": "قاب و کاور موبایل",
+           "href": "/category/mobile-tablet-covers"
+          },
+          {
+           "id": "cbf8573a-f8e1-4170-ad50-605e73460336",
+           "title": "کیف و کاور تبلت",
+           "href": "/category/mobile-tablet-cover"
+          },
+          {
+           "id": "86fb16da-be49-437b-a2b8-60879a62d152",
+           "title": "محافظ صفحه نمایش",
+           "href": "/category/mobile-tablet-screen-protector"
+          },
+          {
+           "id": "cf3986a0-c7c1-47c8-bf61-0eca9f6bd4b9",
+           "title": "پاوربانک (شارژر همراه)",
+           "href": "/category/powerbank"
+          },
+          {
+           "id": "d10f8d80-dcba-4389-99e6-522bb4955947",
+           "title": "محافظ لنز دوربین موبایل",
+           "href": "/category/mobile-camera-lens-protector"
+          },
+          {
+           "id": "a2356f78-f368-4e26-ac6c-24796d17673e",
+           "title": "پایه، استند و گیمبال",
+           "href": "/category/mobile-holder"
+          },
+          {
+           "id": "9559e4ae-24ec-488c-bc1e-14f6fdcc5e6a",
+           "title": "کابل و تبدیل",
+           "href": "/category/mobile-tablet-cable"
+          },
+          {
+           "id": "7bc25059-65b1-45ba-8217-3b59734947a2",
+           "title": "شارژر موبایل و تبلت",
+           "href": "/category/mobile-tablet-charger"
+          },
+          {
+           "id": "be384c1b-4d56-4efd-aa06-d602bc2da62f",
+           "title": "باتری موبایل و تبلت",
+           "href": "/category/mobile-tablet-battery"
+          },
+          {
+           "id": "bfc079a5-5104-4177-b329-5016d7075056",
+           "title": "کیت تمیزکننده",
+           "href": "/category/mobile-tablet-cleaning-kit"
+          },
+          {
+           "id": "6949ec84-92b5-4569-87ef-987eb5224ab6",
+           "title": "کیبورد مخصوص تبلت",
+           "href": "/category/tablet-keyboard"
+          },
+          {
+           "id": "cb1dd292-7113-4723-9bf8-7c5c4ed0ae26",
+           "title": "قلم لمسی (Stylus)",
+           "href": "/category/mobile-tablet-stylus"
+          },
+          {
+           "id": "f731fa9d-afe7-4062-ba4d-a8ca17c9bd51",
+           "title": "همه کالاها",
+           "href": "/category/mobile-tablet-accessories"
+          }
+         ]
+        },
+        {
+         "id": "86b7b7b4-1d7b-42bf-b937-8dddd8588606",
+         "title": "سیم‌کارت و سرویس‌های اینترنت",
+         "href": "/category/sim-card"
+        }
+       ]
+      },
+      {
+       "id": "d35a89ef-458d-4afd-8b86-2d3924ea99f8",
+       "title": "دیجیتال",
+       "href": "/category/digital",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "1ce79763-cadf-4036-93ab-e9abc2a565ed",
+         "title": "تبلت براساس برند",
+         "href": "/category/tablet",
+         "children": [
+          {
+           "id": "1a80c31b-2888-496d-8bc5-160761d2c882",
+           "title": "تبلت اپل (آی‌پد)",
+           "href": "/category/tablet/apple"
+          },
+          {
+           "id": "441c3409-2550-43d0-85b1-3160993f33e7",
+           "title": "تبلت سامسونگ",
+           "href": "/category/tablet/samsung"
+          },
+          {
+           "id": "2ee8323d-a384-49d1-8f76-77a1fce54aa5",
+           "title": "تبلت‌ شیائومی",
+           "href": "/category/tablet/xiaomi"
+          },
+          {
+           "id": "8218ba42-4357-47fd-9716-e8b7c4837861",
+           "title": "تبلت لنوو",
+           "href": "/category/tablet/lenovo"
+          },
+          {
+           "id": "afc982d8-16b3-4331-9f2c-fcca818316d8",
+           "title": "تبلت مایکروسافت (سرفیس)",
+           "href": "/category/tablet/microsoft"
+          },
+          {
+           "id": "794ebed3-14db-4a92-bbce-bc545347823f",
+           "title": "همه کالاها",
+           "href": "/category/tablet"
+          }
+         ]
+        },
+        {
+         "id": "c7cdcb43-26d2-462b-9620-a9fcba907295",
+         "title": "محبوب‌ترین تبلت‌ها",
+         "href": "/category/tablet?sort=60rdDw"
+        },
+        {
+         "id": "9aeb5039-2458-4c62-ad25-9c9975b2e315",
+         "title": "پرفروش‌ترین تبلت‌ها",
+         "href": "/category/tablet?sort=50aLgW"
+        },
+        {
+         "id": "3178904a-c33e-4758-a574-096491b8dbcb",
+         "title": "کتابخوان و کاغذ دیجیتال",
+         "href": "/category/ebook-reader"
+        },
+        {
+         "id": "04a01a40-dd59-4f86-b7a7-f2fa9c02ec42",
+         "title": "لوازم جانبی موبایل و تبلت",
+         "href": "/category/mobile-tablet-accessories",
+         "children": [
+          {
+           "id": "600e9e34-0088-4831-9baa-f194220dd8b7",
+           "title": "قاب و کاور موبایل",
+           "href": "/category/mobile-tablet-covers"
+          },
+          {
+           "id": "b46e188e-1ec5-4c33-883f-6a8a24ae0488",
+           "title": "کیف و کاور تبلت",
+           "href": "/category/mobile-tablet-cover"
+          },
+          {
+           "id": "5a866a91-414c-4b0f-98cf-8cb4dcd9a008",
+           "title": "محافظ صفحه نمایش",
+           "href": "/category/mobile-tablet-screen-protector"
+          },
+          {
+           "id": "94fa4a97-fd9d-4618-a606-b04917af6f36",
+           "title": "پاوربانک (شارژر همراه)",
+           "href": "/category/powerbank"
+          },
+          {
+           "id": "5021e46a-d83a-46e1-86ce-2a0fdf41b06e",
+           "title": "محافظ لنز دوربین موبایل",
+           "href": "/category/mobile-camera-lens-protector"
+          },
+          {
+           "id": "e49697dc-3b71-42c1-af22-cc87683e2c04",
+           "title": "پایه، استند و گیمبال",
+           "href": "/category/mobile-holder"
+          },
+          {
+           "id": "8d4d9fa3-f628-4e9a-844c-7a6371e69fb7",
+           "title": "شارژر موبایل و تبلت",
+           "href": "/category/mobile-tablet-charger"
+          },
+          {
+           "id": "b321d233-019c-468d-9da6-6773636d6a81",
+           "title": "باتری موبایل و تبلت",
+           "href": "/category/mobile-tablet-battery"
+          },
+          {
+           "id": "6b4b1d6f-878a-45f2-96fc-97eb3a451f8d",
+           "title": "کیت تمیزکننده",
+           "href": "/category/mobile-tablet-cleaning-kit"
+          },
+          {
+           "id": "4a8edd19-5ab7-4370-841b-37517c9f6d98",
+           "title": "کیبورد مخصوص تبلت",
+           "href": "/category/tablet-keyboard"
+          },
+          {
+           "id": "bd91568e-55e1-4102-a75f-9d460fae09e1",
+           "title": "قلم لمسی (Stylus)",
+           "href": "/category/mobile-tablet-stylus"
+          },
+          {
+           "id": "1f3adba5-3758-4ab9-954e-6a0c762927bb",
+           "title": "کابل و تبدیل",
+           "href": "/category/mobile-tablet-cable"
+          },
+          {
+           "id": "5aed2ef3-898b-4d41-903f-ebe4bfdc264c",
+           "title": "همه کالاها",
+           "href": "/category/mobile-tablet-accessories"
+          }
+         ]
+        },
+        {
+         "id": "2001984f-19c0-46ba-a4d3-226bb2e6157e",
+         "title": "سیم‌کارت و سرویس‌های اینترنت",
+         "href": "/category/sim-card"
+        },
+        {
+         "id": "db9cc440-46e7-4b1f-aec4-259b160fd339",
+         "title": "لپ‌تاپ براساس برند",
+         "href": "/category/laptop",
+         "children": [
+          {
+           "id": "0500a35d-3bda-4a77-acc0-0dd80d5eefb5",
+           "title": "لپ‌تاپ ایسوس",
+           "href": "/category/laptop/asus"
+          },
+          {
+           "id": "8f8c8eeb-8bb5-436b-9b9c-437ee38cc2d2",
+           "title": "لپ‌تاپ لنوو",
+           "href": "/category/laptop/lenovo"
+          },
+          {
+           "id": "e2202d0d-9e8e-4f5b-a32f-219c62f2a0cc",
+           "title": "لپ‌تاپ اچ پی",
+           "href": "/category/laptop/hp"
+          },
+          {
+           "id": "69e7a7f3-6f3f-418e-b00f-2db2d1e641f4",
+           "title": "لپ‌تاپ‌ ایسر",
+           "href": "/category/laptop/acer"
+          },
+          {
+           "id": "901addb6-41ee-47db-8889-7bd0fe1df378",
+           "title": "مک‌بوک",
+           "href": "/category/laptop/apple"
+          },
+          {
+           "id": "9563b2fd-19e3-4b7e-bf18-04bf9037afb8",
+           "title": "همه کالاها",
+           "href": "/category/laptop"
+          }
+         ]
+        },
+        {
+         "id": "846a95a0-2287-49b2-9384-a1d97780b6f1",
+         "title": "لوازم جانبی لپ‌تاپ",
+         "href": "/category/laptop-accessories",
+         "children": [
+          {
+           "id": "363a09ff-972c-45e2-bcf4-23d9b3a2aea8",
+           "title": "کیف و کاور لپ‌تاپ",
+           "href": "/category/laptop-bag"
+          },
+          {
+           "id": "26e7bb23-fe68-4858-ba6f-352b72f548b5",
+           "title": "شارژر لپ‌تاپ",
+           "href": "/category/laptop-charger"
+          },
+          {
+           "id": "622f13a6-3ae0-43aa-a6a0-344f7877e0e8",
+           "title": "باتری لپ‌تاپ",
+           "href": "/category/laptop-battery"
+          },
+          {
+           "id": "9abdb7c8-54fc-4d87-8f40-7aaf87dbdcbe",
+           "title": "کابل رابط و مبدل",
+           "href": "/category/laptop-cable"
+          },
+          {
+           "id": "c726365b-2688-4430-a670-1ee96889eab0",
+           "title": "استند و پایه خنک‌کننده",
+           "href": "/category/laptop-cooling-pad"
+          },
+          {
+           "id": "99a822cc-3c1c-48c9-b6b2-dab17f41c60f",
+           "title": "لوازم جانبی مک‌بوک",
+           "href": "/category/macbook-accessories"
+          },
+          {
+           "id": "eb6609d4-d701-427e-9f96-647ef9f9def5",
+           "title": "همه کالاها",
+           "href": "/category/laptop-accessories"
+          }
+         ]
+        },
+        {
+         "id": "7ecde151-dd02-4943-ba3b-91f4d89bca7e",
+         "title": "هدفون براساس برند",
+         "href": "/category/headphones-headsets",
+         "children": [
+          {
+           "id": "7382e21b-84f4-45ab-ac5b-f00388c858dd",
+           "title": "هدفون اپل (ایرپاد)",
+           "href": "/category/headphones-headsets/apple"
+          },
+          {
+           "id": "b5e5fbac-5f0a-4dfe-9d36-8c6c71c0f7b4",
+           "title": "هدفون سامسونگ (ایربادز)",
+           "href": "/category/headphones-headsets/samsung"
+          },
+          {
+           "id": "f7c91f66-0a01-4338-af91-bbcf0742c69d",
+           "title": "هدفون شیائومی",
+           "href": "/category/headphones-headsets/xiaomi"
+          },
+          {
+           "id": "551fedbb-5527-4877-ab7c-6c8a422fdf87",
+           "title": "هدفون انکر",
+           "href": "/category/headphones-headsets/anker"
+          },
+          {
+           "id": "c77daefb-1333-4a6e-b8d7-6214e0137e57",
+           "title": "هدفون تسکو",
+           "href": "/category/headphones-headsets/tsco"
+          },
+          {
+           "id": "3f7cc2c4-17b9-4088-853b-ddb6214eb868",
+           "title": "هدفون هایلو",
+           "href": "/category/headphones-headsets/haylou"
+          },
+          {
+           "id": "13a8f7c3-b327-47f3-8c1d-36d75b42fa37",
+           "title": "هدفون لنوو",
+           "href": "/category/headphones-headsets/lenovo"
+          },
+          {
+           "id": "4e4dd21c-b577-427c-b39d-4d33b8fe03d0",
+           "title": "هدفون پرووان",
+           "href": "/category/headphones-headsets/proone"
+          },
+          {
+           "id": "3e24d40a-24e1-4d4a-89b6-61be3dba7ba6",
+           "title": "هدفون جی بی ال",
+           "href": "/category/headphones-headsets/jbl"
+          },
+          {
+           "id": "22c83ff3-3178-41cb-96c8-dc45d9d7059e",
+           "title": "هدفون ریزر",
+           "href": "/category/headphones-headsets/razer"
+          },
+          {
+           "id": "75ef6364-462f-4cc6-b8f6-c866243066f3",
+           "title": "هدفون بیتس",
+           "href": "/category/headphones-headsets/beats"
+          },
+          {
+           "id": "cad2d9e2-a5d8-489f-bc30-651ed10e27ae",
+           "title": "هدفون کیو سی وای",
+           "href": "/category/headphones-headsets/qcy"
+          },
+          {
+           "id": "3f4b1178-36ff-4637-afac-f8e87295dd28",
+           "title": "همه کالاها",
+           "href": "/category/headphones-headsets"
+          }
+         ]
+        },
+        {
+         "id": "97153ce4-998c-41c1-a266-b192defc4859",
+         "title": "ساعت هوشمند براساس برند",
+         "href": "/category/smartwatch",
+         "children": [
+          {
+           "id": "3dac54c9-23f9-4633-89ea-a1bdc6f3de48",
+           "title": "ساعت هوشمند سامسونگ",
+           "href": "/category/smartwatch/samsung"
+          },
+          {
+           "id": "7e7913b3-265a-42ca-8daf-025d22ca76b5",
+           "title": "ساعت هوشمند اپل",
+           "href": "/category/smartwatch/apple"
+          },
+          {
+           "id": "8ce448e2-adbe-4772-80b0-654e8ea62aea",
+           "title": "ساعت هوشمند شیائومی",
+           "href": "/category/smartwatch/xiaomi"
+          },
+          {
+           "id": "7f6aaab4-8e28-46d9-931a-85bcc4276b65",
+           "title": "ساعت هوشمند میبرو",
+           "href": "/category/smartwatch/mibro"
+          },
+          {
+           "id": "168bc436-1616-43e1-8e53-9702a023f361",
+           "title": "همه کالاها",
+           "href": "/category/smartwatch"
+          }
+         ]
+        },
+        {
+         "id": "6c07a218-7202-4b07-b3f7-de66857fc6b9",
+         "title": "مچ‌بند هوشمند",
+         "href": "/category/smartband"
+        },
+        {
+         "id": "23f0183d-528a-4569-a54b-e20e8df5dee2",
+         "title": "میکروفون",
+         "href": "/category/microphone"
+        },
+        {
+         "id": "4d2d6053-c5ef-4770-abb8-c8408419d673",
+         "title": "لوازم جانبی ساعت و مچ‌بند هوشمند",
+         "href": "/category/wearable-accessories"
+        },
+        {
+         "id": "6782a647-d2b8-4738-9ed2-aefe59f77fd7",
+         "title": "لوازم جانبی گجت‌های پوشیدنی",
+         "href": "/category/wearable-gadgets-accessories"
+        },
+        {
+         "id": "08e4e70e-a60a-4651-8b6d-3d3e146c167b",
+         "title": "اسپیکر (بلندگو) براساس برند",
+         "href": "/category/computer-speaker",
+         "children": [
+          {
+           "id": "c91085ae-89b2-419e-9715-35f2e431fdfe",
+           "title": "اسپیکر جی بی ال",
+           "href": "/category/computer-speaker/jbl"
+          },
+          {
+           "id": "3ddc4295-d78d-4ef2-9fb7-b5d2f0e78d25",
+           "title": "اسپیکر شیائومی",
+           "href": "/category/computer-speaker/xiaomi"
+          },
+          {
+           "id": "180ae361-618c-43e3-b268-37074a67ec64",
+           "title": "اسپیکر پرووان",
+           "href": "/category/computer-speaker/proone"
+          },
+          {
+           "id": "6635040f-90cb-46fb-ad53-d975c5e76084",
+           "title": "اسپیکر هارمن کاردن",
+           "href": "/category/computer-speaker/harman-kardon"
+          },
+          {
+           "id": "ac4df282-729c-40d0-a92d-b4c12b4a115f",
+           "title": "اسپیکر سونی",
+           "href": "/category/computer-speaker/sony"
+          },
+          {
+           "id": "2be938a4-c906-49b4-9729-d3e83f7ff4c0",
+           "title": "اسپیکر مکسیدر",
+           "href": "/category/computer-speaker/maxeeder"
+          },
+          {
+           "id": "f3e23887-3637-47b4-8af3-0b4bc0b3c617",
+           "title": "اسپیکر تسکو",
+           "href": "/category/computer-speaker/tsco"
+          },
+          {
+           "id": "72c30ae8-17b7-4cc3-9d76-71ba9789c876",
+           "title": "همه کالاها",
+           "href": "/category/computer-speaker"
+          }
+         ]
+        },
+        {
+         "id": "2e5ee4fd-00ad-42b1-810b-5ac0b5880677",
+         "title": "کامپیوتر و قطعات",
+         "href": "/category/computer-peripherals",
+         "children": [
+          {
+           "id": "514649f4-4db9-42df-b724-b4f806614769",
+           "title": "مانیتور",
+           "href": "/category/computer-monitor"
+          },
+          {
+           "id": "1f6198bb-e077-45bf-8825-131e0d8f3f7c",
+           "title": "کیبورد",
+           "href": "/category/computer-keyboard"
+          },
+          {
+           "id": "4a1dc269-5cd7-4a65-aa86-799c77a781bd",
+           "title": "ماوس",
+           "href": "/category/computer-mouse"
+          },
+          {
+           "id": "a10417b3-9cda-4774-a6a2-9d175d262300",
+           "title": "کامپیوترهای All-in-One",
+           "href": "/category/all-in-one-pc"
+          },
+          {
+           "id": "66fc7ade-61c7-412b-b891-222972cfb075",
+           "title": "هاب USB",
+           "href": "/category/computer-usb-hub"
+          },
+          {
+           "id": "7ecbf61f-b27f-45a2-bc8b-3109ea887646",
+           "title": "مادربرد",
+           "href": "/category/computer-peripherals-motherboard"
+          },
+          {
+           "id": "6c8133eb-41a4-422f-b9c5-bb651fa34b09",
+           "title": "پردازنده مرکزی",
+           "href": "/category/computer-peripherals-cpu"
+          },
+          {
+           "id": "0b421284-5593-4712-8fae-1258ce1f2383",
+           "title": "کارت گرافیک",
+           "href": "/category/computer-peripherals-graphics-card"
+          },
+          {
+           "id": "a11dab18-6eb5-4080-9547-5e44c26d9c6e",
+           "title": "رم کامپیوتر و لپ‌تاپ (RAM)",
+           "href": "/category/computer-peripherals-ram"
+          },
+          {
+           "id": "10220f01-9212-4fe2-a76d-2270eecd0ca3",
+           "title": "منبع تغذیه (پاور)",
+           "href": "/category/computer-peripherals-psu"
+          },
+          {
+           "id": "65aeb03e-1813-49e8-80ef-1c33368e5ff6",
+           "title": "کارت صدا",
+           "href": "/category/computer-peripherals-soundcard"
+          },
+          {
+           "id": "65aaec54-ee56-475d-b0d2-ac163653a5f8",
+           "title": "همه کالاها",
+           "href": "/category/computer-peripherals"
+          }
+         ]
+        },
+        {
+         "id": "8e5628f3-16cd-4d77-9ad8-28796db9f680",
+         "title": "قطعات کامپیوتر",
+         "href": "/category/computer-parts"
+        },
+        {
+         "id": "3ede1b31-e7d7-4498-8bc5-1f96bd5fe8c5",
+         "title": "تجهیزات ذخیره‌سازی اطلاعات",
+         "href": "/category/computer-storage",
+         "children": [
+          {
+           "id": "3a0f903e-eb0e-4007-8e4e-09abce2e75bc",
+           "title": "هارد دیسک اکسترنال",
+           "href": "/category/external-hard-drive"
+          },
+          {
+           "id": "aaa3e951-0b6a-4030-88f3-9fa8fa5dd977",
+           "title": "هارد دیسک اینترنال",
+           "href": "/category/internal-hard-drive"
+          },
+          {
+           "id": "3094bad4-427b-47bb-99ef-a09b2bc16e24",
+           "title": "حافظه SSD",
+           "href": "/category/computer-ssd"
+          },
+          {
+           "id": "59d70562-b320-4a3d-a469-3be3c63bdcdc",
+           "title": "فلش مموری",
+           "href": "/category/computer-usb-flash"
+          },
+          {
+           "id": "80c520db-2102-4fb8-91f4-a8e867bead1d",
+           "title": "کارت حافظه",
+           "href": "/category/computer-memory-card"
+          },
+          {
+           "id": "f88b1c13-8d70-4975-8c19-1d3f69f555a1",
+           "title": "لوازم جانبی تجهیزات ذخیره‌سازی",
+           "href": "/category/computer-storage-accessories"
+          },
+          {
+           "id": "87d8ceb2-c58d-46a4-998f-df6ddc50cde2",
+           "title": "همه کالاها",
+           "href": "/category/computer-storage"
+          }
+         ]
+        },
+        {
+         "id": "5d0eba2f-99fd-4c0f-ace2-a88b44514330",
+         "title": "تجهیزات شبکه و ارتباطات",
+         "href": "/category/computer-network",
+         "children": [
+          {
+           "id": "dc1b85b1-bff8-4108-ab4b-277a26b351f9",
+           "title": "مودم - روتر ADSL",
+           "href": "/category/adsl-modem-router"
+          },
+          {
+           "id": "5a24ba82-f428-49ad-9656-53badea19391",
+           "title": "مودم - روتر 3G و 4G و 5G",
+           "href": "/category/cellular-modem-router"
+          },
+          {
+           "id": "a4156720-1914-4d0f-8caa-54742fa370e0",
+           "title": "کارت شبکه",
+           "href": "/category/pc-network-card"
+          },
+          {
+           "id": "b6cc64aa-26bd-4761-a598-ca20ccf5f405",
+           "title": "اتصالات شبکه",
+           "href": "/category/computer-network-connection"
+          },
+          {
+           "id": "653b32b1-422a-4767-acdf-ea190c54af04",
+           "title": "منبع تغذیه اضطراری (UPS)",
+           "href": "/category/computer-network-ups"
+          },
+          {
+           "id": "85782850-826a-4058-9b76-5a476f5c3480",
+           "title": "روتر و اکسس پوینت",
+           "href": "/category/router-accesspoint"
+          },
+          {
+           "id": "4f1c3755-3465-41eb-8bcb-8ed2c775a399",
+           "title": "اینترنت اشیا",
+           "href": "/category/computer-network-iot"
+          },
+          {
+           "id": "d613f645-2879-4557-b2cb-003b7efbb363",
+           "title": "تجهیزات ویدیویی",
+           "href": "/category/computer-network-video-equipment"
+          },
+          {
+           "id": "07fede66-3ad3-49b3-9ea8-79dee007f181",
+           "title": "سوییچ",
+           "href": "/category/network-switch"
+          },
+          {
+           "id": "bbc63200-59c9-4914-9f9f-c1adbb6a54db",
+           "title": "همه کالاها",
+           "href": "/category/computer-network"
+          }
+         ]
+        },
+        {
+         "id": "0019c2b4-9014-4d36-84ad-a7a5009dd446",
+         "title": "لوازم جانبی کامپیوتر",
+         "href": "/category/computer-accessories",
+         "children": [
+          {
+           "id": "c1062be7-5a36-4a43-aedc-000618f3ec80",
+           "title": "تجهیزات مخصوص بازی",
+           "href": "/category/computer-gaming"
+          },
+          {
+           "id": "cefec6e5-ff57-4c22-9ea4-0e7ad04c1b46",
+           "title": "لوازم جانبی قطعات کامپیوتر",
+           "href": "/category/computer-peripherals-accessories"
+          },
+          {
+           "id": "14078a1f-f848-45b3-ac77-cb0314d165b8",
+           "title": "دانگل بلوتوث",
+           "href": "/category/computers-bluetooth-dongle"
+          },
+          {
+           "id": "7e81f214-fade-4ac7-afae-b1314f20d839",
+           "title": "مبدل",
+           "href": "/category/computers-converter"
+          },
+          {
+           "id": "98e8fd61-786e-40a4-b547-fa1ccee3fd0d",
+           "title": "ماوس‌ پد",
+           "href": "/category/computer-mousepad"
+          },
+          {
+           "id": "3d62d439-283d-4dc8-8bf8-aa334ff0c15b",
+           "title": "همه کالاها",
+           "href": "/category/computer-accessories"
+          }
+         ]
+        },
+        {
+         "id": "ac6de8ac-b7a3-4779-a236-4c076cad62a4",
+         "title": "کنسول بازی",
+         "href": "/category/gaming-consoles",
+         "children": [
+          {
+           "id": "780e6ac2-9253-4f45-9b02-4b8c4fef3b14",
+           "title": "پلی‌استیشن",
+           "href": "/category/home-gaming-consoles/sony"
+          },
+          {
+           "id": "71cc3b63-0f42-4f4a-aff3-de1c531c9000",
+           "title": "ایکس‌باکس",
+           "href": "/category/home-gaming-consoles/microsoft"
+          },
+          {
+           "id": "4b854ba5-f10a-4c30-aaa8-7ded78b469fa",
+           "title": "کنسول دستی و پرتابل",
+           "href": "/category/portable-gaming-consoles"
+          },
+          {
+           "id": "06558c54-6326-432d-8a34-bac8f5cf3d22",
+           "title": "همه کالاها",
+           "href": "/category/gaming-consoles"
+          }
+         ]
+        },
+        {
+         "id": "3db300f2-4cd4-4f72-9547-a0e19f064732",
+         "title": "دوربین",
+         "href": "/category/camera",
+         "children": [
+          {
+           "id": "dc0d8284-1fc2-4f34-b899-d59c4ccc5676",
+           "title": "دوربین عکاسی",
+           "href": "/category/digital-camera"
+          },
+          {
+           "id": "18d99a56-0268-4bb0-ba26-098989b26f06",
+           "title": "تلسکوپ",
+           "href": "/category/telescope"
+          },
+          {
+           "id": "7e1e8157-9d95-459a-bbc9-c1828a3fb54c",
+           "title": "لوازم جانبی عکاسی و فیلم‌برداری",
+           "href": "/category/camera-accessories"
+          },
+          {
+           "id": "8a6779f4-1001-45dc-8833-b4625578cf08",
+           "title": "همه کالاها",
+           "href": "/category/camera"
+          }
+         ]
+        },
+        {
+         "id": "3dc02784-c32a-45c1-8052-a5f42ab9bf25",
+         "title": "ماشین‌های اداری",
+         "href": "/category/office-machines",
+         "children": [
+          {
+           "id": "88bc4be5-19e7-4ade-9ecb-a52af4e7175f",
+           "title": "تلفن",
+           "href": "/category/telephone"
+          },
+          {
+           "id": "1f9ef19c-8c7f-4ad8-a67b-9a76a8450920",
+           "title": "پرینتر",
+           "href": "/category/office-machines-printer"
+          },
+          {
+           "id": "e6417dd8-7213-493b-887b-3906c53721bb",
+           "title": "ماشین حساب",
+           "href": "/category/office-machines-calculator"
+          },
+          {
+           "id": "3da13921-d070-4bb2-a0e6-e51325fa4a41",
+           "title": "ویدیو پروژکتور",
+           "href": "/category/office-machines-video-projector"
+          },
+          {
+           "id": "02663c32-b17c-45fd-a6f6-d2876ac67a88",
+           "title": "دستگاه کنترل تردد",
+           "href": "/category/office-machines-employee-attendance"
+          },
+          {
+           "id": "4a83b280-fbe8-4fa7-9ba6-7351c8307b17",
+           "title": "بارکدخوان",
+           "href": "/category/office-machines-barcode-reader"
+          },
+          {
+           "id": "036760ea-79e5-42db-9c27-4cc4d80af160",
+           "title": "لوازم فروشگاهی",
+           "href": "/category/store-appliances"
+          },
+          {
+           "id": "97b5eafe-f963-40d8-9ca0-cad773152307",
+           "title": "لوازم جانبی ماشین‌های اداری",
+           "href": "/category/office-machines-accessories"
+          },
+          {
+           "id": "54b636c0-3470-4a2c-b9d7-1e574f7d3d3b",
+           "title": "همه کالاها",
+           "href": "/category/office-machines"
+          }
+         ]
+        },
+        {
+         "id": "c23c28eb-1a61-44af-b364-490742d0ac8a",
+         "title": "تجهیزات امنیتی و نظارتی",
+         "href": "/category/security-surveillance-equipment",
+         "children": [
+          {
+           "id": "031bb0cc-4e91-4dfc-9749-6d4c62d703ba",
+           "title": "دوربین‌های امنیتی و نظارتی",
+           "href": "/category/computer-network-cctv"
+          },
+          {
+           "id": "1255aa0e-d65c-4fe3-bbe0-312797d764a9",
+           "title": "ضبط‌کننده ویدئویی دوربین‌های امنیتی و نظارتی",
+           "href": "/category/computer-network-video-recorder"
+          },
+          {
+           "id": "b6392c6d-9c2c-47f9-ab80-1fdc55b669c3",
+           "title": "لوازم جانبی دوربین‌‌های امنیتی و نظارتی",
+           "href": "/category/computer-network-cctv-accessories"
+          },
+          {
+           "id": "1f1165dd-a90b-4597-9531-cb01c7ecc5f0",
+           "title": "همه کالاها",
+           "href": "/category/security-surveillance-equipment"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "55433684-1525-412a-85c4-ee6656c698b3",
+       "title": "زیبایی و سلامت",
+       "href": "/category/health-beauty",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "1a0451c3-3241-4f04-9505-1652c452d9b4",
+         "title": "عطر و ادکلن",
+         "href": "/category/fragrances-perfumes",
+         "children": [
+          {
+           "id": "4352b126-4a56-468f-a191-38c7d33a3796",
+           "title": "عطر زنانه",
+           "href": "/category/women-perfume"
+          },
+          {
+           "id": "6ccadf6c-a660-479e-a41b-5fffcf7e002b",
+           "title": "عطر مردانه",
+           "href": "/category/men-perfume"
+          },
+          {
+           "id": "6b1819b9-a98f-41c2-b6d7-d10aeca532ba",
+           "title": "همه کالاها",
+           "href": "/category/fragrances-perfumes"
+          }
+         ]
+        },
+        {
+         "id": "8cbe424a-fd15-4b4d-b047-37f19bff458c",
+         "title": "اسپری و بادی اسپلش",
+         "href": "/category/fragrances-body-spray"
+        },
+        {
+         "id": "4bd3ef46-2555-41ac-b315-86218b05122a",
+         "title": "لوازم آرایشی",
+         "href": "/category/cosmetics",
+         "children": [
+          {
+           "id": "dcbad258-8bc1-4db8-aebe-4421737b4ace",
+           "title": "آرایش صورت",
+           "href": "/category/cosmetics-face-makeup"
+          },
+          {
+           "id": "2de6a0bf-8ad9-4afa-9801-a035bf07932d",
+           "title": "آرایش چشم",
+           "href": "/category/cosmetics-eye-makeup"
+          },
+          {
+           "id": "290c4604-2efc-435c-9547-72c7fdea36a8",
+           "title": "آرایش ابرو",
+           "href": "/category/cosmetics-eyebrow-makeup"
+          },
+          {
+           "id": "4867d06d-4bdb-4efa-b0c7-7f9d098c3bd5",
+           "title": "آرایش لب",
+           "href": "/category/cosmetics-lip-makeup"
+          },
+          {
+           "id": "7066b2b3-76ab-4bed-9355-190638eb23b6",
+           "title": "آرایش ناخن",
+           "href": "/category/cosmetics-nail"
+          },
+          {
+           "id": "7a9163af-6a2f-4e0e-9566-9df82a8f5b27",
+           "title": "آرایش مو",
+           "href": "/category/cosmetics-hair-styling"
+          },
+          {
+           "id": "a3094e02-08cd-46f6-b75b-de2fcf7a02dd",
+           "title": "ابزار آرایشی",
+           "href": "/category/makeup-tools"
+          },
+          {
+           "id": "9871ec30-4dd8-4972-9d0c-b7dc089d5816",
+           "title": "ست‌های آرایشی",
+           "href": "/category/cosmetics-sets"
+          },
+          {
+           "id": "63510768-6d27-45be-822d-779c569f7abd",
+           "title": "همه کالاها",
+           "href": "/category/cosmetics"
+          }
+         ]
+        },
+        {
+         "id": "72bcdcbf-73c2-40cd-9435-063e1dadb6e6",
+         "title": "بهداشت و مراقبت مو",
+         "href": "/category/haircare",
+         "children": [
+          {
+           "id": "a3d292dd-70ce-41f9-bf60-c09b2d5b7f8a",
+           "title": "شامپو مو",
+           "href": "/category/hair-shampoo"
+          },
+          {
+           "id": "25fa989e-8be5-400d-a1fb-57a519f939ea",
+           "title": "نرم‌‌کننده مو",
+           "href": "/category/hair-conditioner"
+          },
+          {
+           "id": "389a1103-9351-475c-904f-6a182cfc9208",
+           "title": "ماسک مو",
+           "href": "/category/hair-mask"
+          },
+          {
+           "id": "0022c072-c27a-4b39-9789-5eecddc39e16",
+           "title": "روغن مو",
+           "href": "/category/hair-oil"
+          },
+          {
+           "id": "5d44cc0f-151e-48a8-926d-14e24cd72fc8",
+           "title": "سرم، تونیک و اسپری مو",
+           "href": "/category/hair-serum-tonic-spray?is_available=true"
+          },
+          {
+           "id": "1c3bbfaf-5a1f-4971-91e8-598037c48e09",
+           "title": "تقویت‌کننده و مراقبت‌کننده مو، مژه و ابرو",
+           "href": "/category/hair-eyelashes-eyebrows-enhancer"
+          },
+          {
+           "id": "2a6c3203-f15c-4e1b-a607-5f7d2d67fab0",
+           "title": "همه کالاها",
+           "href": "/category/haircare"
+          }
+         ]
+        },
+        {
+         "id": "9afbb095-557a-45dc-9b7d-96047cdc33b8",
+         "title": "ابزار و تجهیزات آرایش مو",
+         "href": "/category/hairstyle-tools",
+         "children": [
+          {
+           "id": "a3afb65d-b07b-464c-a0d0-8f600b612875",
+           "title": "سشوار",
+           "href": "/category/hair-dryer"
+          },
+          {
+           "id": "3acc8894-7dfa-4c7a-8fd7-549fcf0af5c4",
+           "title": "اتو و صاف‌کننده مو",
+           "href": "/category/hair-iron"
+          },
+          {
+           "id": "ed6489d9-3877-4cd0-967f-33e66c526747",
+           "title": "بیگودی، فرکننده و حالت‌دهنده",
+           "href": "/category/hair-shaping"
+          },
+          {
+           "id": "f0daf6f1-7c16-486f-87ef-feac9a2f6fa2",
+           "title": "همه کالاها",
+           "href": "/category/hairstyle-tools"
+          }
+         ]
+        },
+        {
+         "id": "fcfc7023-6805-46b6-9e2a-9430eb62e3b1",
+         "title": "مراقبت پوست",
+         "href": "/category/skincare",
+         "children": [
+          {
+           "id": "0d218cc4-c747-4893-a9db-53fd2585911e",
+           "title": "ضد آفتاب و محصولات آفتاب",
+           "href": "/category/skincare-sunscreen"
+          },
+          {
+           "id": "9da468fe-b0c8-4026-8a74-3f29d284d0f9",
+           "title": "مرطوب‌کننده و آبرسان",
+           "href": "/category/skincare-moisturizing"
+          },
+          {
+           "id": "8d55cd30-b9ab-4fdc-be82-3e038af59926",
+           "title": "ماسک صورت و بدن",
+           "href": "/category/skincare-facemask"
+          },
+          {
+           "id": "4f2aacd2-d5d0-4460-9f0c-ad5ddd00b77e",
+           "title": "روشن‌کننده و ضدلک",
+           "href": "/category/skin-brightening"
+          },
+          {
+           "id": "6ba6a2bd-e144-4025-a290-8c28e4c9b836",
+           "title": "اسکراب و لایه‌بردار پوست",
+           "href": "/category/skin-scrubs"
+          },
+          {
+           "id": "ec5a30a0-474e-4dc6-a23c-56c9abd904e0",
+           "title": "درمان جوش و منافذ باز",
+           "href": "/category/skin-anti-acne"
+          },
+          {
+           "id": "135f32ad-3d95-47f3-a323-3f90d26b876a",
+           "title": "مراقبت از دور چشم",
+           "href": "/category/skin-eye-treatment-creams"
+          },
+          {
+           "id": "20dba9c3-2869-4ed7-8940-80956a36417c",
+           "title": "ضدچروک و جوان‌کننده",
+           "href": "/category/skincare-anti-aging-wrinkle"
+          },
+          {
+           "id": "2462a290-e0a7-4e28-ae10-b1a6ef8c0385",
+           "title": "محصولات درمانی",
+           "href": "/category/therapeutic-products"
+          },
+          {
+           "id": "27a7136c-f37c-4760-b4ae-a7ffe9490c73",
+           "title": "همه کالاها",
+           "href": "/category/skincare"
+          }
+         ]
+        },
+        {
+         "id": "f15343f6-7e97-4812-a48f-edfef5a64bf0",
+         "title": "پاک‌کننده پوست صورت و بدن",
+         "href": "/category/body-face-skin-cleansing",
+         "children": [
+          {
+           "id": "81d5ddfa-5677-44ae-8c8d-882e9eaca555",
+           "title": "شامپو بدن",
+           "href": "/category/body-shampoo"
+          },
+          {
+           "id": "b2d24dff-1da8-46e4-a122-3c87f2b7b57d",
+           "title": "صابون و مایع شستشو",
+           "href": "/category/soap-washing-liquid"
+          },
+          {
+           "id": "32c926c8-ff02-4407-91db-7614ac7ead0c",
+           "title": "میسلار واتر و پاک‌کننده آرایش",
+           "href": "/category/micellar-makeup-remover"
+          },
+          {
+           "id": "5cd427eb-1562-4bf6-9cc5-721ff663197b",
+           "title": "کرم، لوسیون، روغن و سرم بدن",
+           "href": "/category/body-lotion-oil-serum"
+          },
+          {
+           "id": "cd2e384e-798c-4308-ad41-ba527d0b85b3",
+           "title": "دستمال مرطوب",
+           "href": "/category/body-cleansing-wipes"
+          },
+          {
+           "id": "23258f08-f625-4669-98dd-2d44441a242f",
+           "title": "تونر",
+           "href": "/category/skin-toner"
+          },
+          {
+           "id": "0b462373-a741-4b5f-93d4-3ec07a6d8003",
+           "title": "همه کالاها",
+           "href": "/category/body-face-skin-cleansing"
+          }
+         ]
+        },
+        {
+         "id": "42a85baf-14f3-4d7a-a4cd-3ea657de0c2b",
+         "title": "لوازم اصلاح",
+         "href": "/category/trimming-tools",
+         "children": [
+          {
+           "id": "4be429fe-8a59-4099-a6a2-42e6396bf880",
+           "title": "اصلاح موی بدن بانوان",
+           "href": "/category/hair-removal-women"
+          },
+          {
+           "id": "78399b93-769e-443d-b127-7d8e189413bf",
+           "title": "اصلاح موی بدن آقایان",
+           "href": "/category/hair-removal-men"
+          },
+          {
+           "id": "418f2727-2561-47a1-9ca0-98830b5cdb46",
+           "title": "اصلاح موی سر و صورت",
+           "href": "/category/face-head-hair-trimmer"
+          },
+          {
+           "id": "1155ea15-e480-41bf-8251-1af023d62c62",
+           "title": "اصلاح موی گوش، بینی و ابرو",
+           "href": "/category/nose-ear-eyebrow-hair-trimmer"
+          },
+          {
+           "id": "b135fd0f-9202-447f-8d17-631f8db02d95",
+           "title": "خودتراش و یدک اصلاح",
+           "href": "/category/trimming-tools-auto-shaving"
+          },
+          {
+           "id": "15d575cc-a9ae-462e-aa6d-c181311f23d1",
+           "title": "همه کالاها",
+           "href": "/category/trimming-tools"
+          }
+         ]
+        },
+        {
+         "id": "f0327f7c-6780-4622-b7ae-9c3ac852865e",
+         "title": "ضد‌تعریق",
+         "href": "/category/deodorants-anti-sweat",
+         "children": [
+          {
+           "id": "5d0b6312-3dc8-45da-8fb4-45663386119d",
+           "title": "اسپری ضدتعریق",
+           "href": "/category/anti-perspirant-spray"
+          },
+          {
+           "id": "2a476ae0-904e-4f62-8c1a-7217d360a558",
+           "title": "رول ضدتعریق",
+           "href": "/category/anti-perspirant-roll"
+          },
+          {
+           "id": "3b585bf5-8241-4278-a117-990909667d6e",
+           "title": "استیک ضدتعریق",
+           "href": "/category/anti-perspirant-steak"
+          },
+          {
+           "id": "0c05a1a2-5070-445b-a782-2557d2515c17",
+           "title": "همه کالاها",
+           "href": "/category/deodorants-anti-sweat"
+          }
+         ]
+        },
+        {
+         "id": "81cabca6-8af1-468c-aa42-9e21c70ea6fc",
+         "title": "بهداشت دهان و دندان",
+         "href": "/category/oral-dental-care",
+         "children": [
+          {
+           "id": "43918ba2-a75a-4eff-803e-b2149d0d855e",
+           "title": "مسواک",
+           "href": "/category/toothbrush"
+          },
+          {
+           "id": "a48ac4b3-7eea-4966-a8e3-c9848fe38a0c",
+           "title": "مسواک برقی",
+           "href": "/category/electric-toothbrush"
+          },
+          {
+           "id": "12f5fdbb-8511-4fa4-ae13-872cd4053c06",
+           "title": "خمیر دندان",
+           "href": "/category/oral-dental-care-toothpaste"
+          },
+          {
+           "id": "00ecea70-0d5a-418f-b4f1-280f0f43d639",
+           "title": "نخ دندان",
+           "href": "/category/oral-dental-care-dental-floss"
+          },
+          {
+           "id": "5a3e9b39-71da-4166-b758-8c6786fc587f",
+           "title": "همه کالاها",
+           "href": "/category/oral-dental-care"
+          }
+         ]
+        },
+        {
+         "id": "55e46e85-82dc-4f97-acc6-8a5fab6e29b5",
+         "title": "محصولات بهداشت جنسی",
+         "href": "/category/sexual-health",
+         "children": [
+          {
+           "id": "c3af8e19-54f7-474a-b3b4-782c17c1bd32",
+           "title": "کاندوم",
+           "href": "/category/sexual-health-condom"
+          },
+          {
+           "id": "dc31b68d-bfc7-4652-b723-9339451e4b99",
+           "title": "ژل بهداشتی",
+           "href": "/category/sexual-health-hygienic-gel"
+          },
+          {
+           "id": "7a10f585-73f6-4f29-83cd-baeb76aac2ac",
+           "title": "همه کالاها",
+           "href": "/category/sexual-health"
+          }
+         ]
+        },
+        {
+         "id": "918509c8-459e-4e91-8e33-2623f821cea8",
+         "title": "بهداشت و سلامت خانم‌ها",
+         "href": "/category/womens-health-hygiene",
+         "children": [
+          {
+           "id": "970be2a9-88bd-4201-aa18-5a6c1d49f2b9",
+           "title": "نوار بهداشتی",
+           "href": "/category/sexual-health-sanitary-pad"
+          },
+          {
+           "id": "7c90c211-3f18-40e5-89f8-cd49d426e742",
+           "title": "تامپون",
+           "href": "/category/tampon"
+          },
+          {
+           "id": "4fa99186-b755-4921-815e-9c028a30c8bd",
+           "title": "همه کالاها",
+           "href": "/category/womens-health-hygiene"
+          }
+         ]
+        },
+        {
+         "id": "8194237b-e910-4c98-9af5-b221218a2092",
+         "title": "مکمل‌های غذایی و دارویی",
+         "href": "/category/dietary-medicinal-supplements",
+         "children": [
+          {
+           "id": "bb056fbb-b524-4164-8de6-98677df214f4",
+           "title": "مولتی‌ویتامین و مواد معدنی",
+           "href": "/category/multivitamins-minerals"
+          },
+          {
+           "id": "377d19b3-2da4-4227-8e6e-0c7bf79ee55b",
+           "title": "مکمل‌های ورزشی",
+           "href": "/category/sport-supplements"
+          },
+          {
+           "id": "61658828-557e-4821-b7cd-34a0c5f80988",
+           "title": "مکمل‌های رژیمی",
+           "href": "/category/dietary-supplements"
+          },
+          {
+           "id": "cbb2c049-48b0-400f-b80f-9c5dba3979f5",
+           "title": "مکمل‌های پوست، مو و ناخن",
+           "href": "/category/skin-hair-nail-supplements"
+          },
+          {
+           "id": "be58cd67-6c15-4f57-91ab-5233a57257a1",
+           "title": "مکمل‌های جنسی",
+           "href": "/category/sexual-health-supplements"
+          },
+          {
+           "id": "52405048-d8f4-47fc-bb94-8a532b94e9f2",
+           "title": "مسکن و ضددرد",
+           "href": "/category/pain-relievers-analgesics"
+          },
+          {
+           "id": "ad127fdc-2220-4266-9095-f85443f1bc23",
+           "title": "ضدسرفه و سرماخوردگی",
+           "href": "/category/cold-cough-medicines"
+          },
+          {
+           "id": "a20607b8-7c5f-4d81-88e7-bce990149829",
+           "title": "سیستم گوارش و معده",
+           "href": "/category/digestive-health"
+          },
+          {
+           "id": "c38df40e-39be-4ee2-a4f0-65bc2626b003",
+           "title": "همه کالاها",
+           "href": "/category/dietary-medicinal-supplements"
+          }
+         ]
+        },
+        {
+         "id": "1940f240-32ac-4cd4-80fc-38e04802e7d1",
+         "title": "تجهیزات پزشکی و سلامت",
+         "href": "/category/medical-health-equipment",
+         "children": [
+          {
+           "id": "17861130-fdf4-4751-9505-9ae6d92409e2",
+           "title": "ترازو",
+           "href": "/category/medical-health-equipment-scales"
+          },
+          {
+           "id": "04b75257-af7f-49b9-bdc8-4c6b19509a4b",
+           "title": "فشارسنج",
+           "href": "/category/blood-pressure-monitoring-device"
+          },
+          {
+           "id": "52199b6c-7143-474e-ae47-9076d8b54b5e",
+           "title": "دماسنج و تب‌سنج",
+           "href": "/category/clinical-thermometer"
+          },
+          {
+           "id": "6c3b002d-1529-4d1a-ba93-db49c4fe82d6",
+           "title": "دستگاه تست قند خون",
+           "href": "/category/blood-pressure-monitoring-device"
+          },
+          {
+           "id": "bb6fe330-139f-4850-9170-0c5930d5ee08",
+           "title": "پوشک و زیرانداز طبی بزرگسال",
+           "href": "/category/adult-medical-diaper"
+          },
+          {
+           "id": "804f8a9f-80b6-490a-a5ae-8ee91654eb49",
+           "title": "ماساژور",
+           "href": "/category/medical-masseur"
+          },
+          {
+           "id": "c223327c-cfcf-40f7-85ef-effcc1754cb5",
+           "title": "پد و کیسه آب گرم",
+           "href": "/category/medical-hot-pads"
+          },
+          {
+           "id": "549befde-359d-4e7d-b019-44c6b46bed0e",
+           "title": "ماسک بهداشتی",
+           "href": "/category/health-treatment-mask"
+          },
+          {
+           "id": "bbb8dd0c-e356-4f18-8c32-ab45cfcc1d6b",
+           "title": "دستگاه بخور و رطوبت‌ساز",
+           "href": "/category/environmental-health-humidifiers"
+          },
+          {
+           "id": "e22151f8-c9ef-46dc-9f75-8790097dc877",
+           "title": "پوشاک پزشکی",
+           "href": "/category/medical-clothes"
+          },
+          {
+           "id": "0640a52c-4ef5-4bc0-8afe-99e5f74aea33",
+           "title": "تزریقات و پانسمان",
+           "href": "/category/injection-dressing-supplies"
+          },
+          {
+           "id": "7940388a-6a4f-4373-9e62-6b029db56d75",
+           "title": "ابزار پزشکی",
+           "href": "/category/medical-tools"
+          },
+          {
+           "id": "f96b42d3-fd20-4fad-870b-7942f9d294e6",
+           "title": "پوشاک طبی",
+           "href": "/category/medical-clothing"
+          },
+          {
+           "id": "40637017-cf31-4a60-ae2c-6445c991a2cf",
+           "title": "لوازم توانبخشی",
+           "href": "/category/rehabilitation-supplies"
+          },
+          {
+           "id": "729a9acd-0e7a-4c7a-a951-a3340527ad3c",
+           "title": "چسب و پد درمانی",
+           "href": "/category/medical-tape"
+          },
+          {
+           "id": "cbc3149c-ac53-4f27-be87-7affd73e3659",
+           "title": "دستکش یکبار مصرف و طبی",
+           "href": "/category/disposable-medical-glove"
+          },
+          {
+           "id": "c626297f-f658-4bea-b641-3bdb2403824f",
+           "title": "ضدعفونی‌کننده",
+           "href": "/category/health-treatment-disinfectants"
+          },
+          {
+           "id": "3b81cced-743d-4aa6-8a91-985e598f1195",
+           "title": "همه کالاها",
+           "href": "/category/medical-health-equipment"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "ef82a5e1-475a-4f9b-aedc-a35877686b7a",
+       "title": "خانه و آشپزخانه",
+       "href": "/category/home-kitchen",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "e35f9b88-3ba1-40e4-9a11-7c896e91bbb0",
+         "title": "آشپزخانه",
+         "href": "/category/kitchen-appliances",
+         "children": [
+          {
+           "id": "9529be24-5582-40c7-ba50-a542dc8e8531",
+           "title": "ظروف پخت‌وپز",
+           "href": "/category/kitchen-appliances-cookwares"
+          },
+          {
+           "id": "9eb3babc-6866-402c-ae75-99770b547549",
+           "title": "سرویس پخت‌وپز",
+           "href": "/category/kitchen-appliances-cookware-sets"
+          },
+          {
+           "id": "3ce1652c-c8d3-4fee-805b-da3e89982ac5",
+           "title": "ابزار آشپزی",
+           "href": "/category/kitchen-appliances-cooking-tools"
+          },
+          {
+           "id": "b63dd525-b526-4efb-9960-a653b57bf521",
+           "title": "سرو چای و قهوه",
+           "href": "/category/tea-coffee-set"
+          },
+          {
+           "id": "b5551271-ce28-4466-8c74-f7533a6b9971",
+           "title": "ظروف نگهدارنده",
+           "href": "/category/kitchen-appliances-food-containers"
+          },
+          {
+           "id": "21182dd5-58a4-4d4f-9248-93cd0a70c64e",
+           "title": "بانکه و ظروف بنشن",
+           "href": "/category/kitchen-appliances-legume-container"
+          },
+          {
+           "id": "aea922f4-7f13-4091-b73a-aad673730f8d",
+           "title": "ارگانایزر کابینت و آشپزخانه",
+           "href": "/category/kitchen-appliances-organizer"
+          },
+          {
+           "id": "0820d667-6f26-4863-adea-bca58a4a17c2",
+           "title": "آبکش و سبد",
+           "href": "/category/kitchen-appliances-virgobasin"
+          },
+          {
+           "id": "1fe84ed9-43c9-486b-940d-4c4bb2667aaa",
+           "title": "پیش‌بند و دستگیره و دم‌کنی آشپزخانه",
+           "href": "/category/kitchen-appliances-apron"
+          },
+          {
+           "id": "7f12e811-de46-4608-8b5a-83bb717fc34f",
+           "title": "ست جهیزیه",
+           "href": "/category/kitchen-appliances-dowry-sets"
+          },
+          {
+           "id": "e1f7a823-66b5-4c7e-ac1c-f9a50fca68ed",
+           "title": "همه کالاها",
+           "href": "/category/kitchen-appliances"
+          }
+         ]
+        },
+        {
+         "id": "a225c2f2-8903-4afa-ac44-6b93d6a1164b",
+         "title": "لوازم سرو و پذیرایی",
+         "href": "/category/home-kitchen-serving",
+         "children": [
+          {
+           "id": "829ca4e2-e71b-4251-ba30-32a2691db584",
+           "title": "ظروف پذیرایی",
+           "href": "/category/home-serving-dishes"
+          },
+          {
+           "id": "0d373646-4d78-41a0-b966-b8c3fc748b6c",
+           "title": "بشقاب",
+           "href": "/category/home-serving-plate"
+          },
+          {
+           "id": "077b2cf1-343c-4405-9e0f-38eb4624b04d",
+           "title": "کاسه و پیاله",
+           "href": "/category/home-serving-bowl"
+          },
+          {
+           "id": "e02a8925-35fb-4762-b68c-2e025876c14b",
+           "title": "قاشق، چنگال و چاقو",
+           "href": "/category/home-serving-spoon-fork-knife"
+          },
+          {
+           "id": "04c05b75-d2b1-44d4-bf31-3321de054aef",
+           "title": "پارچ، بطری، لیوان، ماگ و فنجان",
+           "href": "/category/home-serving-bottles-mug-jug-set"
+          },
+          {
+           "id": "4262f530-9067-404f-9254-dc7505ce020c",
+           "title": "کلمن، قمقمه و فلاسک",
+           "href": "/category/home-serving-coleman-flask"
+          },
+          {
+           "id": "6cc74e75-2cf0-4ed1-a886-039f26848583",
+           "title": "سرویس غذاخوری",
+           "href": "/category/home-serving-dinnerware-sets"
+          },
+          {
+           "id": "6230a2f7-89a6-40c7-a9a6-8bccaf617c11",
+           "title": "سرویس چای‌خوری و قهوه‌خوری",
+           "href": "/category/teapots-coffee-servers"
+          },
+          {
+           "id": "41ee61ba-7b91-49e8-a857-32c6e74e9a97",
+           "title": "لوازم یکبار مصرف",
+           "href": "/category/disposable-supplies"
+          },
+          {
+           "id": "928dcff4-c8bc-47d1-bd13-f9bceacd1709",
+           "title": "زیرلیوانی، زیربشقابی و زیرقابلمه‌ای",
+           "href": "/category/home-serving-coaster"
+          },
+          {
+           "id": "ab8dfadb-c4da-45a5-9cec-985188dfe702",
+           "title": "ابزار مهمانی و شوخی",
+           "href": "/category/home-serving-event-party-supplies"
+          },
+          {
+           "id": "f9033eae-704b-4bac-82f3-75e48e48a9b8",
+           "title": "همه کالاها",
+           "href": "/category/home-kitchen-serving"
+          }
+         ]
+        },
+        {
+         "id": "22de6ce9-2032-4e76-9da0-40d0057e3c78",
+         "title": "دکوراسیون",
+         "href": "/category/home-decorative",
+         "children": [
+          {
+           "id": "c19b5dc0-3153-4233-bcc5-6f37b80f5115",
+           "title": "آینه",
+           "href": "/category/home-decorative-mirror"
+          },
+          {
+           "id": "a642e488-87b3-4223-ad3a-4048c8be6275",
+           "title": "پرده",
+           "href": "/category/home-decorative-curtain"
+          },
+          {
+           "id": "f8ba94cd-8352-4c64-afdb-b79ae1e61baa",
+           "title": "فرش",
+           "href": "/category/home-decorative-carpet"
+          },
+          {
+           "id": "a00352ad-01ae-4fb2-8cb8-63de34369397",
+           "title": "تابلو",
+           "href": "/category/home-decorative-wall-art"
+          },
+          {
+           "id": "b72794f0-d594-47bf-9679-12a7a15acd5f",
+           "title": "رومیزی و رانر",
+           "href": "/category/home-serving-tablet-runners-tablecloths"
+          },
+          {
+           "id": "c3c14719-8263-4c2b-a860-ed97ca452a03",
+           "title": "ظروف تزئینی",
+           "href": "/category/home-decorative-decorative-containers"
+          },
+          {
+           "id": "c6452243-5888-45f4-877f-906de7c5b036",
+           "title": "کوسن",
+           "href": "/category/home-decorative-cushion"
+          },
+          {
+           "id": "6c899dce-1306-488c-8430-23ab9cef89cc",
+           "title": "گلدان و گل مصنوعی",
+           "href": "/category/home-decorative-vases-artificial-plants"
+          },
+          {
+           "id": "8b7c5da1-4a3e-4acf-bacc-e1053862f821",
+           "title": "مجسمه و انواع ماکت",
+           "href": "/category/home-decorative-statues-replicas"
+          },
+          {
+           "id": "2fef2748-b9cd-44f8-be59-8d30bb415614",
+           "title": "شمع",
+           "href": "/category/home-decorative-candle"
+          },
+          {
+           "id": "71023ef9-5a07-44bb-bd56-432484b6f4b1",
+           "title": "عود و اسماج",
+           "href": "/category/incense-smudge"
+          },
+          {
+           "id": "6adacde1-bf10-434d-affb-22d0317f6d97",
+           "title": "ساعت",
+           "href": "/category/home-decorative-clocks"
+          },
+          {
+           "id": "34a3d324-8702-4a3b-9d24-2203024092c3",
+           "title": "تزئین کف، سقف و دیوار",
+           "href": "/category/home-decorative-decorating-floor-wall"
+          },
+          {
+           "id": "6fa94dec-de7e-42b5-abc0-abf246995c2d",
+           "title": "همه کالاها",
+           "href": "/category/home-decorative"
+          }
+         ]
+        },
+        {
+         "id": "b005b652-4ced-4767-afca-ba340027a4c3",
+         "title": "مبلمان",
+         "href": "/category/home-furniture-decor",
+         "children": [
+          {
+           "id": "15e88817-d2dd-4a30-b1c2-fd2ce8ab307e",
+           "title": "مبل",
+           "href": "/category/home-decorative-furniture"
+          },
+          {
+           "id": "b3a9c59c-fdfb-42a6-9d6f-4143c6e9fdb5",
+           "title": "ست میز و صندلی",
+           "href": "/category/home-decorative-chairs-tables-set"
+          },
+          {
+           "id": "80c0b340-ad8e-4996-b421-fba997ded4f6",
+           "title": "میز و کنسول",
+           "href": "/category/home-decorative-table-console"
+          },
+          {
+           "id": "97cd32d7-f095-417e-a1e5-e03b7607556f",
+           "title": "کمد لباس و ارگانایزر",
+           "href": "/category/sleep-bedroom-wardrobe"
+          },
+          {
+           "id": "8f8afb15-08a1-497c-8114-6211460763fd",
+           "title": "جاکفشی",
+           "href": "/category/home-decorative-shoes-boxes"
+          },
+          {
+           "id": "08692ecb-ca94-4217-8029-aa47aa69c395",
+           "title": "پاف و بین بگ",
+           "href": "/category/pouf-beanbag"
+          },
+          {
+           "id": "b7d8cf04-498e-4f94-b1c9-645b6800847b",
+           "title": "شلف و طبقه دیواری",
+           "href": "/category/home-decorative-wall-shelf"
+          },
+          {
+           "id": "15b36613-3d18-4e8e-a4ee-833c389d5554",
+           "title": "میز تلویزیون",
+           "href": "/category/video-audio-tv-tables"
+          },
+          {
+           "id": "6aab8c84-a884-41e6-8772-2749f10a757f",
+           "title": "مبل و صندلی اداری",
+           "href": "/category/office-sofa-chair"
+          },
+          {
+           "id": "153bdb60-290a-4860-a77d-0dd36b852f92",
+           "title": "میز اداری",
+           "href": "/category/office-desk"
+          },
+          {
+           "id": "bc8ec2bb-53dc-44d4-bfcf-7465e990acfa",
+           "title": "همه کالاها",
+           "href": "/category/home-furniture-decor"
+          }
+         ]
+        },
+        {
+         "id": "50ada699-2f98-407b-a3e1-ec0b826064c6",
+         "title": "خواب و اتاق خواب",
+         "href": "/category/sleep-bedroom",
+         "children": [
+          {
+           "id": "104487e0-782d-4d08-9712-0c17f34482f2",
+           "title": "تخت خواب",
+           "href": "/category/sleep-bedroom-bed"
+          },
+          {
+           "id": "cb675953-2eb4-42c0-aa50-fb5be91ad87e",
+           "title": "سرویس خواب",
+           "href": "/category/sleep-bedroom-sets"
+          },
+          {
+           "id": "5c58df7d-30f5-42a0-b009-f70f3fc2742f",
+           "title": "لحاف",
+           "href": "/category/comforter"
+          },
+          {
+           "id": "3ec1442a-94e1-42a8-afcb-685268dd9a52",
+           "title": "روتختی",
+           "href": "/category/bedding-set"
+          },
+          {
+           "id": "8422cacb-ded3-4628-b8d4-1d0a027a8867",
+           "title": "ملحفه و روبالشی",
+           "href": "/category/sleep-bedroom-sheets"
+          },
+          {
+           "id": "9183f6cd-bd34-4d34-8ea3-b1025e3e32d4",
+           "title": "تشک",
+           "href": "/category/sleep-bedroom-mattress"
+          },
+          {
+           "id": "1bd823b3-a153-4d7f-84c1-672c9476f3dd",
+           "title": "پتو",
+           "href": "/category/sleep-bedroom-blanket"
+          },
+          {
+           "id": "b66f84a7-0e10-464e-87a4-c8b24aac2c85",
+           "title": "بالش",
+           "href": "/category/sleep-bedroom-pillow"
+          },
+          {
+           "id": "efb6633f-86c2-4cf0-b7e0-0466afbf6c0d",
+           "title": "چوب لباسی، رگال و آویز لباس",
+           "href": "/category/sleep-bedroom-coat-hanger"
+          },
+          {
+           "id": "e72d0212-98ed-462c-acd5-dcd362c312a7",
+           "title": "همه کالاها",
+           "href": "/category/sleep-bedroom"
+          }
+         ]
+        },
+        {
+         "id": "ac5fba49-59c8-4b5d-8a22-022fe3552c2f",
+         "title": "سرویس بهداشتی",
+         "href": "/category/home-toiletset",
+         "children": [
+          {
+           "id": "9d56dbb2-e06c-48eb-b8f8-e461485ce722",
+           "title": "توالت ایرانی",
+           "href": "/category/home-squat-toilet"
+          },
+          {
+           "id": "5abd641f-1f89-4bd4-9acf-7896a1c5a663",
+           "title": "توالت فرنگی",
+           "href": "/category/home-toiletset-toilet"
+          },
+          {
+           "id": "cf530948-111c-4ec7-bfa8-2b2247a89c7c",
+           "title": "فلاش تانک",
+           "href": "/category/home-flush-tank"
+          },
+          {
+           "id": "85943ef9-eb4c-47a2-a211-5174f53685b8",
+           "title": "روشویی و کابینت",
+           "href": "/category/home-toiletset-cabinet"
+          },
+          {
+           "id": "cfed514f-49aa-49e7-8ff2-800440dd0fe0",
+           "title": "ست سرویس بهداشتی",
+           "href": "/category/home-toiletset-bathroom-set"
+          },
+          {
+           "id": "eb00fc2d-3f87-423c-b1e8-da4fa517aba9",
+           "title": "آینه دستشویی",
+           "href": "/category/home-toiletset-mirror"
+          },
+          {
+           "id": "0d1250b2-4e91-4a2f-8e83-21e364b4f1eb",
+           "title": "مخزن مایع دستشویی",
+           "href": "/category/home-toiletset-soapdispenser"
+          },
+          {
+           "id": "ef4aa92b-8174-4ec2-b32b-e73c0eca068d",
+           "title": "فرچه و تمیزکننده",
+           "href": "/category/home-toiletset-brush"
+          },
+          {
+           "id": "bcfb2939-08f0-4122-b869-c7e6c34413cc",
+           "title": "همه کالاها",
+           "href": "/category/home-toiletset"
+          }
+         ]
+        },
+        {
+         "id": "8e3f916d-2dc0-4759-83f2-db5f41c3d2a8",
+         "title": "سرویس حمام",
+         "href": "/category/home-bathroom-sets",
+         "children": [
+          {
+           "id": "12a61320-7f56-4baa-86b5-a6da99612228",
+           "title": "وان و جکوزی حمام",
+           "href": "/category/home-bathroom-bathtub"
+          },
+          {
+           "id": "c291fe05-2468-4428-b724-db8922879b8b",
+           "title": "پرده حمام",
+           "href": "/category/home-bathroom-shower-curtain"
+          },
+          {
+           "id": "5b36e6d4-bf8f-4f63-9bf0-152296dc130c",
+           "title": "قفسه حمام",
+           "href": "/category/home-bathroom-shelf"
+          },
+          {
+           "id": "64cfa386-79d3-45b6-a248-5453dd3f95d2",
+           "title": "پادری",
+           "href": "/category/sleep-bedroom-door-mat"
+          },
+          {
+           "id": "db20ad1d-574c-4efb-aebd-6f4c82071905",
+           "title": "آویز لباس و حوله حمام",
+           "href": "/category/home-bathroom-towel-hanger"
+          },
+          {
+           "id": "46fd50fa-55a9-4fe7-8488-20d3874b1c33",
+           "title": "حوله و کلاه حمام",
+           "href": "/category/home-bathroom-towel"
+          },
+          {
+           "id": "4a87536e-600c-48b9-b2d6-2f7e01e25224",
+           "title": "دمپایی",
+           "href": "/category/home-bathroom-slippers"
+          },
+          {
+           "id": "c008b413-f3ce-43c4-bd78-f373163d9f9d",
+           "title": "لیف و برس شوینده بدن",
+           "href": "/category/home-bathroom-washingmitt"
+          },
+          {
+           "id": "1f0680ba-e4bb-4552-bf90-9bf51751088c",
+           "title": "صندلی و چهارپایه حمام",
+           "href": "/category/home-bathroom-chair"
+          },
+          {
+           "id": "b5d1cce7-5673-438a-984d-f666c5da8db0",
+           "title": "همه کالاها",
+           "href": "/category/home-bathroom-sets"
+          }
+         ]
+        },
+        {
+         "id": "43444be2-9753-4141-8bd9-cc8e0e823c83",
+         "title": "شست‌وشو و نظافت",
+         "href": "/category/home-cleaning-tools",
+         "children": [
+          {
+           "id": "5290b5f2-cd4c-4f5a-a2fe-0127b2934017",
+           "title": "سینک",
+           "href": "/category/home-cleaning-sink"
+          },
+          {
+           "id": "e1928673-43a6-43e6-bcfa-c4869cb6feab",
+           "title": "سطل زباله",
+           "href": "/category/kitchen-appliances-trash-bin"
+          },
+          {
+           "id": "421fb31a-a096-4acc-ac92-f593457cc719",
+           "title": "بند رخت",
+           "href": "/category/home-cleaning-clothesline"
+          },
+          {
+           "id": "2aaae34c-6120-4e0a-8d82-7e37fa663c6c",
+           "title": "تی، جارو و خاک‌انداز",
+           "href": "/category/home-cleaning-broom"
+          },
+          {
+           "id": "324f9b93-ce32-46ec-a4b6-e1bd7560f45e",
+           "title": "کیسه فریزر و وکیوم",
+           "href": "/category/home-cleaning-freezer-bags"
+          },
+          {
+           "id": "9fe2c590-133a-4faa-9768-7b8a79e25f04",
+           "title": "دستکش نظافت",
+           "href": "/category/home-cleaning-gloves"
+          },
+          {
+           "id": "d58805b2-dddb-458b-ace7-fd181da21f0a",
+           "title": "دستمال کاغذی",
+           "href": "/category/tissue-paper"
+          },
+          {
+           "id": "8c3b116b-b924-4ae4-9bed-fb57e349b643",
+           "title": "دستمال نظافت پارچه‌ای",
+           "href": "/category/home-handkerchief"
+          },
+          {
+           "id": "95aad01c-67cc-4cbb-98c5-63a685d0fa65",
+           "title": "همه کالاها",
+           "href": "/category/home-cleaning-tools"
+          }
+         ]
+        },
+        {
+         "id": "18d0dbe3-f6a9-47fd-bac4-b01553c4dc8e",
+         "title": "مواد شوینده",
+         "href": "/category/home-cleaning-detergents",
+         "children": [
+          {
+           "id": "02873370-b85d-4eec-8beb-3d8e25d500e0",
+           "title": "شوینده ظروف",
+           "href": "/category/detergents-dish-cleaners"
+          },
+          {
+           "id": "75fae8ed-8f25-4714-a1e1-3767d36edc07",
+           "title": "شوینده لباس",
+           "href": "/category/detergents-clothing"
+          },
+          {
+           "id": "1e05e402-5e66-45d5-ae2f-dff7c4b961bf",
+           "title": "مایع دستشویی",
+           "href": "/category/detergents-hand-liquids"
+          },
+          {
+           "id": "1b09a472-b6ab-4a9a-afa1-273aa05ef551",
+           "title": "شوینده سطوح",
+           "href": "/category/detergents-surface"
+          },
+          {
+           "id": "5b353dbb-d092-43b8-99ce-9b9737082e0e",
+           "title": "بوگیر و خوشبوکننده",
+           "href": "/category/detergents-airfreshener"
+          },
+          {
+           "id": "974d219d-48b9-4015-a8ed-6d491b1a47cb",
+           "title": "همه کالاها",
+           "href": "/category/home-cleaning-detergents"
+          }
+         ]
+        },
+        {
+         "id": "d207ea44-1013-47e4-b13d-80029e7c5b4c",
+         "title": "حیوانات خانگی",
+         "href": "/category/pet-products",
+         "children": [
+          {
+           "id": "415dd74e-26f5-4519-b68a-bc62a70f9b94",
+           "title": "محصولات گربه",
+           "href": "/category/cat-products"
+          },
+          {
+           "id": "2c49f145-db04-4f72-84b2-2a30706f33c0",
+           "title": "محصولات سگ",
+           "href": "/category/dog-products"
+          },
+          {
+           "id": "d49dae5e-d8ac-4eb7-a96c-b55987d7faa6",
+           "title": "محصولات پرندگان",
+           "href": "/category/bird-products"
+          },
+          {
+           "id": "39795350-f226-42e6-8e2f-007ce2621a60",
+           "title": "محصولات آبزیان",
+           "href": "/category/aquatic-pet-products"
+          },
+          {
+           "id": "41057207-0480-413b-84f5-b546711c1a69",
+           "title": "پوشاک حیوانات",
+           "href": "/category/pet-clothing"
+          },
+          {
+           "id": "5a741529-8386-4775-a3b7-2b406181da57",
+           "title": "محصولات بهداشت و اصلاح حیوانات",
+           "href": "/category/pet-health-products"
+          },
+          {
+           "id": "b749d453-1bcd-4f9e-be82-63b58a05138f",
+           "title": "همه کالاها",
+           "href": "/category/pet-products"
+          }
+         ]
+        },
+        {
+         "id": "00911860-865c-4bfb-bb5a-48a9d8ea5296",
+         "title": "گل و گیاه طبیعی",
+         "href": "/category/natural-flowers-plants",
+         "children": [
+          {
+           "id": "f2eba270-5950-44f2-825f-67adca6f9138",
+           "title": "گل و گیاه طبیعی",
+           "href": "/category/natural-flowers-plants"
+          },
+          {
+           "id": "3d4324fd-d65b-41fc-8b6f-166718737f52",
+           "title": "شاخه گل طبیعی",
+           "href": "/category/natural-flowers-spray"
+          },
+          {
+           "id": "d2497b19-afda-4076-9680-57aaab946212",
+           "title": "گل و گیاه مصنوعی",
+           "href": "/category/artificial-flowers-plants"
+          },
+          {
+           "id": "c0379319-1443-4c4d-be49-41f03135aa6a",
+           "title": "تاج و دسته گل طبیعی",
+           "href": "/category/natural-flowers-bouquet"
+          },
+          {
+           "id": "fe88f249-d418-42fc-82fe-a7504fd26a61",
+           "title": "ملزومات باغبانی",
+           "href": "/category/gardening-equipment"
+          },
+          {
+           "id": "58c982bb-0d03-4450-a390-f7a2ad695164",
+           "title": "جعبه و سبد گل طبیعی",
+           "href": "/category/natural-flowers-basket"
+          },
+          {
+           "id": "d231d930-6db5-4daf-81bd-cb873ba0c51d",
+           "title": "نهال و گیاهان آپارتمانی طبیعی",
+           "href": "/category/natural-houseplant"
+          },
+          {
+           "id": "8bb5836d-c0bd-40f8-a0fa-f1af27af3d69",
+           "title": "تراریوم",
+           "href": "/category/natural-flowers-terrarium"
+          },
+          {
+           "id": "a2a9c0df-99df-4cf5-b773-d2ac188f90a1",
+           "title": "همه کالاها",
+           "href": "/category/natural-flowers-plants"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "dfc564aa-60fc-4bf0-a6dd-c457a2e50f85",
+       "title": "لوازم خانگی برقی",
+       "href": "/category/electric-home-appliances",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "f837bb4f-8551-4686-b42e-62136ef61304",
+         "title": "یخچال و فریزر",
+         "href": "/category/home-appliances-refrigerator-freezer"
+        },
+        {
+         "id": "b1d8dcfd-b762-468b-bbc7-fb115a4adba1",
+         "title": "سرمایش، گرمایش و تهویه",
+         "href": "/category/heating-cooling-air-quality",
+         "children": [
+          {
+           "id": "20dc1f90-f811-4bdf-934c-e96d06896e49",
+           "title": "کولر گازی",
+           "href": "/category/air-conditioner"
+          },
+          {
+           "id": "25c56990-ff41-4114-a569-bb42727b6f2c",
+           "title": "کولر آبی",
+           "href": "/category/water-cooler"
+          },
+          {
+           "id": "9733d836-8c16-429b-913c-3b8ff6f05258",
+           "title": "پنکه",
+           "href": "/category/household-fans"
+          },
+          {
+           "id": "5d432d95-b18f-404e-b33c-885ba8619b24",
+           "title": "آبگرمکن و پکیج",
+           "href": "/category/water-heater-wall-hung-boilers"
+          },
+          {
+           "id": "31330cab-8e5a-4c54-8e45-46075ce413b4",
+           "title": "بخاری و شوفاژ برقی",
+           "href": "/category/electric-heater-radiator"
+          },
+          {
+           "id": "dc35c309-2ea0-4bc3-9cbd-56b009eb4b58",
+           "title": "تصفیه‌کننده هوا",
+           "href": "/category/air-purifier"
+          },
+          {
+           "id": "ab3a22ff-1c43-4485-8e62-9c5439b0a2b4",
+           "title": "اسپلیت و فن‌کویل",
+           "href": "/category/air-conditioner-fan-coil"
+          },
+          {
+           "id": "36c5d504-a9f1-43f5-a0af-deb3f263012a",
+           "title": "همه کالاها",
+           "href": "/category/heating-cooling-air-quality"
+          }
+         ]
+        },
+        {
+         "id": "5bea5ba8-acda-4469-a1aa-e53c5b1175bf",
+         "title": "لوازم پخت‌وپز برقی",
+         "href": "/category/electric-cooking-appliances",
+         "children": [
+          {
+           "id": "ad34be8f-90af-4e53-a639-5474cc2c27e0",
+           "title": "مایکروویو و مایکروفر",
+           "href": "/category/cooking-equipment-microwave"
+          },
+          {
+           "id": "16432c37-1b2c-4315-8c92-08406b9043bb",
+           "title": "سرخ‌کن",
+           "href": "/category/cooking-equipment-airfryer"
+          },
+          {
+           "id": "60e54a07-f623-436e-b48e-bf1765dccd28",
+           "title": "پلوپز",
+           "href": "/category/cooking-equipment-rice-cooker"
+          },
+          {
+           "id": "07773d03-dbe2-4a6f-b63c-8b7258ac6403",
+           "title": "توستر و آون توستر",
+           "href": "/category/cooking-equipment-toaster"
+          },
+          {
+           "id": "52c0ce97-6d86-484e-9751-7782f516a873",
+           "title": "زودپز و آرام‌پز برقی",
+           "href": "/category/electric-pressure-slow-cookers"
+          },
+          {
+           "id": "856cece4-efcf-488e-a184-19ec895c1be8",
+           "title": "بخارپز، نان‌پز و تخم‌مرغ‌پز و مولتی کوکر",
+           "href": "/category/cooking-equipment-steamer-cooker"
+          },
+          {
+           "id": "dad76fd2-3d58-4d1a-91d7-54edb04f5b33",
+           "title": "اجاق گاز معمولی و توکار",
+           "href": "/category/home-appliances-stove"
+          },
+          {
+           "id": "8c0b01f6-4e28-49a1-be37-5b160692fe56",
+           "title": "هود",
+           "href": "/category/home-appliances-hood"
+          },
+          {
+           "id": "f1d8afa7-e0a0-4488-884b-c42fa599faec",
+           "title": "ساندویچ‌ساز و وافل‌ساز",
+           "href": "/category/cooking-equipment-sandwichem-maker"
+          },
+          {
+           "id": "d763da26-f191-4684-8bfb-c7c9e2443fa2",
+           "title": "همه کالاها",
+           "href": "/category/electric-cooking-appliances"
+          }
+         ]
+        },
+        {
+         "id": "de698546-70d8-497f-b2c6-0ad5cce2237d",
+         "title": "خردکن و غذاساز برقی",
+         "href": "/category/electric-chopper-food-processor",
+         "children": [
+          {
+           "id": "74cf75fc-2158-4770-bb3d-4b8c7f0316c9",
+           "title": "مخلوط‌کن",
+           "href": "/category/cooking-equipment-blenders"
+          },
+          {
+           "id": "867225b1-9f4c-499c-ba7d-95689e72df17",
+           "title": "خردکن",
+           "href": "/category/cooking-equipment-chopper"
+          },
+          {
+           "id": "83cddfa6-f07a-4952-8001-49b73116638b",
+           "title": "غذاساز",
+           "href": "/category/cooking-equipment-food-processor"
+          },
+          {
+           "id": "6677215f-85ef-4d29-9a5f-45b84950e89c",
+           "title": "آسیاب",
+           "href": "/category/cooking-equipment-grinder"
+          },
+          {
+           "id": "a221f167-2ab2-4ea7-a7ec-f19113af58b6",
+           "title": "همزن",
+           "href": "/category/cooking-equipment-mixer"
+          },
+          {
+           "id": "d89ea9b2-a69c-43e2-9ba1-4432dd99cbb8",
+           "title": "همه کالاها",
+           "href": "/category/electric-chopper-food-processor"
+          }
+         ]
+        },
+        {
+         "id": "d0ec21b7-897b-41bd-9387-1936a9cb0984",
+         "title": "صوتی و تصویری",
+         "href": "/category/video-audio",
+         "children": [
+          {
+           "id": "868859e6-b5f3-452e-be02-90ae6f0ea91f",
+           "title": "تلویزیون",
+           "href": "/category/video-audio-television"
+          },
+          {
+           "id": "dc242a31-c19d-4e64-a7e5-9ca16cccb2d8",
+           "title": "اندروید باکس",
+           "href": "/category/video-audio-android-box"
+          },
+          {
+           "id": "82dabc95-923a-402d-982e-c3bdf3d391de",
+           "title": "رادیو",
+           "href": "/category/video-audio-radio"
+          },
+          {
+           "id": "59971361-a8a7-493a-a849-56bab6d4f49a",
+           "title": "همه کالاها",
+           "href": "/category/video-audio"
+          }
+         ]
+        },
+        {
+         "id": "27721ab6-51cb-4480-9d11-08b0148af58b",
+         "title": "لوازم شست‌وشو و نظافت برقی",
+         "href": "/category/electric-cleaning-appliances",
+         "children": [
+          {
+           "id": "b274a022-a8dd-49a2-997a-485caa178b70",
+           "title": "ماشین ظرفشویی",
+           "href": "/category/dishwasher"
+          },
+          {
+           "id": "14621b25-a419-4212-948d-60cf1145953a",
+           "title": "ماشین لباسشویی",
+           "href": "/category/washing-machine"
+          },
+          {
+           "id": "0964863a-7ba1-4a35-b591-b60f24299449",
+           "title": "جاروبرقی",
+           "href": "/category/vacuum-cleaner"
+          },
+          {
+           "id": "293e0f8a-2f73-4ccb-88c8-849ac4bfa2dd",
+           "title": "جارو شارژی",
+           "href": "/category/household-vacuum-cleaners"
+          },
+          {
+           "id": "c46c9093-8f6a-4433-8cfb-5cac5a39d394",
+           "title": "جارو رباتیک",
+           "href": "/category/robotic-vacuum"
+          },
+          {
+           "id": "8ac94e75-2681-437d-971a-7b0bfc85e721",
+           "title": "مینی واش",
+           "href": "/category/mini-washing-machine"
+          },
+          {
+           "id": "b09e9e8d-ca39-4842-98f2-77b067f9a3de",
+           "title": "بخارشو",
+           "href": "/category/steam-cleaner"
+          },
+          {
+           "id": "5d7a5f2f-aa2d-4da6-bb89-daab5f4d8c28",
+           "title": "همه کالاها",
+           "href": "/category/electric-cleaning-appliances"
+          }
+         ]
+        },
+        {
+         "id": "1d6bcf5c-e729-4795-b10d-b0a331d54b2f",
+         "title": "نور و روشنایی",
+         "href": "/category/home-lighting",
+         "children": [
+          {
+           "id": "51434aaa-1cab-472b-8c1a-cf8da7107032",
+           "title": "لوستر",
+           "href": "/category/home-lighting-chandelier"
+          },
+          {
+           "id": "494fd64e-a990-4ba6-a52e-d97e078541b4",
+           "title": "دیوارکوب و سقفی",
+           "href": "/category/wall-ceiling-light"
+          },
+          {
+           "id": "7cbdff17-cdb1-4821-a401-8a92844f32ff",
+           "title": "پروژکتور و چراغ فضای باز",
+           "href": "/category/home-lighting-outdoor-lights"
+          },
+          {
+           "id": "77a838ac-dc82-41b0-b35f-d143a7a1e860",
+           "title": "چراغ خواب، آباژور و چراغ تزئینی",
+           "href": "/category/home-lighting-bedroom"
+          },
+          {
+           "id": "288e57a5-152f-40c5-8872-c1c3b3335a5f",
+           "title": "کلید و پریز",
+           "href": "/category/home-lighting-switches-sockets"
+          },
+          {
+           "id": "f626ef00-dbdc-407d-af7e-4dbbcfdb8a7c",
+           "title": "لامپ و ریسه",
+           "href": "/category/home-lighting-lamp"
+          },
+          {
+           "id": "9d91d2ae-4ee9-4dd5-88ef-e450b7d770f6",
+           "title": "همه کالاها",
+           "href": "/category/home-lighting"
+          }
+         ]
+        },
+        {
+         "id": "4429faf7-6439-445f-aa8c-dd15ece27173",
+         "title": "نوشیدنی‌ساز",
+         "href": "/category/home-appliances-drink-maker",
+         "children": [
+          {
+           "id": "c6aeb094-a186-4f89-9759-8c9804b85441",
+           "title": "قهوه‌ساز و دمنوش‌ساز",
+           "href": "/category/coffee-maker"
+          },
+          {
+           "id": "3fafa564-492b-4648-8b79-fc2c391cc89c",
+           "title": "چای‌ساز، سماور برقی و کتری برقی",
+           "href": "/category/electric-tea-maker-kettle"
+          },
+          {
+           "id": "5420bf0d-158a-4deb-b8ba-9ffbd33da312",
+           "title": "اسپرسوساز",
+           "href": "/category/espresso-maker"
+          },
+          {
+           "id": "5f376349-9423-4304-b968-fffbd3a2a2f9",
+           "title": "آبمیوه‌گیری و آب مرکبات‌گیری",
+           "href": "/category/citrus-juicers"
+          },
+          {
+           "id": "0e7d6d4d-8f09-4480-a559-ef3bbb4b42b0",
+           "title": "آبسردکن",
+           "href": "/category/home-appliances-water-cooler"
+          },
+          {
+           "id": "a15bd658-5271-436b-acfe-e27f00157ecd",
+           "title": "همه کالاها",
+           "href": "/category/home-appliances-drink-maker"
+          }
+         ]
+        },
+        {
+         "id": "d38e8587-8576-4fd4-804b-45e178e7eb4c",
+         "title": "لوازم برقی ویژه",
+         "href": "/category/special-home-appliances"
+        },
+        {
+         "id": "409f0198-3203-43f5-9404-3732f4935587",
+         "title": "اتو و اتوبخار",
+         "href": "/category/iron"
+        },
+        {
+         "id": "76d768dc-b298-47f3-aaea-4bff918fb7fd",
+         "title": "چرخ خیاطی",
+         "href": "/category/home-appliances-sewing-machine"
+        },
+        {
+         "id": "03df5510-297a-4f8e-aa6c-15611207943e",
+         "title": "تصفیه‌کننده آب",
+         "href": "/home-appliances-water-purifier"
+        }
+       ]
+      },
+      {
+       "id": "b3238da5-e9b2-42f2-9a12-82f8f8e7885b",
+       "title": "مد و پوشاک",
+       "href": "/category/fashion",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "f7c1e190-551c-425f-9b27-cdb25fb158a3",
+         "title": "لباس زنانه",
+         "href": "/category/women-clothes",
+         "children": [
+          {
+           "id": "3dc5695e-4a40-4aa0-ad3a-2c4025684e3e",
+           "title": "مانتو زنانه",
+           "href": "/category/women-manteau-outwear"
+          },
+          {
+           "id": "c772e989-2b0d-4098-943e-ddad68073d97",
+           "title": "کاپشن، بارانی و پالتو زنانه",
+           "href": "/category/women-jacket-overcoat"
+          },
+          {
+           "id": "af0684d7-e853-4636-b970-4c288fe5b5de",
+           "title": "لباس مجلسی، پیراهن و سرهمی زنانه",
+           "href": "/category/women-nightdress"
+          },
+          {
+           "id": "b14d0fc1-72f5-489f-8d3a-0fe900d182b5",
+           "title": "بلوز، شومیز و تونیک زنانه",
+           "href": "/category/women-blouse-tonic"
+          },
+          {
+           "id": "9f15b3ef-7f09-49d1-95d1-04ca8911abd2",
+           "title": "تیشرت و پولوشرت زنانه",
+           "href": "/category/women-tshirt-polos"
+          },
+          {
+           "id": "59a6e187-623a-409d-8c1d-0aaf2974f24c",
+           "title": "شلوار و لگینگ زنانه",
+           "href": "/category/women-pants-legs"
+          },
+          {
+           "id": "5d8ca3b2-917e-4df7-bb56-104fc3a6e4fa",
+           "title": "لباس راحتی زنانه",
+           "href": "/category/women-homewear"
+          },
+          {
+           "id": "ce2dc949-c4be-44a3-9b79-44338d375cee",
+           "title": "لباس زیر زنانه",
+           "href": "/category/women-lingerie"
+          },
+          {
+           "id": "c42c9d22-6aa5-4508-a1ee-90fe6bb6d2ec",
+           "title": "جوراب، جوراب شلواری و ساق زنانه",
+           "href": "/category/women-socks-tights"
+          },
+          {
+           "id": "08ab62b5-4c56-4ca4-8c9c-84d230c65c73",
+           "title": "کت، جلیقه و ست لباس رسمی زنانه",
+           "href": "/category/women-coat-vest-set"
+          },
+          {
+           "id": "d3735582-3aae-4a6c-b10f-3881f34df37c",
+           "title": "سویشرت و هودی زنانه",
+           "href": "/category/women-hoody-sweatshirt"
+          },
+          {
+           "id": "fce6c794-d267-4ffe-9d14-b2cbbf258e11",
+           "title": "تاپ و نیم تنه زنانه",
+           "href": "/category/women-crop-top"
+          },
+          {
+           "id": "90b403e6-e89f-4dc1-85bf-d5014a221fd1",
+           "title": "لباس بافتنی زنانه",
+           "href": "/category/women-knitwear"
+          },
+          {
+           "id": "fcaf17dd-4d69-4a26-b0fc-6af4784889d1",
+           "title": "همه کالاها",
+           "href": "/category/women-clothes"
+          }
+         ]
+        },
+        {
+         "id": "2fd9780e-af2d-4b91-bb83-0884362cb9c0",
+         "title": "اکسسوری زنانه",
+         "href": "/category/women-accessories",
+         "children": [
+          {
+           "id": "007e0d15-abd4-41ea-8a33-a5dff36b1d51",
+           "title": "عینک زنانه",
+           "href": "/category/women-eyewear"
+          },
+          {
+           "id": "d4f6759a-b3ab-452d-ab92-61f7044179ba",
+           "title": "ساعت مچی زنانه",
+           "href": "/category/women-watch"
+          },
+          {
+           "id": "237e1c16-3dc9-4212-aff0-bf7b0ba453a9",
+           "title": "زیورآلات زنانه",
+           "href": "/category/women-jewelry"
+          },
+          {
+           "id": "489dd89c-9dc1-4a17-a2d4-4ec13a2a9162",
+           "title": "کیف زنانه",
+           "href": "/category/women-bags"
+          },
+          {
+           "id": "5db31654-4bf0-49cb-8a99-e6a0eebcd2e6",
+           "title": "ساک و کوله پشتی زنانه",
+           "href": "/category/women-backpack-handbag"
+          },
+          {
+           "id": "5c66f6c3-b7d6-4c28-9a27-902d4e8eb5d4",
+           "title": "اکسسوری مو",
+           "href": "/category/hair-accessories"
+          },
+          {
+           "id": "94906753-a80f-4caa-8fb6-45c6eaeb7f4a",
+           "title": "همه کالاها",
+           "href": "/category/women-accessories"
+          }
+         ]
+        },
+        {
+         "id": "566bfeb9-0589-4974-aec0-75e367929f81",
+         "title": "کفش زنانه",
+         "href": "/category/women-shoes"
+        },
+        {
+         "id": "d77cf9d2-b9d2-4a9b-b06b-d5b40dca0402",
+         "title": "لباس مردانه",
+         "href": "/category/men-clothes",
+         "children": [
+          {
+           "id": "e40fc0f5-7421-40d4-b601-11531813659d",
+           "title": "کت، جلیقه و ست رسمی مردانه",
+           "href": "/category/men-coat-vest-set"
+          },
+          {
+           "id": "d11f6e13-3a42-4c0e-ac85-875d25e6dba7",
+           "title": "کت، کاپشن و پالتو مردانه",
+           "href": "/category/men-coat-jacket"
+          },
+          {
+           "id": "ecab376d-6033-408b-8ff5-a5d69577667a",
+           "title": "پیراهن مردانه",
+           "href": "/category/men-shirts"
+          },
+          {
+           "id": "75dc0be8-15fc-4647-92af-b675fbaa5042",
+           "title": "تیشرت مردانه",
+           "href": "/category/men-tshirt"
+          },
+          {
+           "id": "c31db6a2-c6ca-449b-b5d1-b6ea6d988a4e",
+           "title": "هودی مردانه",
+           "href": "/category/men-hoody"
+          },
+          {
+           "id": "721eec48-3b8e-408b-81a8-dc3aabf3feb1",
+           "title": "لباس راحتی مردانه",
+           "href": "/category/men-homewear"
+          },
+          {
+           "id": "f7d2baac-2718-4038-a565-a619efbc823d",
+           "title": "شلوار مردانه",
+           "href": "/category/men-pants"
+          },
+          {
+           "id": "5a99d7e3-9ab8-482e-9329-1646a7ed0d07",
+           "title": "لباس بافتنی مردانه",
+           "href": "/category/men-knitwear"
+          },
+          {
+           "id": "749c0010-21cf-421d-b4c0-4e2a024eb0b4",
+           "title": "جوراب و ساق مردانه",
+           "href": "/category/men-socks"
+          },
+          {
+           "id": "99bcd89c-6876-4814-ba6d-3d13fc6e1e50",
+           "title": "همه کالاها",
+           "href": "/category/men-clothes"
+          }
+         ]
+        },
+        {
+         "id": "e4b31034-a2c3-45e9-8e9c-89a0783951a9",
+         "title": "اکسسوری مردانه",
+         "href": "/category/men-accessories",
+         "children": [
+          {
+           "id": "29fa3147-8b36-4bfd-9176-185c326bac88",
+           "title": "عینک مردانه",
+           "href": "/category/men-eyewear"
+          },
+          {
+           "id": "f0d8330e-fc0a-4ca6-978f-550aac0cbb57",
+           "title": "ساعت مچی مردانه",
+           "href": "/category/men-watch"
+          },
+          {
+           "id": "b89433da-38f1-48fa-930a-75480be0f483",
+           "title": "زیورآلات مردانه",
+           "href": "/category/men-jewelry"
+          },
+          {
+           "id": "550e1164-b7f2-4d88-8489-3a9c39798e3f",
+           "title": "کیف مردانه",
+           "href": "/category/men-bag"
+          },
+          {
+           "id": "0545f163-ca47-4012-88bf-363ec72cfb90",
+           "title": "کوله‌پشتی مردانه",
+           "href": "/category/men-backpack"
+          },
+          {
+           "id": "db4f3f7f-ff5f-4122-9232-da33e2fbf92f",
+           "title": "کمربند و ساسبند مردانه",
+           "href": "/category/men-belts-suspenders"
+          },
+          {
+           "id": "c6efa26a-112b-42ff-9318-18d7dc30e5a0",
+           "title": "همه کالاها",
+           "href": "/category/men-accessories"
+          }
+         ]
+        },
+        {
+         "id": "5aa87432-dab4-412a-87b8-1474a91c932b",
+         "title": "کفش مردانه",
+         "href": "/category/men-shoes"
+        },
+        {
+         "id": "80a6ca3f-2b56-4a19-9894-ac67e6f19ed3",
+         "title": "لباس ورزشی زنانه",
+         "href": "/category/women-sportswear"
+        },
+        {
+         "id": "6860a27c-8fd7-422e-81c3-b9c913a4af2b",
+         "title": "اکسسوری ورزشی زنانه",
+         "href": "/category/women-sports-accessories"
+        },
+        {
+         "id": "f50aedf4-cfed-4f69-8e44-53038b8ab910",
+         "title": "لباس ورزشی مردانه",
+         "href": "/category/men-sportswear"
+        },
+        {
+         "id": "3eea94f6-e485-44e0-952f-1a142dae2703",
+         "title": "گجت‌های پوشیدنی",
+         "href": "/category/wearable-gadgets"
+        },
+        {
+         "id": "380c3667-34cc-4310-ac26-e95b3e342b9c",
+         "title": "اکسسوری ورزشی مردانه",
+         "href": "/category/men-sports-accessories"
+        },
+        {
+         "id": "bd59ad3a-cd26-4d78-8b7d-73439d59b811",
+         "title": "لباس دخترانه",
+         "href": "/category/girls-clothes",
+         "children": [
+          {
+           "id": "026f1b58-6ccc-40e3-b764-fc5f191484ba",
+           "title": "بلوز، شومیز و تونیک دخترانه",
+           "href": "/category/girls-blouse-tonic"
+          },
+          {
+           "id": "39743959-5fe6-499d-915f-31c566f2976e",
+           "title": "تیشرت و پولوشرت دخترانه",
+           "href": "/category/girls-tshirt-polos"
+          },
+          {
+           "id": "a17c2b1d-d226-45ca-bbef-6321e316fa53",
+           "title": "شلوار و لگینگ دخترانه",
+           "href": "/category/girls-pants-legs"
+          },
+          {
+           "id": "6b4dcb7a-7399-47fd-8461-2b91db30a355",
+           "title": "لباس مجلسی، پیراهن و سرهمی دخترانه",
+           "href": "/category/girls-nightdress"
+          },
+          {
+           "id": "2f5af402-b17f-4fce-b89a-3b22f3013e19",
+           "title": "سویشرت و هودی دخترانه",
+           "href": "/category/girls-hoody-sweatshirt"
+          },
+          {
+           "id": "dec51578-d7a4-4e0a-9767-101b8bd39ada",
+           "title": "جوراب و ساق دخترانه",
+           "href": "/category/girls-tights-stockings"
+          },
+          {
+           "id": "e45efa61-cac2-4411-b8d5-a905c45d5836",
+           "title": "لباس راحتی دخترانه",
+           "href": "/category/girls-homewear"
+          },
+          {
+           "id": "38d5bb88-e339-4cc9-8e53-215a1d382417",
+           "title": "ژاکت و پلیور دخترانه",
+           "href": "/category/girls-cardigans-pullovers"
+          },
+          {
+           "id": "9b539cf6-0639-4057-8b2b-63cbed27a72c",
+           "title": "همه کالاها",
+           "href": "/category/girls-clothes"
+          }
+         ]
+        },
+        {
+         "id": "4433537f-67ca-4e3f-8924-0a98db68b447",
+         "title": "اکسسوری دخترانه",
+         "href": "/category/girls-accessories"
+        },
+        {
+         "id": "54626d91-33c2-4fe3-a57a-b309c206529a",
+         "title": "کفش دخترانه",
+         "href": "/category/girls-shoes"
+        },
+        {
+         "id": "a7f1fab5-c985-4f15-892a-1573e8b73f7e",
+         "title": "لباس پسرانه",
+         "href": "/category/boys-clothes",
+         "children": [
+          {
+           "id": "5d81a277-4078-42d9-ac24-f922d9db172e",
+           "title": "کت، کاپشن و پالتو پسرانه",
+           "href": "/category/boys-coat-jacket"
+          },
+          {
+           "id": "1dc17330-a603-44ad-b04b-2f04ca87854c",
+           "title": "سویشرت و هودی پسرانه",
+           "href": "/category/boys-hoody-sweatshirt"
+          },
+          {
+           "id": "5b4ee8b2-9d1b-4391-9390-3b433c9931f3",
+           "title": "تیشرت و پولوشرت پسرانه",
+           "href": "/category/boys-tops-tshirts-polos"
+          },
+          {
+           "id": "15160e04-b6a7-4416-b34a-475f417f1a56",
+           "title": "شلوار پسرانه",
+           "href": "/category/boys-pants"
+          },
+          {
+           "id": "68372031-c077-47ac-9628-bf129489181f",
+           "title": "لباس راحتی پسرانه",
+           "href": "/category/boys-homewear"
+          },
+          {
+           "id": "cddc9e13-eb95-45e1-bc9e-5c47904aee7c",
+           "title": "جوراب و ساق پسرانه",
+           "href": "/category/boys-socks"
+          },
+          {
+           "id": "2a32dc96-3495-43cd-8ed9-473089066d16",
+           "title": "ژاکت و پلیور پسرانه",
+           "href": "/category/boys-sweaters-pullovers"
+          },
+          {
+           "id": "f4740949-cacd-4920-b675-4babdec9c3b3",
+           "title": "همه کالاها",
+           "href": "/category/boys-clothes"
+          }
+         ]
+        },
+        {
+         "id": "c1e69a1f-c178-4a55-b79a-b95f80add071",
+         "title": "اکسسوری پسرانه",
+         "href": "/category/boys-accessories"
+        },
+        {
+         "id": "bac77b0b-e57d-481d-95fb-bce58070f901",
+         "title": "کفش پسرانه",
+         "href": "/category/boys-shoes"
+        },
+        {
+         "id": "7b86d876-bedc-4c4a-8fa0-e406dfb09e4c",
+         "title": "لباس نوزاد",
+         "href": "/category/baby-clothes",
+         "children": [
+          {
+           "id": "6907b1fc-69c8-4c0f-ae7a-4aeedd07f957",
+           "title": "ست نوزاد",
+           "href": "/category/baby-clothes-sets"
+          },
+          {
+           "id": "7793f575-8a24-4919-a00a-b373f5654d8d",
+           "title": "تاپ و تونیک نوزاد",
+           "href": "/category/baby-tops-tonic"
+          },
+          {
+           "id": "c8bb2348-52d7-4dad-828e-e29996549e81",
+           "title": "شلوار نوزاد",
+           "href": "/category/baby-pants"
+          },
+          {
+           "id": "fd2806c2-204f-4851-a48f-c5676f426f1a",
+           "title": "بادی نوزاد",
+           "href": "/category/baby-homewear-body"
+          },
+          {
+           "id": "3ab6a367-174b-43a5-bbe8-a4a6394836af",
+           "title": "همه کالاها",
+           "href": "/category/baby-clothes"
+          }
+         ]
+        },
+        {
+         "id": "ae29f2fc-50df-4b32-b64e-3729c8a14b1d",
+         "title": "کفش نوزاد",
+         "href": "/category/baby-shoes"
+        },
+        {
+         "id": "62c0701d-7667-4ba9-add1-b5cf78bfee6d",
+         "title": "اکسسوری نوزاد",
+         "href": "/category/baby-accessories"
+        }
+       ]
+      },
+      {
+       "id": "87d424c6-3fda-49a3-b212-7515d942343d",
+       "title": "طلا و نقره",
+       "href": "/category/gold-silver",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "e0c5d4fe-c898-4f00-873a-a93a934dc858",
+         "title": "طلا و زیورآلات طلا",
+         "href": "/category/gold-jewelry"
+        },
+        {
+         "id": "8c373216-6ca0-493d-ace7-3e403244bda1",
+         "title": "شمش و پلاک طلا",
+         "href": "/category/gold-bullion"
+        },
+        {
+         "id": "3eebae8b-6902-409d-8ead-2492687ba9ac",
+         "title": "زیورآلات طلا زنانه",
+         "href": "/category/women-gold-jewelry",
+         "children": [
+          {
+           "id": "4553dbe1-be69-4b72-bc50-00fe446d89c3",
+           "title": "انگشتر طلا زنانه",
+           "href": "/category/women-gold-ring"
+          },
+          {
+           "id": "07926487-8092-4c8c-9611-8a7983514bfe",
+           "title": "گوشواره طلا زنانه",
+           "href": "/category/women-gold-earrings"
+          },
+          {
+           "id": "1eb5b548-6f01-4038-a11a-6dee9dd8353a",
+           "title": "گردنبند طلا زنانه",
+           "href": "/category/women-gold-necklace"
+          },
+          {
+           "id": "8f10ac2c-2b4a-4e1a-9899-dcaa3a8ef1dd",
+           "title": "دستبند طلا زنانه",
+           "href": "/category/women-gold-bracelet"
+          },
+          {
+           "id": "622b41a0-583a-48f5-ad6d-980907558134",
+           "title": "پلاک گردنبند طلا زنانه",
+           "href": "/category/women-gold-necklace-plaque"
+          },
+          {
+           "id": "7fa2b47c-b55c-4423-b037-a7fc0438eb1d",
+           "title": "پابند طلا زنانه",
+           "href": "/category/women-gold-anklet"
+          },
+          {
+           "id": "80542564-cd3d-40e1-8996-7c132279b4f8",
+           "title": "آویز ساعت طلا زنانه",
+           "href": "/category/women-gold-watch-pendant"
+          },
+          {
+           "id": "6ec9a572-ac1e-4014-833d-633e9308fb26",
+           "title": "ست و نیم ست طلا زنانه",
+           "href": "/category/women-gold-jewelry-set"
+          },
+          {
+           "id": "f5e3b792-282a-466d-bcfb-f0ff3b7f79d3",
+           "title": "زنجیر طلا زنانه",
+           "href": "/category/women-gold-chains"
+          },
+          {
+           "id": "344e2b88-133b-44f9-8274-33a99ed67f3d",
+           "title": "پیرسینگ طلا زنانه",
+           "href": "/category/women-gold-piercing"
+          },
+          {
+           "id": "acd38476-b3b7-459e-9712-325b14a82930",
+           "title": "النگو و بنگل طلا زنانه",
+           "href": "/category/women-gold-bangle"
+          },
+          {
+           "id": "73617fad-d4ba-4fdc-a2fa-7ce6fdeafb0b",
+           "title": "همه کالاها",
+           "href": "/category/women-gold-jewelry"
+          }
+         ]
+        },
+        {
+         "id": "0a9e8b47-ef3e-4cdf-9383-b68514d6752a",
+         "title": "زیورآلات طلا مردانه",
+         "href": "/category/men-gold-jewelry",
+         "children": [
+          {
+           "id": "31987ba6-da3d-47be-b789-146b6c902e86",
+           "title": "دستبند طلا مردانه",
+           "href": "/category/men-gold-bracelet"
+          },
+          {
+           "id": "d3d2fc85-b1e7-4c4d-9780-3257fcd92160",
+           "title": "همه کالاها",
+           "href": "/category/men-gold-jewelry"
+          }
+         ]
+        },
+        {
+         "id": "dd7c418e-f399-49e3-b5eb-5dafa4c7cbd6",
+         "title": "زیورآلات طلا بچگانه",
+         "href": "/category/kids-gold-jewelry",
+         "children": [
+          {
+           "id": "99562682-f9f7-478a-884a-b8d890b25e88",
+           "title": "زیورآلات طلا دخترانه",
+           "href": "/category/girls-gold-jewelry"
+          },
+          {
+           "id": "a756ccee-f033-4b0c-a751-2df717f384c9",
+           "title": "زیورآلات طلا پسرانه",
+           "href": "/category/boys-gold-jewelry"
+          },
+          {
+           "id": "8c04ebb4-8f4a-4177-ad59-bc26588360a7",
+           "title": "همه کالاها",
+           "href": "/category/kids-silver-jewelry"
+          }
+         ]
+        },
+        {
+         "id": "5ea823b9-a8e0-4036-b464-acd7c3aaa709",
+         "title": "نقره و زیورآلات نقره",
+         "href": "/category/silver-jewelry"
+        },
+        {
+         "id": "d0181df8-0770-4e8f-9b4a-eec34056ecdd",
+         "title": "شمش و پلاک نقره",
+         "href": "/category/silver-bullion"
+        },
+        {
+         "id": "c3c8322d-f896-4448-a77e-f027fc3c39a1",
+         "title": "زیورآلات نقره زنانه",
+         "href": "/category/women-silver-jewelry",
+         "children": [
+          {
+           "id": "dbd8a77a-02f4-4b0c-a228-c80306204ea9",
+           "title": "انگشتر نقره زنانه",
+           "href": "/category/women-silver-ring"
+          },
+          {
+           "id": "ac3b5d06-82c3-45de-8ccc-c7d5e2a91b9a",
+           "title": "دستبند نقره زنانه",
+           "href": "/category/women-silver-bracelet"
+          },
+          {
+           "id": "5a2db9f7-53a3-4323-bc78-b467a79d2e1b",
+           "title": "گوشواره نقره زنانه",
+           "href": "/category/women-silver-earrings"
+          },
+          {
+           "id": "aee6c5be-0021-4405-94b3-e26118ace2cd",
+           "title": "گردنبند نقره زنانه",
+           "href": "/category/women-silver-necklace"
+          },
+          {
+           "id": "0638c933-b790-4d75-8d79-c5e8df089ea9",
+           "title": "آویز نقره زنانه",
+           "href": "/category/women-silver-pendant"
+          },
+          {
+           "id": "99cf3206-070e-404b-b805-97011549db36",
+           "title": "زنجیر نقره زنانه",
+           "href": "/category/women-silver-chain"
+          },
+          {
+           "id": "85be2f0d-3213-418e-a332-e6844e1a2c08",
+           "title": "پابند نقره زنانه",
+           "href": "/category/women-silver-anklet"
+          },
+          {
+           "id": "789d4294-16ee-44ff-9aa7-d4459bfd66dc",
+           "title": "پیرسینگ نقره زنانه",
+           "href": "/category/women-silver-piercing"
+          },
+          {
+           "id": "d5267ba5-5bb2-44bc-afd1-db740d1d8a10",
+           "title": "آویز ساعت نقره زنانه",
+           "href": "/category/women-silver-watch-charm"
+          },
+          {
+           "id": "4dbbe72f-3ae0-4e06-b846-dd390fc6289d",
+           "title": "ست و نیم ست نقره زنانه",
+           "href": "/category/women-silver-set"
+          },
+          {
+           "id": "8721cc94-d355-499c-b769-18eac02d0b4c",
+           "title": "همه کالاها",
+           "href": "/category/women-silver-jewelry"
+          }
+         ]
+        },
+        {
+         "id": "8ad421d4-b5d7-4622-97b4-52696696a330",
+         "title": "زیورآلات نقره مردانه",
+         "href": "/category/men-silver-jewelry",
+         "children": [
+          {
+           "id": "4ad32aa5-9b25-4d97-8505-855d9e7dcf37",
+           "title": "انگشتر نقره مردانه",
+           "href": "/category/men-silver-ring"
+          },
+          {
+           "id": "87e3000d-c89d-4038-8342-2643902cbac3",
+           "title": "دستبند نقره مردانه",
+           "href": "/category/men-silver-bracelet"
+          },
+          {
+           "id": "8015cb6e-33f9-4dc6-9995-387c3139dfa6",
+           "title": "زنجیر نقره مردانه",
+           "href": "/category/men-silver-chain"
+          },
+          {
+           "id": "ea0320bc-a7a0-4c3d-b02d-cdb25a3f6677",
+           "title": "همه کالاها",
+           "href": "/category/men-silver-jewelry"
+          }
+         ]
+        },
+        {
+         "id": "37741bf4-31d9-48e7-99fe-6395b34336f7",
+         "title": "طلا براساس قیمت",
+         "href": "/category/gold-jewelry",
+         "children": [
+          {
+           "id": "b3f1896e-1e46-4019-906a-4281400757c2",
+           "title": "طلا تا 2 میلیون",
+           "href": "/product-list/gR3jl0"
+          },
+          {
+           "id": "27dbaf67-c537-4518-a894-60cd2f7ed2ef",
+           "title": "طلا 2 تا 5 میلیون",
+           "href": "/product-list/gex5yD"
+          },
+          {
+           "id": "54cf7ea6-266a-4a10-b87a-f33102d07eff",
+           "title": "طلا 5 تا 10 میلیون",
+           "href": "/product-list/0QdLBg"
+          },
+          {
+           "id": "125efc8d-9f86-4c90-b313-4082101c4227",
+           "title": "طلا از 10 میلیون",
+           "href": "/product-list/gwKkng"
+          }
+         ]
+        },
+        {
+         "id": "c97e4c3b-e4d7-4167-ace5-90149a01f944",
+         "title": "محبوب‌ترین برندها",
+         "href": "/category/gold-jewelry",
+         "children": [
+          {
+           "id": "fc2cd4d7-1231-47c3-934d-7e1bdfa5d266",
+           "title": "سانا گالری",
+           "href": "/brand/sana-gallery"
+          },
+          {
+           "id": "282533f2-b572-40a6-8291-2edbb2efacf5",
+           "title": "الن نار",
+           "href": "/brand/elen-nar"
+          },
+          {
+           "id": "d2d27368-fef9-4e39-ab94-9cb3cd1b5765",
+           "title": "مدوپد",
+           "href": "/brand/modopod"
+          },
+          {
+           "id": "cc841b4f-d463-4700-9da3-fd3112011a23",
+           "title": "داریم",
+           "href": "/landing/dareem-shop"
+          },
+          {
+           "id": "b2a009a0-b034-4cae-9c41-96abd416634b",
+           "title": "شمیم گلد گالری",
+           "href": "/brand/shamim-gold-gallery"
+          },
+          {
+           "id": "d7cf4656-56e9-4e4f-99b0-c68bff0cd08e",
+           "title": "سین سان",
+           "href": "/product-list/0Vorlq"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "7f3c57b0-a25f-4fc0-b54a-f83cd7d6709e",
+       "title": "فرهنگ و هنر",
+       "href": "/category/art-culture",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "be4d445c-0b59-4f05-b452-4540517a6262",
+         "title": "کتاب",
+         "href": "/category/book",
+         "children": [
+          {
+           "id": "32f73f9e-aa4b-4f64-9d14-40c11caba91b",
+           "title": "شعر و ادبیات",
+           "href": "/category/book-poetry-literature"
+          },
+          {
+           "id": "e22280f2-2c0a-4b67-8b87-293156e6cd1b",
+           "title": "فلسفه، عرفان و روانشناسی",
+           "href": "/category/philosophy-psychology-books"
+          },
+          {
+           "id": "902169d7-bfc9-45a1-bd9a-ab7b818677ab",
+           "title": "کودک و نوجوان",
+           "href": "/category/book-children"
+          },
+          {
+           "id": "c4ae2320-32bc-4bff-8d85-851535f3b3d4",
+           "title": "هنر",
+           "href": "/category/book-art"
+          },
+          {
+           "id": "f01131c3-da56-4e54-89cd-c5daaac2ef95",
+           "title": "تاریخ و جغرافیا",
+           "href": "/category/book-history-geography"
+          },
+          {
+           "id": "4ff3a103-de32-49ca-a1c3-e120fcb31906",
+           "title": "علوم اجتماعی",
+           "href": "/category/social-sciences-books"
+          },
+          {
+           "id": "74216519-909d-41a6-b123-2c69f5617c51",
+           "title": "کتب مرجع، زندگی‌نامه و سفرنامه",
+           "href": "/category/book-biography-encyclopedia"
+          },
+          {
+           "id": "10429183-db1d-4916-a3c9-3faba58f91a3",
+           "title": "آموزش زبان",
+           "href": "/category/book-language"
+          },
+          {
+           "id": "270f622c-530e-4eb2-b494-a06fb2517b92",
+           "title": "کتاب زبان اصلی خارجی",
+           "href": "/category/book-foreign"
+          },
+          {
+           "id": "7481d289-ab3c-4bf7-9e17-6a7f3c360b51",
+           "title": "کتاب دانشگاهی",
+           "href": "/category/book-academic"
+          },
+          {
+           "id": "0c0d59a0-2d11-47f8-8b46-376f401b29bf",
+           "title": "درسی، کمک درسی و آزمون",
+           "href": "/category/book-tutorials-tests"
+          },
+          {
+           "id": "40dd5de9-dcd5-4beb-9fff-684e15c67708",
+           "title": "علوم کاربردی، تکنولوژی و مهندسی",
+           "href": "/category/engineering-applied-science-tech-books"
+          },
+          {
+           "id": "7798db5c-01ff-4673-b779-9ab5dae4ea30",
+           "title": "ادیان و کتب مذهبی",
+           "href": "/category/book-religious"
+          },
+          {
+           "id": "9507c060-72dd-4675-abd5-5737e2fe4af5",
+           "title": "همه کالاها",
+           "href": "/category/book"
+          }
+         ]
+        },
+        {
+         "id": "59af6b61-295b-4ef1-bae5-7405428b8e76",
+         "title": "دفتر، کاغذ و مقوا",
+         "href": "/category/notebook-paper"
+        },
+        {
+         "id": "c9fa12ba-4b6c-4112-9ef1-d0d18afd8c32",
+         "title": "نوشت افزار",
+         "href": "/category/stationery",
+         "children": [
+          {
+           "id": "165b75ed-1531-4d36-8849-c77f2e1cdc34",
+           "title": "خودکار و روان‌نویس",
+           "href": "/category/stationery-pen"
+          },
+          {
+           "id": "e638ec79-f9e6-45f3-ac57-7d950f7d3c98",
+           "title": "پاک‌کن و غلط‌گیر",
+           "href": "/category/stationery-eraser-correction-fluid"
+          },
+          {
+           "id": "03637fbe-eefb-4459-a24d-8c12d02393c5",
+           "title": "مداد",
+           "href": "/category/stationery-pencil"
+          },
+          {
+           "id": "e8b64d98-80d5-429f-8da2-206695838b18",
+           "title": "تراش",
+           "href": "/category/stationery-pencil-sharpener"
+          },
+          {
+           "id": "f894fb81-9386-4932-a672-1cb2dbf5b4e2",
+           "title": "ماژیک",
+           "href": "/category/stationery-marker"
+          },
+          {
+           "id": "455faf85-1793-4122-a56b-976f582442b5",
+           "title": "مداد نوکی و نوک",
+           "href": "/category/stationery-mechanical-pencils"
+          },
+          {
+           "id": "a80f6d9e-eedc-4748-8bbf-8d3e49ddc310",
+           "title": "نشانگر کتاب",
+           "href": "/category/stationery-bookmark"
+          },
+          {
+           "id": "fb478d08-4fc9-4f18-8f54-90bade76da7b",
+           "title": "لوازم جانبی نوشت‌افزار",
+           "href": "/category/stationery-accessories"
+          },
+          {
+           "id": "ebe4e958-d1fb-4858-9f9a-668d81593a6e",
+           "title": "همه کالاها",
+           "href": "/category/stationery"
+          }
+         ]
+        },
+        {
+         "id": "c13f1697-278d-4c2a-9f7c-ff9f62fdf84d",
+         "title": "جامدادی، کیف و کوله مدرسه",
+         "href": "/category/bags-backpacks",
+         "children": [
+          {
+           "id": "ddd9a2a6-6d31-4da3-8a53-f1e60b73a81b",
+           "title": "کیف و کوله مدرسه",
+           "href": "/category/school-supplies-bags"
+          },
+          {
+           "id": "7e36f07f-17fd-4bd3-94d0-3d23d19cedaf",
+           "title": "جامدادی",
+           "href": "/category/school-supplies-pencilcase"
+          },
+          {
+           "id": "dfea4830-99b1-47de-a866-269c74ffcca5",
+           "title": "همه کالاها",
+           "href": "/category/bags-backpacks"
+          }
+         ]
+        },
+        {
+         "id": "d7b7a923-1d3e-4c31-8b89-21ca2b9773f0",
+         "title": "لوازم اداری",
+         "href": "/category/office-supplies",
+         "children": [
+          {
+           "id": "28382c8e-0760-450e-acbf-50036a5a2f0e",
+           "title": "چسب",
+           "href": "/category/office-supplies-glue"
+          },
+          {
+           "id": "395f0024-4322-4d44-afc1-6e6edcaa85b2",
+           "title": "لوازم اداری رومیزی",
+           "href": "/category/desktop-office-supplies"
+          },
+          {
+           "id": "925d83ab-f2a0-4913-8f21-590586295ba4",
+           "title": "اقلام مصرفی لوازم اداری و بایگانی",
+           "href": "/category/office-consumable-items"
+          },
+          {
+           "id": "3a076974-0afc-4c3a-ab2d-e3d43f8a31b5",
+           "title": "قیچی",
+           "href": "/category/office-supplies-scissor"
+          },
+          {
+           "id": "c875f097-28ca-4f5c-9f32-15f6258e739b",
+           "title": "تخته وایت‌برد و کلیربرد",
+           "href": "/category/office-supplies-whiteboard"
+          },
+          {
+           "id": "7a4c8e81-355c-4357-a64e-bc0775ad61dd",
+           "title": "آهن‌ربا",
+           "href": "/category/office-supplies-magnet"
+          },
+          {
+           "id": "de889976-e599-448b-bf68-e6d92b3d46a3",
+           "title": "مجموعه لوازم اداری",
+           "href": "/category/office-supplies-sets"
+          },
+          {
+           "id": "51b1d491-25c6-4eca-b946-e9505de4b979",
+           "title": "همه کالاها",
+           "href": "/category/office-supplies"
+          }
+         ]
+        },
+        {
+         "id": "14ecf9b2-f2f3-4ee9-9b74-0fb5097d74df",
+         "title": "ابزار نقاشی و رنگ‌آمیزی",
+         "href": "/category/drawing-painting-tools",
+         "children": [
+          {
+           "id": "030f3d08-52fe-48d0-9db6-da4844a8adb5",
+           "title": "پاستل و مداد شمعی",
+           "href": "/category/pastel-crayon"
+          },
+          {
+           "id": "4557cb25-d9d1-423a-97b4-ba7625244e92",
+           "title": "مداد طراحی و نقاشی",
+           "href": "/category/design-painting-pencil"
+          },
+          {
+           "id": "962270ba-92d2-4bff-ad95-6a0fb4b82f9e",
+           "title": "آبرنگ و گواش",
+           "href": "/category/watercolor-postercolor"
+          },
+          {
+           "id": "f690864c-995f-4fb5-b8a6-23d9cf0261d6",
+           "title": "ماژیک نقاشی",
+           "href": "/category/painting-marker"
+          },
+          {
+           "id": "0157a962-6882-4605-a2e4-0433acb4eeab",
+           "title": "قلم‌مو",
+           "href": "/category/painting-brush"
+          },
+          {
+           "id": "59254377-a4ff-4bc5-8d57-169af41e1cca",
+           "title": "بوم نقاشی",
+           "href": "/category/painting-canvas"
+          },
+          {
+           "id": "62709857-e3bd-4756-8ba1-e76b8dd9d8ec",
+           "title": "تخته شاسی",
+           "href": "/category/sketch-board"
+          },
+          {
+           "id": "666c413a-47c7-47da-b58c-52fb83bb2c50",
+           "title": "انواع رنگ‌های نقاشی و سایر ملزومات",
+           "href": "/category/painting-color"
+          },
+          {
+           "id": "c8ca7bfa-0c48-4c5b-a3ea-d772863c164c",
+           "title": "ابزار و ملزومات هنرهای تجسمی",
+           "href": "/category/art-tools-accessoires"
+          },
+          {
+           "id": "22859ce6-93f2-43e1-bce6-04b8594bdcd1",
+           "title": "همه کالاها",
+           "href": "/category/drawing-painting-tools"
+          }
+         ]
+        },
+        {
+         "id": "d94bbbac-dcb6-4476-8084-5f5917a06f74",
+         "title": "ابزار طراحی و مهندسی",
+         "href": "/category/designing-engineering-tools",
+         "children": [
+          {
+           "id": "a3f1f699-8be5-42a0-b0db-139a817e38c3",
+           "title": "خط‌کش",
+           "href": "/category/designing-tools-ruler"
+          },
+          {
+           "id": "a6bae639-ba0a-43cf-8de6-8ca6071b1924",
+           "title": "پرگار",
+           "href": "/category/designing-tools-compass-tool"
+          },
+          {
+           "id": "44535cc0-2f26-4f4a-a1d7-ad5d4e114a46",
+           "title": "همه کالاها",
+           "href": "/category/designing-engineering-tools"
+          }
+         ]
+        },
+        {
+         "id": "380f06ea-8e41-49dc-947f-bda74b7b4de3",
+         "title": "چراغ مطالعه",
+         "href": "/category/office-lights"
+        },
+        {
+         "id": "5fb0e064-9b4f-49c9-a47b-67b77b6c7e25",
+         "title": "سالنامه، تقویم و برنامه‌ریزی",
+         "href": "/category/stationery-calendar-planner"
+        },
+        {
+         "id": "153f853e-30f7-4909-924e-0aa5f35f1002",
+         "title": "بسته لوازم تحریر",
+         "href": "/category/stationery-sets"
+        },
+        {
+         "id": "b32ce189-65f8-4f1f-b5ca-d46e84aef49e",
+         "title": "پوستر و تمبر",
+         "href": "/category/stationery-poster-stamp"
+        },
+        {
+         "id": "bb4f9b6b-46f3-45ab-a73c-cd5db8603025",
+         "title": "هدیه و ملزومات",
+         "href": "/category/gift-supplies",
+         "children": [
+          {
+           "id": "6dd605dd-101b-4b75-a36a-d1dff2b074a1",
+           "title": "پاکت، ساک و جعبه هدیه",
+           "href": "/category/gift-bag"
+          },
+          {
+           "id": "2ce2b24f-f441-45f9-805e-723386e0235b",
+           "title": "کاغذ کادو",
+           "href": "/category/gift-wrap"
+          },
+          {
+           "id": "82fb2f27-4592-4087-8e9e-de1d496a9776",
+           "title": "کارت دعوت و کارت پستال",
+           "href": "/category/gift-postcard"
+          },
+          {
+           "id": "5dd6f91b-c071-4c06-8072-888667cd7d53",
+           "title": "ست هدایا",
+           "href": "/category/gifts-sets"
+          },
+          {
+           "id": "6f2b61ac-7be9-4bae-8f75-6ec19885ed6d",
+           "title": "همه کالاها",
+           "href": "/category/gift-supplies"
+          }
+         ]
+        },
+        {
+         "id": "94990949-2f2b-460a-ba1c-68511394cfb8",
+         "title": "آلات موسیقی",
+         "href": "/category/musical-instruments",
+         "children": [
+          {
+           "id": "4988f1bd-d6dc-44bc-b5ca-774d081b5ce9",
+           "title": "سازهای کوبه‌ای",
+           "href": "/category/percussion-instruments"
+          },
+          {
+           "id": "d85823cf-07f9-4b55-b17c-a99771c294e8",
+           "title": "سازهای زهی",
+           "href": "/category/string-instrument"
+          },
+          {
+           "id": "fcc1d401-9dec-4186-9690-559e9679374c",
+           "title": "سازهای بادی",
+           "href": "/category/wind-instruments"
+          },
+          {
+           "id": "4fcb8543-18e7-454f-8052-357b4867bde6",
+           "title": "سازهای افکت",
+           "href": "/category/effect-instruments"
+          },
+          {
+           "id": "064dc8cd-1188-4a5c-b8a1-935f5528204e",
+           "title": "سازهای صفحه کلیددار",
+           "href": "/category/keyboard-instrument"
+          },
+          {
+           "id": "fa31b954-1c68-4502-b131-2c660ed0341c",
+           "title": "لوازم جانبی آلات موسیقی",
+           "href": "/category/music-instruments-accessories"
+          },
+          {
+           "id": "e5a10f4c-7767-4f0d-8059-6b62e90cb461",
+           "title": "همه کالاها",
+           "href": "/category/musical-instruments"
+          }
+         ]
+        },
+        {
+         "id": "bb681b31-6381-4c26-8d61-e7a53ec8b2e8",
+         "title": "صنایع دستی",
+         "href": "/category/handicrafts",
+         "children": [
+          {
+           "id": "ea9a7466-b0cb-4602-a011-5d5566c6065a",
+           "title": "محصولات چوبی و حصیری",
+           "href": "/category/handicrafts-woodcraft"
+          },
+          {
+           "id": "a22bfcd3-763d-4c20-a7ef-d96d31138199",
+           "title": "سنگی، سرامیک و چینی",
+           "href": "/category/handicrafts-stone-ceramic-porcelain"
+          },
+          {
+           "id": "eff65f27-1eb8-4b3b-8d92-d017626738ed",
+           "title": "محصولات فلزی",
+           "href": "/category/handicrafts-metal-products"
+          },
+          {
+           "id": "2741203a-af93-4681-a9fd-58d6a276ceed",
+           "title": "محصولات استخوانی",
+           "href": "/category/handicrafts-bone-products"
+          },
+          {
+           "id": "7673c793-b031-44b9-b1e6-8f98d400e4af",
+           "title": "دست‌سازه‌‌های هنری",
+           "href": "/category/art-handcrafts"
+          },
+          {
+           "id": "c3e21b72-99d8-4e46-b847-aede45ceb3d7",
+           "title": "لوازم مصرفی هنرهای دستی",
+           "href": "/category/handicrafts-consumables"
+          },
+          {
+           "id": "1a6138b4-8f31-4407-88ad-f63b1d6ad916",
+           "title": "پرچم",
+           "href": "/category/handicrafts-flag"
+          },
+          {
+           "id": "3bf58f94-49a6-4297-bf38-ca611a312f7d",
+           "title": "همه کالاها",
+           "href": "/category/handicrafts"
+          }
+         ]
+        },
+        {
+         "id": "eb3d4f54-77f2-4331-a727-89045d53cf26",
+         "title": "محصولات چندرسانه‌ای",
+         "href": "/category/multimedia-products",
+         "children": [
+          {
+           "id": "4099cf0e-f1ad-4eee-99c6-4ce60f1a6114",
+           "title": "موسیقی",
+           "href": "/category/multimedia-products-music"
+          },
+          {
+           "id": "3fe5f8fa-e021-4502-9ed1-27dc9e8ef996",
+           "title": "فیلم و سریال",
+           "href": "/category/multimedia-products-movie-series"
+          },
+          {
+           "id": "28e916c1-1607-4d7f-9d70-d8c25122c738",
+           "title": "محتوای آموزشی",
+           "href": "/category/multimedia-products-tutorial-videos"
+          },
+          {
+           "id": "f48a8b9f-ce73-4a6d-929c-06b9af03153e",
+           "title": "نرم‌افزار و بازی",
+           "href": "/category/software-games"
+          },
+          {
+           "id": "fb2891da-c9bf-46e2-9254-0414609534d2",
+           "title": "همه کالاها",
+           "href": "/category/multimedia-products"
+          }
+         ]
+        },
+        {
+         "id": "088dd1de-229b-4aa4-bb1c-6b17418d1753",
+         "title": "محصولات مذهبی",
+         "href": "/category/religious-products"
+        }
+       ]
+      },
+      {
+       "id": "dc1cb304-f8e0-4ddf-a09b-446540625999",
+       "title": "مادر و کودک",
+       "href": "/landing/mother-and-baby",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "bf311c63-dc7d-44c7-ab77-c66ed37756e8",
+         "title": "لوازم شخصی مادر و کودک",
+         "href": "/category/mother-baby-personal-products",
+         "children": [
+          {
+           "id": "4938f109-81c5-4c51-952d-c4ba35a87d90",
+           "title": "کرم، روغن و لوسیون کودک و نوزاد",
+           "href": "/category/baby-cream-oil-lotion"
+          },
+          {
+           "id": "f973b09c-9416-40b0-a68f-39273b560dca",
+           "title": "دستمال مرطوب کودک و نوزاد",
+           "href": "/category/baby-wipes"
+          },
+          {
+           "id": "78170ae0-25f0-4ed0-82fb-9811f030fb10",
+           "title": "پستانک و ملزومات",
+           "href": "/category/pacifier-accessories"
+          },
+          {
+           "id": "3251d0a5-d76b-46a4-9ca2-5b2d3246d1ef",
+           "title": "شانه و برس کودک",
+           "href": "/category/baby-brush"
+          },
+          {
+           "id": "4e73cfa4-c69a-493e-970e-d82266368750",
+           "title": "همه کالاها",
+           "href": "/category/mother-baby-personal-products"
+          }
+         ]
+        },
+        {
+         "id": "0cb760a1-fe73-42e0-878b-160b3ebe5e58",
+         "title": "لوازم تغذیه کودک و نوزاد",
+         "href": "/category/baby-dining-products",
+         "children": [
+          {
+           "id": "ad58c6af-f6ec-4a49-a544-16aed4172e0c",
+           "title": "شیشه‌‌ شیر، قمقمه و فلاسک"
+          },
+          {
+           "id": "fefda314-8183-4601-85f2-f0daeb64683b",
+           "title": "قاشق و چنگال و ظروف تغذیه کودک",
+           "href": "/category/baby-spoon-forks-and-dishes"
+          },
+          {
+           "id": "dd01cf3a-c596-4e43-a244-b0cb8ecb5415",
+           "title": "سرشیشه"
+          },
+          {
+           "id": "5a596469-b14a-4bc6-9d16-f3691d36df99",
+           "title": "شیردوش",
+           "href": "/category/breast-pump"
+          },
+          {
+           "id": "97ad8c63-6e78-461c-b374-afbaab0ef798",
+           "title": "پیش‌بند نوزاد",
+           "href": "/category/baby-apron"
+          },
+          {
+           "id": "b9beaead-b64f-41f0-9272-489a08f3134c",
+           "title": "همه کالاها",
+           "href": "/category/baby-dining-products"
+          }
+         ]
+        },
+        {
+         "id": "74b9541c-115d-4cb4-a342-7cbfcd818de5",
+         "title": "بازی و سرگرمی",
+         "href": "/category/game-entertainment",
+         "children": [
+          {
+           "id": "615cc4f3-ff12-457c-b596-12fc2bbca73b",
+           "title": "بازی آموزشی",
+           "href": "/category/training-games"
+          },
+          {
+           "id": "f0dae9b1-e974-42bd-90a9-c46d879d409f",
+           "title": "بازی فکری",
+           "href": "/category/intellectual-games"
+          },
+          {
+           "id": "dc319d56-6a5e-4ee7-bd24-dbc70e487b4a",
+           "title": "پازل و ساختنی",
+           "href": "/category/puzzle-construction-games"
+          },
+          {
+           "id": "ca11c8c3-1315-4063-bbcb-a6e9b3a30157",
+           "title": "اکشن فیگور",
+           "href": "/category/action-figures"
+          },
+          {
+           "id": "789a3b2e-5cd6-46ef-973e-6dd9bd4ac3d6",
+           "title": "عروسک",
+           "href": "/category/doll"
+          },
+          {
+           "id": "3608e170-b8a6-4694-8eca-3166bc0331be",
+           "title": "شوخی و سرگرمی",
+           "href": "/category/entertainment-fun"
+          },
+          {
+           "id": "bdbdf707-6a0f-4d77-8482-6bcc6415bdb7",
+           "title": "جغجغه و دندان‌گیر",
+           "href": "/category/baby-rattles-teether"
+          },
+          {
+           "id": "ec1a1b76-70b6-4bad-b6ba-af17e89bf1c3",
+           "title": "تجهیزات بازی بادی",
+           "href": "/category/inflatable-toys-equipment"
+          },
+          {
+           "id": "9707a4a5-15ec-4f41-bae3-efcb7d284c2b",
+           "title": "سه‌چرخه، موتور و ماشین بازی",
+           "href": "/category/kids-tricycle-motorcycle"
+          },
+          {
+           "id": "fda0870f-cae5-4742-8e9d-f9b63397089a",
+           "title": "ماشین، هواپیما و قطار",
+           "href": "/category/car-aircraft-train"
+          },
+          {
+           "id": "6cba2ad3-8d32-41a5-9e83-4296015d3e3f",
+           "title": "تفنگ و مبارزه",
+           "href": "/category/gun-fight"
+          },
+          {
+           "id": "ae6b6bf9-87f8-4ad1-a62d-7c55e963ad83",
+           "title": "همه کالاها",
+           "href": "/category/game-entertainment"
+          }
+         ]
+        },
+        {
+         "id": "3e018da8-b0b1-44e3-8fe7-783bb7d4793d",
+         "title": "خواب و استراحت کودک",
+         "href": "/category/baby-bedding"
+        },
+        {
+         "id": "1411ca2a-4d49-48ea-86b5-ceef8566905c",
+         "title": "غذای کودک",
+         "href": "/category/baby-food"
+        },
+        {
+         "id": "00e0d474-b1a5-479a-970e-47287d82e3ca",
+         "title": "حمام و شست‌و‌شوی کودک و نوزاد",
+         "href": "/category/baby-bathing-products",
+         "children": [
+          {
+           "id": "cd5a4110-45db-47a9-95f8-2dcf65d180d4",
+           "title": "شامپو مو و بدن کودک و نوزاد",
+           "href": "/category/baby-shampoo"
+          },
+          {
+           "id": "50a07a4e-a0be-4d83-b953-0f8009ee6297",
+           "title": "صابون و مایع شستشو کودک و نوزاد",
+           "href": "/category/baby-soap"
+          },
+          {
+           "id": "2a4a1975-7a9c-4672-b7c1-6a96c2f7681c",
+           "title": "حوله کودک و نوزاد",
+           "href": "/category/baby-towel"
+          },
+          {
+           "id": "ee232c51-6b90-439f-bab8-e0b43bb05f9c",
+           "title": "توالت فرنگی و صندلی حمام کودک و نوزاد",
+           "href": "/category/baby-toilet-bathroom-chair"
+          },
+          {
+           "id": "a1c4626f-994e-4b5e-a112-77176fc3b8e0",
+           "title": "همه کالاها",
+           "href": "/category/baby-bathing-products"
+          }
+         ]
+        },
+        {
+         "id": "807b51f2-ce46-4ce3-891c-947f7971f681",
+         "title": "سلامت و بهداشت کودک و نوزاد",
+         "href": "/category/baby-oral-hygiene",
+         "children": [
+          {
+           "id": "7a8094ea-95b9-417b-86da-1f88cef59e93",
+           "title": "پوشک، زیرانداز و کهنه کودک",
+           "href": "/category/baby-diaper-changingmat"
+          },
+          {
+           "id": "975abada-c1ce-4476-a2ac-e1d56e716e1a",
+           "title": "مسواک کودک و نوزاد",
+           "href": "/category/baby-toothbrush"
+          },
+          {
+           "id": "7028b8e7-181f-41c2-95a4-e1a2615f7e80",
+           "title": "خمیر دندان کودک و نوزاد",
+           "href": "/category/baby-toothpaste"
+          },
+          {
+           "id": "1dc3bc40-a960-41f5-88dd-2a91c36b3ded",
+           "title": "گوش پاک‌کن کودک و نوزاد",
+           "href": "/category/baby-cotton-swab"
+          },
+          {
+           "id": "1f426ec5-d3cb-404c-a614-4f18b53e0187",
+           "title": "همه کالاها",
+           "href": "/category/baby-oral-hygiene"
+          }
+         ]
+        },
+        {
+         "id": "7f8a9849-3d62-4cab-aab5-96a7e1c59346",
+         "title": "لوازم گردش و سفر کودک",
+         "href": "/category/baby-travel-supplies",
+         "children": [
+          {
+           "id": "5463b251-78ba-43ad-9aa4-d62e5e2c42ef",
+           "title": "ساک لوازم کودک و نوزاد",
+           "href": "/category/baby-bag"
+          },
+          {
+           "id": "ef1a5ec0-2f33-4a7a-a9cb-ff014395d8af",
+           "title": "کالسکه و کریر",
+           "href": "/category/baby-stroller-carrier"
+          },
+          {
+           "id": "e6376766-a36a-4dfb-a06a-1547f9f0c03f",
+           "title": "همه کالاها",
+           "href": "/category/baby-travel-supplies"
+          }
+         ]
+        },
+        {
+         "id": "c75a8cc5-0925-4e29-a962-19cebc841231",
+         "title": "ایمنی و مراقبت کودک و نوزاد",
+         "href": "/category/baby-health-safety-care"
+        },
+        {
+         "id": "c574ca33-0c55-41a3-af5d-3cb91e98d629",
+         "title": "ملزومات اتاق کودک و نوزاد",
+         "href": "/category/baby-decorative-products",
+         "children": [
+          {
+           "id": "c47274c7-13c2-46cb-b5d7-34f2336d03a6",
+           "title": "چراغ خواب کودک",
+           "href": "/category/baby-decorative-lamp"
+          },
+          {
+           "id": "8c2831ef-284e-4214-9571-6a76cddd66f3",
+           "title": "جعبه و کمد اسباب بازی کودک",
+           "href": "/category/toy-boxes"
+          },
+          {
+           "id": "ea22649d-c362-41d7-bce9-ff38840ddbfa",
+           "title": "آویز بالای تخت کودک",
+           "href": "/category/baby-crib-toys"
+          },
+          {
+           "id": "c484aa04-5ec3-48f9-91a1-e0644b28de35",
+           "title": "همه کالاها",
+           "href": "/category/baby-decorative-products"
+          }
+         ]
+        },
+        {
+         "id": "526708d6-5a59-4b90-846d-9cf29c4246ef",
+         "title": "لباس نوزاد",
+         "href": "/category/baby-clothes",
+         "children": [
+          {
+           "id": "c9ee757b-df4d-467a-9dcc-2df6f45b6d3f",
+           "title": "ست نوزاد",
+           "href": "/category/baby-clothes-sets"
+          },
+          {
+           "id": "c85ff5f2-b220-4033-a93e-345152e531c1",
+           "title": "تیشرت و پولوشرت",
+           "href": "/category/baby-tshirts-polos"
+          },
+          {
+           "id": "eedc3901-d46d-49a3-908f-f95d832c214c",
+           "title": "شلوار",
+           "href": "/category/baby-pants"
+          },
+          {
+           "id": "335bdcf9-2b6c-40ca-ba03-c348420cb673",
+           "title": "سرهمی",
+           "href": "/category/baby-overalls"
+          },
+          {
+           "id": "04a43e35-8f5e-4d04-8add-2529d08e84ca",
+           "title": "بادی",
+           "href": "/category/baby-homewear-body"
+          },
+          {
+           "id": "a28049c5-06ff-49ee-bd7a-ee98c71a03ac",
+           "title": "لباس راحتی",
+           "href": "/category/baby-homewear"
+          },
+          {
+           "id": "282fdecf-df1e-4f80-abaa-74136392a6ae",
+           "title": "جوراب و پاپوش",
+           "href": "/category/baby-socks"
+          },
+          {
+           "id": "506ea916-ab13-40f6-8c03-9dd62a88487a",
+           "title": "جوراب شلواری و ساق",
+           "href": "/category/baby-tights-stockings"
+          },
+          {
+           "id": "d5d15666-d51a-45d4-9cfd-91786883d253",
+           "title": "همه کالاها",
+           "href": "/category/baby-clothes"
+          }
+         ]
+        },
+        {
+         "id": "3a40ccfe-cff5-477b-a030-10430f21cddb",
+         "title": "اکسسوری نوزاد",
+         "href": "/category/baby-accessories"
+        },
+        {
+         "id": "d9b5477a-ebf4-4fcb-a53d-db3ea2c022ad",
+         "title": "کفش نوزاد",
+         "href": "/category/baby-shoes"
+        },
+        {
+         "id": "c4aa8876-d34d-4a2d-8c99-eef6e50fc477",
+         "title": "کنسول بازی",
+         "href": "/category/gaming-consoles"
+        },
+        {
+         "id": "7d6854ed-90cd-49e9-938f-d59034e503c2",
+         "title": "تب سنج و دماسنج کودک",
+         "href": "/category/baby-thermometers"
+        }
+       ]
+      },
+      {
+       "id": "92c33f06-3072-4270-acbd-ccc3dbcb99a3",
+       "title": "ورزش و سفر",
+       "href": "/category/travel-sports",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "723df906-a6dc-456a-8898-b652ad051e42",
+         "title": "لوازم سفر و کمپینگ",
+         "href": "/category/travel-sports",
+         "children": [
+          {
+           "id": "95f2bc74-34bc-4aec-b925-2b375d96ed9b",
+           "title": "تراول ماگ",
+           "href": "/category/travel-mug"
+          },
+          {
+           "id": "8e174a81-c331-4dce-bd29-ba0051bd0c58",
+           "title": "چادر مسافرتی",
+           "href": "/category/camping-tents"
+          },
+          {
+           "id": "a93c769c-344b-42b3-a79e-4b6a86bbfe17",
+           "title": "زیرانداز",
+           "href": "/category/camping-mat"
+          },
+          {
+           "id": "cd56ba7c-674c-475f-84df-09034be02340",
+           "title": "چتر",
+           "href": "/category/camping-umbrella"
+          },
+          {
+           "id": "74f490d0-9626-467e-81ed-ee1241335d63",
+           "title": "قمقمه و فلاسک و کلمن",
+           "href": "/category/camping-thermos-flask"
+          },
+          {
+           "id": "0db3f886-82ff-483f-be4f-6a71d6b439ce",
+           "title": "اجاق و ظرف سفری",
+           "href": "/category/camping-stove"
+          },
+          {
+           "id": "823a9c3f-87d0-4904-b05e-2549823b2c6c",
+           "title": "چراغ قوه",
+           "href": "/category/camping-flashlight"
+          },
+          {
+           "id": "9904bef1-8309-4e52-95d6-04f66ee71592",
+           "title": "قهوه‌‌ساز و اسپرسوساز سفری",
+           "href": "/category/travel-coffee-maker"
+          },
+          {
+           "id": "2f35eb30-82cf-4449-8aad-e6501c3ac1b9",
+           "title": "میز و صندلی سفری",
+           "href": "/category/travel-table-chair"
+          },
+          {
+           "id": "f4dfa8df-44c6-46c3-a375-3a0b54995c29",
+           "title": "کیسه خواب",
+           "href": "/category/camping-sleeping-bag"
+          },
+          {
+           "id": "4d42f526-7f65-440f-816d-5332d4562b10",
+           "title": "دوربین سفری",
+           "href": "/category/camping-travel-sport-camera"
+          },
+          {
+           "id": "55a00b25-1a13-4274-a4a7-0eb60b1e151f",
+           "title": "چاقوی سفر و ابزار چندکاره",
+           "href": "/category/camping-knife"
+          },
+          {
+           "id": "36ecb5b8-a8ce-4f8d-990c-87b690ca7a70",
+           "title": "همه کالاها",
+           "href": "/category/travel-camping-supplies"
+          }
+         ]
+        },
+        {
+         "id": "a778dbb6-dc05-4ce6-8747-ad8a99b7f392",
+         "title": "کوه‌‌نوردی و صخره‌نوردی",
+         "href": "/category/Climbing-rock-climbing",
+         "children": [
+          {
+           "id": "1fa6e496-1dd8-43c8-977a-19d91a10b7e2",
+           "title": "کفش کوهنوردی",
+           "href": "/category/sports-hiking-shoes"
+          },
+          {
+           "id": "b676dc72-182a-48b1-b7bc-fa46c17e0872",
+           "title": "دستمال سر و گردن",
+           "href": "/category/sports-head-neckscarves"
+          },
+          {
+           "id": "c3ebc040-2559-4627-8fda-504539adc664",
+           "title": "عصا کوهنوردی",
+           "href": "/category/sports-staff"
+          },
+          {
+           "id": "87062420-dc6e-4b1b-903b-79c6c041077c",
+           "title": "تجهیزات کوهنوردی و صخره‌نوردی",
+           "href": "/category/sports-climbing-equipment"
+          },
+          {
+           "id": "88ce0b41-bbf0-4be8-8d71-94c6a734c4c7",
+           "title": "همه کالاها",
+           "href": "/category/climbing-rock-climbing"
+          }
+         ]
+        },
+        {
+         "id": "6298cc52-a139-4931-98a0-7fed95a9c2c7",
+         "title": "کیف و چمدان سفری",
+         "href": "/category/travel-bag-suitcase",
+         "children": [
+          {
+           "id": "6f137daf-c9be-46aa-bec8-b6d1e8017613",
+           "title": "چمدان",
+           "href": "/category/travel-luggage"
+          },
+          {
+           "id": "5345fdd1-0865-4761-9af3-0aab4713e3a8",
+           "title": "کیف و کوله سفری",
+           "href": "/category/travel-baggage"
+          },
+          {
+           "id": "3dd0b51f-1504-4dfd-8612-b57b1cc11476",
+           "title": "ساک ورزشی و سفری",
+           "href": "/category/travel-sports-bag"
+          },
+          {
+           "id": "3ab488fc-4381-409a-9ee5-4e11a9b16550",
+           "title": "کیف ابزار و ظروف سفری",
+           "href": "/category/travel-tool-containers"
+          },
+          {
+           "id": "233ee7d3-6fa7-4c1c-8e50-bbc773fd48af",
+           "title": "همه کالاها",
+           "href": "/category/travel-bag-suitcase"
+          }
+         ]
+        },
+        {
+         "id": "9f070c12-fb9c-487c-a5dc-56ea4c3f5455",
+         "title": "ورزش‌های هوازی و بدنسازی",
+         "href": "/category/aerobic-bodybuilding",
+         "children": [
+          {
+           "id": "5a513785-0697-4fe1-9970-1ba0d48c065c",
+           "title": "دمبل",
+           "href": "/category/aerobic-bodybuilding-dumbbell"
+          },
+          {
+           "id": "c9accc99-6f65-4174-bf5c-85d9e509ca56",
+           "title": "طناب",
+           "href": "/category/aerobic-bodybuilding-rope"
+          },
+          {
+           "id": "1d8779a1-48ba-4584-9317-3840c6b51c75",
+           "title": "لوازم پوششی و محافظتی ورزشی",
+           "href": "/category/aerobic-bodybuilding-safety-equipment"
+          },
+          {
+           "id": "73061045-f383-44b5-869a-45779175f6e8",
+           "title": "تجهیزات جانبی ایروبیک و تناسب اندام",
+           "href": "/category/aerobic-fitness-accessories"
+          },
+          {
+           "id": "32af9667-545a-499c-8adc-dd27fbbf49df",
+           "title": "همه کالاها",
+           "href": "/category/aerobic-bodybuilding"
+          }
+         ]
+        },
+        {
+         "id": "8dbc4ef6-0970-4c0b-b0fd-71eafbaa7118",
+         "title": "ورزش‌های توپی‌ و راکتی",
+         "href": "/category/ball-sports",
+         "children": [
+          {
+           "id": "767429fc-98e8-4468-abfd-60d2cd510301",
+           "title": "توپ",
+           "href": "/category/sport-products-ball"
+          },
+          {
+           "id": "da19309c-bb32-4fbd-9e76-94d2c0a8bfea",
+           "title": "تنیس، بدمینتون، اسکواش",
+           "href": "/category/tennis-badminton-squash"
+          },
+          {
+           "id": "f7bb7295-e581-4f76-8051-3abc920225c3",
+           "title": "راکت پینگ‌پنگ",
+           "href": "/category/pingpong-racket"
+          },
+          {
+           "id": "ea3bbb4f-1429-4ec2-bd31-0ea45a05328c",
+           "title": "لوازم جانبی ورزش‌‌های راکتی",
+           "href": "/category/rocket-sports-accessories"
+          },
+          {
+           "id": "4f0d36e4-1f0b-48ed-90d1-203d986342e0",
+           "title": "همه کالاها",
+           "href": "/category/ball-sports"
+          }
+         ]
+        },
+        {
+         "id": "062e75f3-33ed-4056-a4b0-cc501419f545",
+         "title": "ورزش‌های آبی",
+         "href": "/category/water-sports-swimming",
+         "children": [
+          {
+           "id": "6c8cb250-05d9-4716-aabe-c363d7bd9319",
+           "title": "عینک شنا",
+           "href": "/category/swimming-goggles"
+          },
+          {
+           "id": "46343903-d815-4bd4-bf23-38ffe12b22fb",
+           "title": "کلاه شنا",
+           "href": "/category/swimming-cap"
+          },
+          {
+           "id": "665fa941-5c61-4de7-86a8-06bd0f9371f8",
+           "title": "لوازم جانبی شنا",
+           "href": "/category/swimming-accessories"
+          },
+          {
+           "id": "a612665b-616c-4268-87cb-7daef68c04fd",
+           "title": "همه کالاها",
+           "href": "/category/water-sports-swimming"
+          }
+         ]
+        },
+        {
+         "id": "570b033c-2fc2-40cb-9dce-65075e467288",
+         "title": "غواصی",
+         "href": "/category/water-sports-diving"
+        },
+        {
+         "id": "097099c7-fc43-4250-ab12-5435aa31b0e5",
+         "title": "ورزش‌های رزمی",
+         "href": "/category/martial-arts-sports",
+         "children": [
+          {
+           "id": "e0a50c33-f7cc-41bd-9c0a-ec3668bdc92d",
+           "title": "پوشش‌های دفاعی",
+           "href": "/category/martial-arts-guarding-clothes"
+          },
+          {
+           "id": "1f6eba7f-6cb1-463d-84a1-b7f16704fe9e",
+           "title": "دستکش رزمی",
+           "href": "/category/martial-arts-gloves"
+          },
+          {
+           "id": "f009f307-7d9e-4732-80fa-e771917f4e66",
+           "title": "کیسه بوکس و میت",
+           "href": "/category/punching-bag-mate"
+          },
+          {
+           "id": "3da4d575-a4fd-40a1-b12a-f33cd720aa67",
+           "title": "همه کالاها",
+           "href": "/category/martial-arts-sports"
+          }
+         ]
+        },
+        {
+         "id": "8c00286f-d7b0-4a97-a847-21e05e21da46",
+         "title": "ورزش‌های سواری",
+         "href": "/category/riding-sports",
+         "children": [
+          {
+           "id": "f518e0ad-17bd-4b00-8e55-a63f6b35bcc8",
+           "title": "اسکیت کفشی",
+           "href": "/category/roller-skates"
+          },
+          {
+           "id": "84473f40-6fca-4b1b-bfb9-47fd847b0fb4",
+           "title": "اسکوتر",
+           "href": "/category/scooter"
+          },
+          {
+           "id": "b99997ec-e6d9-4134-aa68-e7888e43d486",
+           "title": "دوچرخه و لوازم جانبی",
+           "href": "/category/bicycle-accessories"
+          },
+          {
+           "id": "684afbdc-a2e5-4013-86da-df6be5003b17",
+           "title": "همه کالاها",
+           "href": "/category/riding-sports"
+          }
+         ]
+        },
+        {
+         "id": "587f9538-47d6-4204-b524-7d82eebb0c26",
+         "title": "ورزش‌های فکری",
+         "href": "/category/mind-sports"
+        },
+        {
+         "id": "1adaed36-0314-4cb8-824a-016cd012e064",
+         "title": "ورزش‌های نشانه‌‌روی",
+         "href": "/category/targeting-sports"
+        },
+        {
+         "id": "04ebf287-d05b-4f31-afe1-f45b1180bb8d",
+         "title": "لباس ورزشی زنانه",
+         "href": "/category/women-sportswear"
+        },
+        {
+         "id": "4e0d07ec-d72a-4360-b629-d60623721d5b",
+         "title": "کفش ورزشی و کتانی زنانه",
+         "href": "/category/women-shoes"
+        },
+        {
+         "id": "3c6a41e5-be8a-4d2a-88cb-6b5b17424083",
+         "title": "اکسسوری ورزشی زنانه",
+         "href": "/category/women-sports-accessories"
+        },
+        {
+         "id": "e1391ba4-476e-4d93-a490-c2b996775f0f",
+         "title": "لباس ورزشی مردانه",
+         "href": "/category/men-sportswear"
+        },
+        {
+         "id": "ac101c48-dcb7-42b9-b6bc-0a2dfa1e2df2",
+         "title": "کفش ورزشی و کتانی مردانه",
+         "href": "/category/men-sneakers"
+        },
+        {
+         "id": "a43e28d8-6dce-485b-8844-3692edfd0db5",
+         "title": "اکسسوری ورزشی مردانه",
+         "href": "/category/men-sports-accessories"
+        },
+        {
+         "id": "4b75d7ca-d29c-4850-a0b2-2f8c85fbf0d2",
+         "title": "گجت‌های پوشیدنی",
+         "href": "/category/wearable-gadgets"
+        }
+       ]
+      },
+      {
+       "id": "66ab0c32-df2f-4cbd-9dfa-0c302d784bb3",
+       "title": "ابزارآلات و تجهیزات",
+       "href": "/category/tools-equipment",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "fe659d0d-5c6a-4da0-96a6-c8aebabb8422",
+         "title": "ابزار دستی",
+         "href": "/category/nonelectric-hand-tools",
+         "children": [
+          {
+           "id": "65610a90-add7-4a8b-9c0b-5f7bd583fee1",
+           "title": "آچار",
+           "href": "/category/hand-tools-wrench"
+          },
+          {
+           "id": "a1bbfb96-ae4a-453f-8ccd-da18d5a65073",
+           "title": "انبر",
+           "href": "/category/hand-tools-pliers"
+          },
+          {
+           "id": "a919c33f-7624-4ea8-91cb-4796108f4c5c",
+           "title": "پیچ گوشتی و فازمتر",
+           "href": "/category/hand-tools-screwdriver"
+          },
+          {
+           "id": "34f6716c-be26-4b97-84f7-bcb54be9030f",
+           "title": "جعبه، باکس و کیف ابزار",
+           "href": "/category/hand-tools-box"
+          },
+          {
+           "id": "4baf30e5-3ace-45b0-9e49-e625fa110194",
+           "title": "ابزار نقاشی ساختمان",
+           "href": "/category/hand-tools-building-painting-tool"
+          },
+          {
+           "id": "d1187af3-2eea-4b98-b33e-19b7d4593d88",
+           "title": "ابزار جوشکاری",
+           "href": "/category/hand-tools-welding-tool"
+          },
+          {
+           "id": "fb54542e-598a-4f6b-b5ca-85d527753c27",
+           "title": "چکش",
+           "href": "/category/hand-tools-hammer"
+          },
+          {
+           "id": "5f6cfdc0-c8b8-4054-9cda-517c9156654a",
+           "title": "سوهان و سنباده",
+           "href": "/category/hand-tools-files"
+          },
+          {
+           "id": "3abd8054-1fe8-4681-81cc-517cf0c63415",
+           "title": "مجموعه ابزار",
+           "href": "/category/hand-tools-tool-collection"
+          },
+          {
+           "id": "d5f646e4-90a7-4c1c-a005-48978d8b5a0f",
+           "title": "لوازم روانکاری",
+           "href": "/category/hand-tools-lubrication-supplies"
+          },
+          {
+           "id": "0240d7da-55ed-4e58-840c-ea7db1527fac",
+           "title": "همه کالاها",
+           "href": "/category/nonelectric-hand-tools"
+          }
+         ]
+        },
+        {
+         "id": "c6957ccb-682a-434b-87ee-4231861298d4",
+         "title": "لوازم مصرفی",
+         "href": "/category/nonelectric-tool-consumer-supplies",
+         "children": [
+          {
+           "id": "b07a56d7-82cd-49a3-be7c-4f6c75dbe412",
+           "title": "پیچ و مهره، رول پلاک، میخ و پرچ",
+           "href": "/category/hand-tools-bolt-rollers"
+          },
+          {
+           "id": "d2528a9a-73e6-4f7a-92ac-638c257e84ba",
+           "title": "چسب صنعتی",
+           "href": "/category/hand-tools-industrial-adhesive"
+          },
+          {
+           "id": "ab3eee08-00a0-406a-912b-57d2dbb36fe5",
+           "title": "لوازم بسته‌بندی",
+           "href": "/category/hand-tools-packaging-supplies"
+          },
+          {
+           "id": "2a9a2b4d-e543-461a-b5cd-cbdb8fa00b50",
+           "title": "همه کالاها",
+           "href": "/category/nonelectric-tool-consumer-supplies"
+          }
+         ]
+        },
+        {
+         "id": "6b460567-9545-4005-844e-ceead5dff17e",
+         "title": "ابزار دقیق و اندازه‌گیری",
+         "href": "/category/measurement-tools",
+         "children": [
+          {
+           "id": "aa434936-6374-4588-9c00-57ef95515bf5",
+           "title": "متر",
+           "href": "/category/hand-tools-meter"
+          },
+          {
+           "id": "7920f1d4-c246-491a-99c8-6ff524ecc7ba",
+           "title": "متر لیزری",
+           "href": "/category/hand-tools-laser-meter"
+          },
+          {
+           "id": "57a69047-4ba6-4440-983c-bc99841f3e04",
+           "title": "مولتی‌متر",
+           "href": "/category/hand-tools-multimeter"
+          },
+          {
+           "id": "2935a86a-58f1-460c-bfca-31e6a3ffc71d",
+           "title": "تراز",
+           "href": "/category/hand-tools-balance"
+          },
+          {
+           "id": "d7f833a6-eb68-4ec5-861a-0368a890e4cf",
+           "title": "ابزارهای اندازه‌گیری دیجیتالی و لیزری",
+           "href": "/category/hand-tools-laser-measuring"
+          },
+          {
+           "id": "da1749af-27de-4457-b922-9cc0ccb4d811",
+           "title": "گیج و کولیس",
+           "href": "/category/hand-tools-caliper"
+          },
+          {
+           "id": "20935aec-c48f-43cd-a54b-bf311a5b4e96",
+           "title": "همه کالاها",
+           "href": "/category/measurement-tools"
+          },
+          {
+           "id": "2c28e8f2-5018-4975-bd3d-d3b7d4bc8768",
+           "title": "ساعت اندیکاتور",
+           "href": "/category/hand-tools-indicator-watch"
+          }
+         ]
+        },
+        {
+         "id": "e225544a-6a5d-4491-81eb-1c16dc4b0d69",
+         "title": "ابزار ایمنی",
+         "href": "/category/safety-tools",
+         "children": [
+          {
+           "id": "f5f4e6a2-c0b8-4a96-a299-fddfcbd14718",
+           "title": "کپسول آتشنشانی",
+           "href": "/category/safety-tools-fire-extinguisher"
+          },
+          {
+           "id": "1b84303b-a84d-426c-9b79-65a3a307d635",
+           "title": "کفش ایمنی",
+           "href": "/category/safety-tools-safety-shoes"
+          },
+          {
+           "id": "42f01aa7-327a-4df3-b093-bf1d4bf506d9",
+           "title": "کلاه ایمنی",
+           "href": "/category/safety-tools-helmet"
+          },
+          {
+           "id": "d779b44d-12c1-467c-ac75-f664f0004b4b",
+           "title": "دستکش ایمنی",
+           "href": "/category/safety-tools-safety-gloves"
+          },
+          {
+           "id": "163ad83a-ac26-49fb-a090-9a2a826fa02c",
+           "title": "ماسک ایمنی",
+           "href": "/category/safety-tools-safety-mask"
+          },
+          {
+           "id": "a89abacb-330a-474d-bf31-1512d1a52f5b",
+           "title": "عینک ایمنی",
+           "href": "/category/safety-glasses"
+          },
+          {
+           "id": "350fd583-8c53-4a9a-8a27-65c22789696b",
+           "title": "لباس کار",
+           "href": "/category/safety-tools-work-clothes"
+          },
+          {
+           "id": "ed4f7561-db1e-46eb-a31a-f05c14048d48",
+           "title": "علائم ایمنی و نشانه‌ها",
+           "href": "/category/safety-tools-signs"
+          },
+          {
+           "id": "57169159-438f-469d-8a83-82e45d6bc456",
+           "title": "جعبه کمک‌های اولیه",
+           "href": "/category/safety-tools-first-aid-kit"
+          },
+          {
+           "id": "a160707d-ce9a-45a3-a4e3-e16579773d53",
+           "title": "تجهیزات کنترل محیط و آزمایشگاه",
+           "href": "/category/environmental-control-laboratory-equipment"
+          },
+          {
+           "id": "e8e06c30-5f22-47d1-828d-381a7ffc71b7",
+           "title": "همه کالاها",
+           "href": "/category/safety-tools"
+          }
+         ]
+        },
+        {
+         "id": "befffdc2-b498-4b79-b8e5-733fefbd09bb",
+         "title": "بالابر و تجهیزات کارگاهی",
+         "href": "/category/workshop-equipment"
+        },
+        {
+         "id": "79f45d42-65c8-4143-8cfd-ec88f351d19c",
+         "title": "تجهیزات ساختمانی",
+         "href": "/category/construction-equipment",
+         "children": [
+          {
+           "id": "ed7da2e7-672b-43f0-b115-b242aec4cfdd",
+           "title": "شیرآلات",
+           "href": "/category/building-faucets"
+          },
+          {
+           "id": "5475abcf-dbdb-460a-9c76-e032713fa723",
+           "title": "مصالح ساختمانی",
+           "href": "/category/building-materials"
+          },
+          {
+           "id": "a7604761-71c4-45bc-88e9-73565138344f",
+           "title": "رادیاتور",
+           "href": "/category/building-radiator"
+          },
+          {
+           "id": "b02ea3c7-f5c8-439a-8307-30a5bb18eec5",
+           "title": "همه کالاها",
+           "href": "/category/construction-equipment"
+          }
+         ]
+        },
+        {
+         "id": "ff661bf4-5280-4dc6-a2b1-41cc22e12bdc",
+         "title": "یراق آلات",
+         "href": "/category/building-fittings",
+         "children": [
+          {
+           "id": "1393fd2e-062c-405e-ba2d-f6cf99d11f25",
+           "title": "رنگ",
+           "href": "/category/building-fittings-color"
+          },
+          {
+           "id": "1dbc5f15-6a9c-4a5f-ac8e-07a0a25e2e9a",
+           "title": "نردبان",
+           "href": "/category/building-fittings-ladder"
+          },
+          {
+           "id": "c5b1052d-0eb5-4f24-8f0c-eeeadfcaef07",
+           "title": "لولا",
+           "href": "/category/building-fittings-hinge"
+          },
+          {
+           "id": "de87828f-1ac7-4901-b4c1-d7aec51a3918",
+           "title": "دستگیره در",
+           "href": "/category/building-fittings-door-handle"
+          },
+          {
+           "id": "a6828aa2-f654-4a3d-81fa-45d832765c34",
+           "title": "لوله و اتصالات",
+           "href": "/category/building-pipes-fittings"
+          },
+          {
+           "id": "6f0fd016-5343-4b3b-b05c-26ed1cef1036",
+           "title": "چشمی درب",
+           "href": "/category/building-fittings-door-eye"
+          },
+          {
+           "id": "69f99738-49b3-4177-a28d-7f799ca13b14",
+           "title": "آرام‌بند",
+           "href": "/category/building-fittings-door-closer"
+          },
+          {
+           "id": "bf9598a8-c5da-42b6-af8b-b7c5f1a0ddbe",
+           "title": "قفل و سیلندر در",
+           "href": "/category/building-fittings-door-lock"
+          },
+          {
+           "id": "be8ea7bd-7b7f-4452-82b7-26611f9dace7",
+           "title": "همه کالاها",
+           "href": "/category/building-fittings"
+          }
+         ]
+        },
+        {
+         "id": "ff87ba64-d471-49d7-b5fb-2a7b158a7356",
+         "title": "تجهیزات تردد، حفاظت و امنیت",
+         "href": "/category/security-equipment",
+         "children": [
+          {
+           "id": "4eecba72-d158-4f92-a402-d330ad8311c9",
+           "title": "قفل",
+           "href": "/category/security-equipment-lock"
+          },
+          {
+           "id": "3c071263-1ded-408e-b570-d1e9d6c096d5",
+           "title": "دربازکن",
+           "href": "/category/security-equipment-door-opener"
+          },
+          {
+           "id": "35516dff-a2dc-40b9-8cce-0bb646fdd595",
+           "title": "در ورودی",
+           "href": "/category/security-equipment-gate"
+          },
+          {
+           "id": "546e3e03-e6be-4d87-ba09-3256c71d98db",
+           "title": "دزدگیر اماکن",
+           "href": "/category/security-equipment-alarm-places"
+          },
+          {
+           "id": "ef948783-d3e6-4239-95b8-20ffd11d9a17",
+           "title": "تابلو و برچسب ایمنی و راهنما",
+           "href": "/category/security-equipment-safety-panels-guides"
+          },
+          {
+           "id": "33ea2922-d624-4a79-9c93-57c3dfb5cf8b",
+           "title": "صندوق",
+           "href": "/category/security-equipment-cash-desk"
+          },
+          {
+           "id": "5e45370b-86d7-4480-8ebf-3dee86485635",
+           "title": "همه کالاها",
+           "href": "/category/security-equipment"
+          }
+         ]
+        },
+        {
+         "id": "09891780-bd4a-46e8-bbed-34bef579d308",
+         "title": "ابزار برقی و شارژی",
+         "href": "/category/electric-tool",
+         "children": [
+          {
+           "id": "309521b7-69d5-4be1-8684-7fca7bae908c",
+           "title": "ابزار اتصال و جوش",
+           "href": "/category/welding-tools"
+          },
+          {
+           "id": "e641f7f5-acca-4a9f-9a99-1dcc047701a5",
+           "title": "ابزار برش و تراشکاری",
+           "href": "/category/cutting-turning-tool"
+          },
+          {
+           "id": "22d15325-8d6b-49b0-ba4c-dd2178ec24ff",
+           "title": "ابزار سوراخکاری و پیچاندن",
+           "href": "/category/electric-tool-drilling-twisting"
+          },
+          {
+           "id": "c48080c2-f834-4452-ba21-c8ea9853275c",
+           "title": "ابزار سنباده‌زنی، رنده و پولیش",
+           "href": "/category/electric-tool-sanding-grate-polish"
+          },
+          {
+           "id": "4d6bd546-bcc0-49e5-b97b-2248721dbadd",
+           "title": "ابزار دمش و مکش",
+           "href": "/category/electric-tool-blower"
+          },
+          {
+           "id": "3446f087-5413-48fe-90a6-08067ee06079",
+           "title": "ابزار نظافت",
+           "href": "/category/electric-tool-cleaning"
+          },
+          {
+           "id": "199a4621-0c69-4ba3-9fb4-72e3f53e92f3",
+           "title": "قطعات الکترونیکی",
+           "href": "/category/electronic-components"
+          },
+          {
+           "id": "7b528f92-ca0b-42a0-a413-9411959c9f78",
+           "title": "همه کالاها",
+           "href": "/category/electric-tool"
+          }
+         ]
+        },
+        {
+         "id": "1ed237a2-996d-4e73-98ed-b681e09d4f2c",
+         "title": "باغبانی و کشاورزی",
+         "href": "/category/gardening-agriculture-tools",
+         "children": [
+          {
+           "id": "881d928f-fd2c-42e8-85fd-5cf20c942225",
+           "title": "ابزارآلات باغبانی",
+           "href": "/category/gardening-tools"
+          },
+          {
+           "id": "187d9408-6576-4a98-8c3f-b50b9c586348",
+           "title": "کاشت و پرورش گیاه",
+           "href": "/category/gardening-agriculture-tools"
+          },
+          {
+           "id": "3255aff9-58b3-4b3a-9621-18b31e72109e",
+           "title": "نهال و گیاهان آپارتمانی",
+           "href": "/category/agricultural-equipment-house-plants"
+          },
+          {
+           "id": "2f524662-49fd-4e48-bd82-596d73fa96bf",
+           "title": "همه کالاها",
+           "href": "/category/gardening-agriculture-tools"
+          }
+         ]
+        },
+        {
+         "id": "07c671c6-1039-4d32-a8e6-3c1455faae90",
+         "title": "تجهیزات صنعتی و انبارداری",
+         "href": "/category/industrial-warehousing-equipment"
+        },
+        {
+         "id": "47b565ca-f25c-4e7d-9424-a1318ae81b4a",
+         "title": "قطعات و تجهیزات خورشیدی",
+         "href": "/category/solar-parts-equipment"
+        }
+       ]
+      },
+      {
+       "id": "7c5179d0-d012-4d5f-8526-4da65232805a",
+       "title": "موتورسیکلت و لوازم خودرو",
+       "href": "/category/vehicle-motorcycle",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "91ad11c9-6bf7-44de-95df-c73dff30c308",
+         "title": "لاستیک خودرو",
+         "href": "/category/car-tire"
+        },
+        {
+         "id": "cbff91b2-694c-4ccb-90da-b66abb1234cc",
+         "title": "فیلتر خودرو",
+         "href": "/category/car-filters"
+        },
+        {
+         "id": "36c96052-b3dd-4d5b-8fe6-6027e1db80d8",
+         "title": "روغن و ضدیخ خودرو",
+         "href": "/category/car-oil-antifreeze"
+        },
+        {
+         "id": "7cee2461-8f99-4fd4-aa35-34a97ebdf575",
+         "title": "تجهیزات خودرو",
+         "href": "/category/car-accessories",
+         "children": [
+          {
+           "id": "c55cc2f4-6a85-48a5-8afd-ee0ce72c6a7a",
+           "title": "کفپوش خودرو",
+           "href": "/category/vehicles-decorative-flooring"
+          },
+          {
+           "id": "9547295e-7f3f-4e57-a2de-2600e00979fa",
+           "title": "روکش صندلی خودرو",
+           "href": "/category/vehicles-decorative-seat-cover"
+          },
+          {
+           "id": "03aef16d-cc4d-4c90-aafe-99721326f0cc",
+           "title": "آفتابگیر خودرو",
+           "href": "/category/vehicles-decorative-shade"
+          },
+          {
+           "id": "430ccc86-47b3-4d83-8296-de1afd4f2f0d",
+           "title": "باربند",
+           "href": "/category/vehicles-decorative-barbine"
+          },
+          {
+           "id": "982ec100-85ac-42ca-8ad6-3b54e4ab1eb9",
+           "title": "تجهیزات راحتی سرنشین",
+           "href": "/category/vehicles-decorative-passenger-comfort-tools"
+          },
+          {
+           "id": "7a8f3e13-e2e2-45a1-9ab7-8cccc0157381",
+           "title": "تجهیزات نظم‌دهنده داخل خودرو",
+           "href": "/category/vehicles-decorative-sorting-equipment"
+          },
+          {
+           "id": "5dc9ec74-f1a7-4c4f-8196-78f9d48ed11c",
+           "title": "همه کالاها",
+           "href": "/category/car-accessories"
+          }
+         ]
+        },
+        {
+         "id": "e5d19372-fd20-428e-9335-4f6b17ff7be7",
+         "title": "ابزار خودرو",
+         "href": "/category/vehicles-accessories-tools",
+         "children": [
+          {
+           "id": "fe2b23d7-0d90-49ce-b366-56e9d4a7be13",
+           "title": "جک خودرو",
+           "href": "/category/vehicles-accessories-car-jack"
+          },
+          {
+           "id": "f82e20c8-ea38-44c9-b053-1d65eb4812b7",
+           "title": "تجهیزات تعمیرگاهی",
+           "href": "/category/vehicles-accessories-repair-equipment"
+          },
+          {
+           "id": "1ffc478f-693b-4ee5-91fc-5a3ca1d15385",
+           "title": "کمپرسور هوا",
+           "href": "/category/vehicles-accessories-air-compressor"
+          },
+          {
+           "id": "ed0f8e59-7412-4242-80cf-4c21072fe503",
+           "title": "همه کالاها",
+           "href": "/category/vehicles-accessories-tools"
+          }
+         ]
+        },
+        {
+         "id": "f8306cb3-4ea9-4f23-abe1-1782a1e2e228",
+         "title": "نظافت و نگهداری خودرو",
+         "href": "/category/vehicles-accessories-cleaning",
+         "children": [
+          {
+           "id": "02dd922a-583b-4545-bed0-bb8a17dcbe04",
+           "title": "واکس، پولیش و تمیزکننده خودرو",
+           "href": "/category/vehicles-accessories-wax-polish"
+          },
+          {
+           "id": "5b522bec-4f47-4060-8c03-6bcbdda971d4",
+           "title": "پد و دستمال نظافت خودرو",
+           "href": "/category/vehicles-accessories-pad-napkin"
+          },
+          {
+           "id": "eba7bc4d-ed18-4638-ae50-c09db634d7aa",
+           "title": "چادر خودرو",
+           "href": "/category/vehicles-accessories-car-tent"
+          },
+          {
+           "id": "cb509697-c4a5-439a-a29c-30a4ecbb0b9f",
+           "title": "خوشبوکننده و تصفیه‌کننده هوای خودرو",
+           "href": "/category/vehicles-accessories-air-purifier"
+          },
+          {
+           "id": "ffbd2833-51b7-4f30-a6ad-034b1aeec9c3",
+           "title": "کارواش",
+           "href": "/category/vehicles-accessories-carwash"
+          },
+          {
+           "id": "45bdd845-8b21-4073-a5cd-8a721a37f39d",
+           "title": "همه کالاها",
+           "href": "/category/vehicles-accessories-cleaning"
+          }
+         ]
+        },
+        {
+         "id": "d44f1dd7-3e37-4a9b-a282-955c3e134025",
+         "title": "لوازم تزئینی خودرو",
+         "href": "/category/vehicles-accessories-decorative",
+         "children": [
+          {
+           "id": "ef8ee720-54d5-4337-a1cd-49177a962ab2",
+           "title": "روکش و تزئینات داشبورد خودرو",
+           "href": "/category/vehicles-decorative-dashboard"
+          },
+          {
+           "id": "936e673f-2911-4574-ae1b-cea7fd9881b2",
+           "title": "روکش فرمان",
+           "href": "/category/vehicles-decorative-steering-wheel"
+          },
+          {
+           "id": "4dae3dc7-19b3-4ddd-b0a7-cf0467dcce20",
+           "title": "سردنده",
+           "href": "/category/vehicles-decorative-head-gear"
+          },
+          {
+           "id": "c1de5ee5-bffd-4a8e-b028-953da69b8d2d",
+           "title": "سراگزوز",
+           "href": "/category/vehicles-decorative-exhaust-head"
+          },
+          {
+           "id": "493accac-ff6a-4224-a86f-32349d44ac33",
+           "title": "جاسوئیچی خودرو",
+           "href": "/category/vehicles-decorative-keyring"
+          },
+          {
+           "id": "641b5823-e882-4910-a737-764a75d2fe34",
+           "title": "همه کالاها",
+           "href": "/category/vehicles-accessories-decorative"
+          }
+         ]
+        },
+        {
+         "id": "52d69adf-7e94-4a39-a5a4-8c04134a6a47",
+         "title": "سیستم صوتی و تصویری خودرو",
+         "href": "/category/vehicles-accessories-audio-video-systems",
+         "children": [
+          {
+           "id": "03577e70-1b5f-4048-99c0-4b34845fd2a1",
+           "title": "مسیریاب خودرو",
+           "href": "/category/vehicles-accessories-gps"
+          },
+          {
+           "id": "e9c076c2-d9f7-484a-ae9d-a373a93c2546",
+           "title": "دستگاه پخش خودرو",
+           "href": "/category/vehicles-accessories-player"
+          },
+          {
+           "id": "732dbd10-b4ed-4740-87db-d964cc16c1d3",
+           "title": "بلندگوی خودرو",
+           "href": "/category/vehicles-accessories-speaker"
+          },
+          {
+           "id": "35ec3453-945c-4111-ae8e-a6e9270044d6",
+           "title": "آمپلی‌فایر خودرو",
+           "href": "/category/vehicles-accessories-amplifier"
+          },
+          {
+           "id": "7115e7c7-e35f-4b3b-ac0b-24f018451b7f",
+           "title": "اف‌ا‌م پلیر",
+           "href": "/category/vehicles-accessories-fm-player"
+          },
+          {
+           "id": "e500a620-b024-43eb-850b-3167e7057d78",
+           "title": "همه کالاها",
+           "href": "/category/vehicles-accessories-audio-video-systems"
+          }
+         ]
+        },
+        {
+         "id": "da4a1a40-7a29-4200-8228-4371bcf7a320",
+         "title": "امنیت خودرو",
+         "href": "/category/vehicles-accessories-security",
+         "children": [
+          {
+           "id": "44dd3020-3eb9-426c-bf20-a35ff9cab0cb",
+           "title": "دزدگیر خودرو",
+           "href": "/category/vehicles-accessories-security-system"
+          },
+          {
+           "id": "dca5e876-1556-4c69-8353-757bdf6bf604",
+           "title": "قفل فرمان و پدال و زاپاس",
+           "href": "/category/vehicles-accessories-steering-wheel"
+          },
+          {
+           "id": "59f109eb-ce68-47c8-8a15-afa97aadf683",
+           "title": "همه کالاها",
+           "href": "/category/vehicles-accessories-security"
+          }
+         ]
+        },
+        {
+         "id": "38fc77ed-eaeb-4321-a018-a7d1e54a2c36",
+         "title": "لوازم یدکی خودرو",
+         "href": "/category/car-spare-parts",
+         "children": [
+          {
+           "id": "961b179d-901c-4458-80a0-9a5a5b4dcbd0",
+           "title": "لوازم مکانیکی خودرو",
+           "href": "/category/car-mechanical-tools"
+          },
+          {
+           "id": "2841360b-e077-4089-99f6-0371fc786353",
+           "title": "لوازم بدنه خودرو",
+           "href": "/category/car-body-parts"
+          },
+          {
+           "id": "99ab6fdb-1331-4a01-ab1c-df379c92f7a0",
+           "title": "لوازم برقی و الکتریکی خودرو",
+           "href": "/category/car-electrical-parts"
+          },
+          {
+           "id": "3929250f-4968-4c13-9c3d-a5e9c11bb6bc",
+           "title": "لوازم جلوبندی و تعلیق خودرو",
+           "href": "/category/car-suspension-parts"
+          },
+          {
+           "id": "02b07342-f733-4227-88f2-182705823e11",
+           "title": "همه کالاها",
+           "href": "/category/car-spare-parts"
+          }
+         ]
+        },
+        {
+         "id": "123a7ddd-484b-4a0c-86f1-b1e0d84093cd",
+         "title": "موتورسیکلت",
+         "href": "/category/motorcycle"
+        },
+        {
+         "id": "600a0615-a9d2-4934-8763-64d342cf764e",
+         "title": "لوازم مصرفی موتورسیکلت",
+         "href": "/category/motorcycle-consumables",
+         "children": [
+          {
+           "id": "e5c11258-a6e7-4e4e-956c-8a3518ebc952",
+           "title": "شمع موتورسیکلت",
+           "href": "/category/motorcycle-accessories-pile"
+          },
+          {
+           "id": "0a72ea8b-1519-4a5c-bae8-fb5696a5c28d",
+           "title": "باتری موتورسیکلت",
+           "href": "/category/motorcycle-accessories-battery"
+          },
+          {
+           "id": "05e2cdbb-6380-4f7c-84e7-bc4712c9efee",
+           "title": "لاستیک موتورسیکلت",
+           "href": "/category/motorcycle-accessories-tire"
+          },
+          {
+           "id": "de215ad3-fb0d-4dd7-84d2-1a49d48b8288",
+           "title": "لامپ موتورسیکلت",
+           "href": "/category/motorcycle-accessories-lamp"
+          },
+          {
+           "id": "375ea710-8524-473d-a5be-8e47de402a38",
+           "title": "روغن موتورسیکلت",
+           "href": "/category/motorcycle-engine-oil"
+          },
+          {
+           "id": "b431bd97-90dc-4000-9501-0d7701b0b1b6",
+           "title": "لنت ترمز موتورسیکلت",
+           "href": "/category/motorcycle-accessories-brake-pad"
+          },
+          {
+           "id": "4c1df13f-30c7-4894-9093-563222ab49d0",
+           "title": "همه کالاها",
+           "href": "/category/motorcycle-consumables"
+          }
+         ]
+        },
+        {
+         "id": "266feed5-00aa-4e8d-b507-9d58590ca294",
+         "title": "لوازم یدکی موتورسیکلت",
+         "href": "/category/motorcycle-spare-parts"
+        },
+        {
+         "id": "bc33aabe-5519-4dfe-8ea1-a5d321c3d961",
+         "title": "تجهیزات ایمنی موتورسیکلت",
+         "href": "/category/motorcycle-accessories-safety-equipment"
+        },
+        {
+         "id": "fb7c3d52-a114-4f64-a045-b2485810f753",
+         "title": "ملزومات باربری",
+         "href": "/category/motorcycle-accessories-box"
+        },
+        {
+         "id": "2786e34d-6625-4133-b848-df55b008dba4",
+         "title": "قطعات و تجهیزات آفرود",
+         "href": "/category/offroad-parts-equipment"
+        }
+       ]
+      },
+      {
+       "id": "b53e9d4e-a009-4251-aacd-220267af446d",
+       "title": "سوپرمارکت",
+       "href": "/campaign/supermarket",
+       "icon": "BASKET_NOTIFICATION_ACTIVE",
+       "children": [
+        {
+         "id": "66d11ae3-3cd1-4238-8019-8ce9e20b3c6d",
+         "title": "کالاهای مصرفی و خواروبار",
+         "href": "/category/groceries",
+         "children": [
+          {
+           "id": "19a15ced-c19e-4edf-bfce-7590f86413f0",
+           "title": "برنج",
+           "href": "/category/rice"
+          },
+          {
+           "id": "8035eff5-b6ed-467f-b7a1-8bed79b91ad9",
+           "title": "روغن",
+           "href": "/category/oil"
+          },
+          {
+           "id": "69c88bf7-e190-4d64-89cd-5ae7eee89006",
+           "title": "شکر، قند و نبات",
+           "href": "/category/sugar-candy"
+          },
+          {
+           "id": "f4f551e2-59a8-46e2-81a1-b17ce0d18f15",
+           "title": "ماکارونی و پاستا",
+           "href": "/category/pasta"
+          },
+          {
+           "id": "43b84b0b-95b6-442c-ba57-abc9cf335f4e",
+           "title": "نودل و رشته",
+           "href": "/category/noodles"
+          },
+          {
+           "id": "d2973085-24d3-48ec-800e-8d4e69d95b48",
+           "title": "غلات",
+           "href": "/category/cereals"
+          },
+          {
+           "id": "deadd4b1-13cc-491a-832d-250d9fdbf226",
+           "title": "حبوبات و سویا",
+           "href": "/category/cereals-soy"
+          },
+          {
+           "id": "4a23df15-eab4-4851-a331-d9426cdf0d65",
+           "title": "همه کالاها",
+           "href": "/category/groceries"
+          }
+         ]
+        },
+        {
+         "id": "4bc31737-e0cd-4349-9e75-858c381e15ab",
+         "title": "کنسرو، غذای آماده و منجمد",
+         "href": "/category/ready-made-canned-food",
+         "children": [
+          {
+           "id": "6fc8790d-d22b-4731-9b89-d0b6a8bd6fcc",
+           "title": "تن ماهی",
+           "href": "/category/tuna-fish"
+          },
+          {
+           "id": "b0f0c462-30ac-4854-809c-96f0850a39e5",
+           "title": "کمپوت",
+           "href": "/category/canned-fruit"
+          },
+          {
+           "id": "58f3afa7-a2fb-46f0-91d3-583c429d3a5e",
+           "title": "کنسرو حبوبات و سبزیجات",
+           "href": "/category/canned-beans-vegetables"
+          },
+          {
+           "id": "a3bb3f30-5f86-4e8a-a734-ca228aa029d1",
+           "title": "همه کالاها",
+           "href": "/category/ready-made-canned-food"
+          }
+         ]
+        },
+        {
+         "id": "369a0dac-6fc9-4eb6-b99c-5dc141de59ef",
+         "title": "چاشنی و افزودنی",
+         "href": "/category/spices-seasonings",
+         "children": [
+          {
+           "id": "17dc8021-4713-4fe0-89c4-32d3fa01eeb3",
+           "title": "زعفران",
+           "href": "/category/saffron"
+          },
+          {
+           "id": "d2bc9b1b-b105-4f8f-9408-32a45f64fc42",
+           "title": "ادویه و چاشنی",
+           "href": "/category/spicesspices-seasonings"
+          },
+          {
+           "id": "3ab3c2ee-114b-4153-b116-05ff4f30855a",
+           "title": "خیارشور و زیتون",
+           "href": "/category/pickled-cucumber"
+          },
+          {
+           "id": "c4ab25d1-b668-432c-b9f9-0a0a919fbbc9",
+           "title": "ترشی و شور",
+           "href": "/category/salts-and-pickles"
+          },
+          {
+           "id": "78bf53cd-0240-4880-98f7-0e0126e496e3",
+           "title": "انواع رب",
+           "href": "/category/types-paste"
+          },
+          {
+           "id": "08945b79-ce55-4c03-a328-523898d89806",
+           "title": "همه کالاها",
+           "href": "/category/spices-seasonings"
+          }
+         ]
+        },
+        {
+         "id": "cb04ae9f-62a5-44dd-ba17-194158faf450",
+         "title": "تنقلات",
+         "href": "/category/snacks",
+         "children": [
+          {
+           "id": "a16880cc-fc2d-44f3-9dfa-f8f474db6470",
+           "title": "تافی و آبنبات",
+           "href": "/category/toffee-candy"
+          },
+          {
+           "id": "f6d303bf-a8f2-44b7-93bc-e749868c8f90",
+           "title": "شکلات و فرآورده‌های کاکائویی",
+           "href": "/category/chocolate-cocoa"
+          },
+          {
+           "id": "833ecf61-a1d2-43aa-8c57-9d2b0e8a08b3",
+           "title": "بیسکوئیت و ویفر",
+           "href": "/category/biscuits-wafers"
+          },
+          {
+           "id": "4ec45240-3b7f-4029-b259-d922f5821a41",
+           "title": "تخمه و مغز طعم‌دار",
+           "href": "/category/nuts-trail-mix"
+          },
+          {
+           "id": "1a7cc052-571b-426b-9e19-ea83616b65a3",
+           "title": "اسنک، چیپس و پفک",
+           "href": "/category/puffs"
+          },
+          {
+           "id": "a1d6b19e-4480-4544-9467-5955eb94b877",
+           "title": "کیک و کلوچه",
+           "href": "/category/cookies"
+          },
+          {
+           "id": "2705522b-00d6-4f4d-b3ef-78ed6cd2f199",
+           "title": "پاستیل",
+           "href": "/category/gummy"
+          },
+          {
+           "id": "30e31056-8596-4f3e-8a6a-e5150c56da27",
+           "title": "همه کالاها",
+           "href": "/category/snacks"
+          }
+         ]
+        },
+        {
+         "id": "35289765-548b-4261-aa6f-9b969cefe5e0",
+         "title": "صبحانه",
+         "href": "/category/breakfast",
+         "children": [
+          {
+           "id": "c7b9d370-e7bf-43f9-a380-e4ea776e9a12",
+           "title": "عسل",
+           "href": "/category/honey"
+          },
+          {
+           "id": "41c8a804-97da-4957-9666-8a5f8e67a699",
+           "title": "مربا",
+           "href": "/category/jams-butter"
+          },
+          {
+           "id": "70ff5802-77a6-4120-ba17-ba06d98ccc5a",
+           "title": "حلوا، ارده و شیره",
+           "href": "/category/halvaardeh-sesame"
+          },
+          {
+           "id": "f4e0b69a-d65e-4b26-812f-cc75192938a6",
+           "title": "کره بادام‌زمینی",
+           "href": "/category/peanut-butter"
+          },
+          {
+           "id": "729a9706-1858-4e78-be3b-aeb4df541356",
+           "title": "غلات صبحانه",
+           "href": "/category/breakfast-cereal"
+          },
+          {
+           "id": "4cdf5084-d3d6-4c16-8046-3e01a2b5a7f0",
+           "title": "همه کالاها",
+           "href": "/category/breakfast"
+          }
+         ]
+        },
+        {
+         "id": "8606eab7-bf3d-4544-b5bf-3c63689d535e",
+         "title": "خشکبار و شیرینی",
+         "href": "/category/dried-fruit-nuts",
+         "children": [
+          {
+           "id": "b56f56a9-568c-4ded-b6dd-2ce5a7ec9f91",
+           "title": "آجیل",
+           "href": "/category/nuts"
+          },
+          {
+           "id": "a08ba828-b67c-4571-a59e-60e125ded31b",
+           "title": "میوه خشک",
+           "href": "/category/dried-fruit"
+          },
+          {
+           "id": "0c2381cf-fa4f-47b0-ad7b-95bf0800d01d",
+           "title": "دسر",
+           "href": "/category/dessert"
+          },
+          {
+           "id": "31158f4d-5de7-4fe6-96eb-53aabf445587",
+           "title": "پودر کیک و شیرینی",
+           "href": "/category/cake-powder"
+          },
+          {
+           "id": "f6653b59-d328-4c0f-afca-bc4b61f8a5e1",
+           "title": "همه کالاها",
+           "href": "/category/dried-fruit-nuts"
+          }
+         ]
+        },
+        {
+         "id": "73aab334-2c99-44ff-94c3-29b1f5af0b30",
+         "title": "نوشیدنی‌های سرد",
+         "href": "/category/cold-drinks",
+         "children": [
+          {
+           "id": "205723b0-398f-4e5a-bfa1-5e3b17abed8d",
+           "title": "نوشابه",
+           "href": "/category/soft-drink"
+          },
+          {
+           "id": "70039818-eeed-46c6-9c0c-f89a2b4bcdbc",
+           "title": "آب و آب معدنی",
+           "href": "/category/water"
+          },
+          {
+           "id": "7bbfd1b3-2e9a-4f6b-acc0-2a19a1ff3aff",
+           "title": "شربت و آبمیوه",
+           "href": "/category/syrup-juice"
+          },
+          {
+           "id": "50237d35-1274-4d33-8ec0-961eae4df4dd",
+           "title": "نوشیدنی انرژی‌زا",
+           "href": "/category/energy-drink"
+          },
+          {
+           "id": "d2b86fbd-582f-4fa0-9798-478a9ad764ef",
+           "title": "ماءالشعیر",
+           "href": "/category/nonalcoholic-beer"
+          },
+          {
+           "id": "89216256-b5a9-4318-8b1b-85936d365dbe",
+           "title": "عرقیات و گلاب",
+           "href": "/category/herbal-distillates"
+          },
+          {
+           "id": "6baff7cb-1338-4ea1-8a44-c17b85d63bfb",
+           "title": "همه کالاها",
+           "href": "/category/cold-drinks"
+          }
+         ]
+        },
+        {
+         "id": "be71810f-a59f-40e6-be8c-124c9a35f1d0",
+         "title": "نوشیدنی‌های گرم",
+         "href": "/category/hot-drinks",
+         "children": [
+          {
+           "id": "f98fdba5-7df2-40c6-8c9a-ba95c4ca621c",
+           "title": "چای",
+           "href": "/category/tea"
+          },
+          {
+           "id": "1b503d23-8dcd-42fb-9799-a8e704d246a4",
+           "title": "قهوه",
+           "href": "/category/coffee"
+          },
+          {
+           "id": "ea09a4be-eada-4fda-8ec5-0dbbd89d13d7",
+           "title": "دمنوش",
+           "href": "/category/herbal-tea"
+          },
+          {
+           "id": "256a00c5-fb43-4d73-98af-2ebd03a374e3",
+           "title": "هات چاکلت",
+           "href": "/category/hot-chocolate"
+          },
+          {
+           "id": "a996b836-ed2a-4d44-bcab-5983f410a33c",
+           "title": "همه کالاها",
+           "href": "/category/hot-drinks"
+          }
+         ]
+        },
+        {
+         "id": "87eccc1c-65aa-46b7-b3d4-45923397705e",
+         "title": "مواد پروتئینی",
+         "href": "/category/protein-foods"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   [],
+   [
+    {
+     "id": 14,
+     "title": "پرفروش‌های شاپ",
+     "href": "/product-list/Bge4yD"
+    },
+    {
+     "id": 7,
+     "title": "طلای دیجیتال",
+     "href": "/landing/digital-gold"
+    },
+    {
+     "id": 11,
+     "title": "سوپرمارکت",
+     "href": "/campaign/supermarket"
+    },
+    {
+     "id": 13,
+     "title": "شاپ پلاس",
+     "href": "/plus/"
+    }
+   ],
+   [
+    {
+     "id": 15,
+     "title": "راهنمایی و پشتیبانی",
+     "href": "#ticketing-modal",
+     "icon": "support"
+    }
+   ]
+  ]
+ }
+}
