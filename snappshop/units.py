@@ -1,80 +1,48 @@
+﻿"""
+snappshop/units.py
+------------------
+Handles currency conversion and formatting for the SnappShop ecosystem.
+Crucial for preventing 10x pricing errors between API (Toman) and JSON-LD (Rial).
 """
-units.py — currency helpers.
+from typing import Optional
 
-SnappShop is inconsistent between its two public surfaces, and getting this
-wrong is the single easiest way to report a price that is 10x off:
-
-  * Public JSON API (`apix.snappshop.ir`) returns **Toman**.
-        /products/v2/25751584  ->  special_price: 33980000
-  * The schema.org JSON-LD embedded on the same PDP returns **Rial**.
-        page.json_ld[0].offers.price -> 339800000
-
-1 Toman == 10 Rial (the Rial is the official currency, the Toman is what
-people and shops actually quote). This module keeps both, explicitly, so no
-caller ever has to guess which one it is holding.
-"""
-from __future__ import annotations
-
-# 1 Toman = 10 Rial
+# Constant: 1 Toman = 10 Rial
 IR_TOMAN_PER_RIAL = 10
 
+def rial_to_toman(rial: Optional[float]) -> Optional[float]:
+    """Convert Rial to Toman by dividing by 10."""
+    if rial is None: return None
+    return round(rial / IR_TOMAN_PER_RIAL)
 
-def rial_to_toman(rial) -> int | None:
-    """39999999... Rial -> Toman. Rounds to the nearest Toman."""
-    if rial is None:
-        return None
-    try:
-        return int(round(int(rial) / IR_TOMAN_PER_RIAL))
-    except (TypeError, ValueError):
-        return None
+def toman_to_rial(toman: Optional[float]) -> Optional[float]:
+    """Convert Toman to Rial by multiplying by 10."""
+    if toman is None: return None
+    return round(toman * IR_TOMAN_PER_RIAL)
 
-
-def toman_to_rial(toman) -> int | None:
-    """Toman -> Rial."""
-    if toman is None:
-        return None
-    try:
-        return int(toman) * IR_TOMAN_PER_RIAL
-    except (TypeError, ValueError):
-        return None
-
-
-def format_rial(rial) -> str | None:
-    """Human readable, e.g. 339800000 -> '33,980,000 تومان'."""
-    if rial is None:
-        return None
-    t = rial_to_toman(rial)
-    if t is None:
-        return None
-    return f"{t:,} تومان"
-
-
-def format_toman(toman) -> str | None:
-    """Human readable Toman, e.g. 33980000 -> '33,980,000 تومان'."""
-    if toman is None:
-        return None
-    try:
-        return f"{int(toman):,} تومان"
-    except (TypeError, ValueError):
-        return None
-
-
-def price_block(toman, original_toman=None, discount_percent=None) -> dict:
-    """Build the canonical `price` object used in every normalized payload.
-
-    Always exposes both units plus a display string, so an LLM reading the
-    tool output cannot mis-scale the number.
+def format_toman(toman: Optional[float]) -> Optional[str]:
     """
-    t = None if toman is None else int(toman)
-    o = None if original_toman in (None, 0) else int(original_toman)
+    Formats a numeric Toman value into a human-readable Persian string.
+    Example: 34000000 -> '34,000,000 تومان'
+    """
+    if toman is None: return None
+    return f"{toman:,.0f} تومان"
+
+def price_block(
+    toman: Optional[float], 
+    original_toman: Optional[float] = None, 
+    discount_percent: Optional[float] = None
+) -> dict:
+    """
+    Creates a standardized price dictionary used across the MCP server.
+    This ensures that both Python and JS runtimes output the same shape.
+    """
     return {
-        "toman": t,
-        "rial": toman_to_rial(t),
-        "display": format_toman(t),
-        "original_toman": o,
-        "original_rial": toman_to_rial(o),
-        "original_display": format_toman(o),
+        "toman": toman,
+        "rial": toman_to_rial(toman),
+        "display": format_toman(toman),
+        "original_toman": original_toman,
+        "original_rial": toman_to_rial(original_toman),
+        "original_display": format_toman(original_toman),
         "discount_percent": discount_percent,
         "currency": "IRT",
-        "currency_note": "toman is authoritative; rial = toman * 10",
     }
