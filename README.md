@@ -11,47 +11,53 @@ A high-performance Model Context Protocol (MCP) server for [SnappShop](https://s
 - **Strict Normalization**: Ensures identical data shapes between Python and JavaScript runtimes.
 - **Currency Safety**: Explicitly handles the Toman/Rial (1:10) conversion to prevent pricing errors.
 
-## 🛠️ Architecture
+## 🚀 Quick Test (Live Demo)
+You can test the MCP protocol implementation directly via the ArvanCloud Edge deployment:
+👉 **Live Endpoint**: `https://snappshop.dr98mav-hhdrz.arvanedge.ir`
 
-### 🧬 Normalization Contract
-To ensure the LLM receives consistent data regardless of the transport layer, both runtimes follow a shared contract:
-- **ProductCard**: Standardized search result containing price, slug, and rating.
-- **ProductDetail**: Comprehensive detail including attributes, images, and vendor offers.
+**Test it in your browser:**
+- List Tools: `https://snappshop.dr98mav-hhdrz.arvanedge.ir/tools`
+- *Note: The `/call` endpoint requires a JSON POST request to execute tools.*
 
-### 🌐 Deployment Options
+## 📖 What is MCP?
+The **Model Context Protocol (MCP)** is an open standard that allows AI models to connect to external tools and data sources. Instead of the AI just "guessing" or using old training data, an MCP server gives the AI **real-time capabilities**.
+
+**How it works with SnappShop:**
+1. **Claude** realizes you want to find a product on SnappShop.
+2. **Claude** sends a request to the MCP server: `"Call search_products with query='Samsung Galaxy'"`.
+3. **The Server** fetches live data from the API, normalizes it, and sends it back.
+4. **Claude** reads the live data and gives you an accurate answer with real prices and links.
+
+## 🛠️ Deployment & Configuration
 
 ### 1. Local Python Server
-Run as a local process for Claude Desktop.
+Best for users with a local Python environment.
 ```bash
-# Install dependencies
 pip install -r requirements.txt
-
-# Run the server
 python server.py
 ```
 
-### 2. ArvanCloud Edge (Recommended for Production)
-Deploy the unified JavaScript worker to ArvanCloud Edge for direct access to the Iranian API.
-- **File**: `worker/src/arvan_edge_mcp.js`
-- **Benefits**: No VPN required, ultra-low latency, serverless scaling.
+### 2. ArvanCloud Edge (Production)
+Deploy `worker/src/arvan_edge_mcp.js` to ArvanCloud Edge. This is the recommended way for global users as it handles the Iranian network egress automatically.
 
 ## ⚙️ Claude Desktop Configuration
 
-Add the following to your `claude_desktop_config.json`:
+Add the following to your `claude_desktop_config.json` (usually located at `%APPDATA%\Claude\claude_desktop_config.json` on Windows).
 
-### Using Local Python:
+### Option A: Using Local Python (Direct)
 ```json
 {
   "mcpServers": {
     "snappshop-local": {
       "command": "python",
-      "args": ["C:/path/to/snappshop-mcp/server.py"]
+      "args": ["C:/Users/dot1mav/Documents/GitHub/snappshop-mcp/server.py"]
     }
   }
 }
 ```
 
-### Using ArvanCloud Edge:
+### Option B: Using the ArvanCloud Edge (via Inspector Bridge)
+Since Claude Desktop expects a local process, we use the MCP Inspector to tunnel the remote Edge server into Claude.
 ```json
 {
   "mcpServers": {
@@ -60,7 +66,7 @@ Add the following to your `claude_desktop_config.json`:
       "args": [
         "-y",
         "@modelcontextprotocol/inspector",
-        "https://your-edge-function.arvancloud.ir"
+        "https://snappshop.dr98mav-hhdrz.arvanedge.ir"
       ]
     }
   }
@@ -68,11 +74,10 @@ Add the following to your `claude_desktop_config.json`:
 ```
 
 ## 📁 Project Structure
-
-- `snappshop/`: Python core logic (Normalization, API, Units).
+- `snappshop/`: Python core logic.
 - `worker/`: ArvanCloud Edge implementation.
-- `fixtures/`: Live API samples for regression testing.
-- `contract.md`: Definition of the shared data shapes.
+- `fixtures/`: Live API samples for testing.
+- `contract.md`: The shared data specification.
 
 ---
 Developed for the MCP ecosystem. 🚀
